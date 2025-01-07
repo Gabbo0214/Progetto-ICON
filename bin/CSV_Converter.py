@@ -5,6 +5,8 @@ import json
 def createCSVDataset():
     input_file = 'dataset/restaurantsMeilisearch.json'
     output_file = 'restaurantList.csv'
+    
+    columns_to_exclude = ['picture', 'picture_author', 'picture_author_profile_link']
 
     try:
         with open(input_file, 'r', encoding='utf-8') as json_file:
@@ -12,6 +14,12 @@ def createCSVDataset():
             
             if not isinstance(data, list):
                 raise ValueError("Il file JSON non contiene una lista di oggetti.")
+            
+            # Rimuovi le colonne specificate da ogni elemento
+            for entry in data:
+                for col in columns_to_exclude:
+                    if col in entry:
+                        del entry[col]
 
             # Definisci i campi basandoti sulle chiavi del primo elemento
             fieldnames = data[0].keys()

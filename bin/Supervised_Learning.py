@@ -1,5 +1,6 @@
 import csv
 from collections import defaultdict
+from CSV_Converter import createCSVDataset
 import math
 
 # Carica i dati dal file CSV
@@ -47,6 +48,7 @@ def predict_category(description, word_counts, category_counts):
 
 # Esegui il modello
 def main():
+    createCSVDataset
     csv_file = 'restaurantList.csv'  # Nome del file CSV
     descriptions, categories = load_data_from_csv(csv_file)
     
