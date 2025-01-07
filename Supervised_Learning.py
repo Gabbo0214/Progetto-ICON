@@ -10,7 +10,7 @@ def load_data_from_csv(csv_file):
         reader = csv.DictReader(file)
         for row in reader:
             descriptions.append(row['description'])
-            categories.append(row['category'])
+            categories.append(row['categories'])
     return descriptions, categories
 
 # Prepara i dati per Naive Bayes
@@ -47,7 +47,7 @@ def predict_category(description, word_counts, category_counts):
 
 # Esegui il modello
 def main():
-    csv_file = 'restaurant_data.csv'  # Nome del file CSV
+    csv_file = 'restaurantList.csv'  # Nome del file CSV
     descriptions, categories = load_data_from_csv(csv_file)
     
     # Divide i dati in training e test set (80% training, 20% test)
