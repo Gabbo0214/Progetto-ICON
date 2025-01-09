@@ -73,7 +73,7 @@ def main():
     
     # Accuratezza
     accuracy = correct / len(test_descriptions)
-    print(f"Accuratezza: {accuracy:.2f}")
+    print(f"Accuratezza: {accuracy * 100:.2f}%")
 
 # Avvia il programma
 if __name__ == "__main__":
