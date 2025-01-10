@@ -1,0 +1,3602 @@
+[
+    {
+        "id": 0,
+        "name": "Fat Brasserie",
+        "description": "SVIs mission is to deliver quality products at affordable prices to our independent retailers, wholesalers and food service partners around the world by providing international procurement, distribution, marketing and supply chain management.",
+        "categories": "Italian food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 1,
+        "name": "Spice Pub",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "Vegetarian",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 2,
+        "name": "Fast Box",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "Fast food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 3,
+        "name": "Hungry Bar & Grill",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "Barbecue",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 4,
+        "name": "Smokestack Juice Bar",
+        "description": "Pizza, pasta and Mandolino are our most loved words!.",
+        "categories": "Italian food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 5,
+        "name": "Salty Subs",
+        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "categories": "Brunch",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 6,
+        "name": "The green leaf",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "Vegetarian",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 7,
+        "name": "English Monsieur",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Fine dining",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 8,
+        "name": "The cheeser winer",
+        "description": "The best cheese, wine and meat your money can buy in this restaurant that lives and breathes by France's cuisine.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 9,
+        "name": "Swell Eatery",
+        "description": "Our mission is to provide the best and highest quality fine dining experience money can buy.",
+        "categories": "Fine dining",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 10,
+        "name": "Green White and Red Coffee",
+        "description": "The objective is to deliver the best food one of the most beloved countries can offer. We bring the best pizzas, pasta e other specialties from our italian chefs.",
+        "categories": "Italian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 11,
+        "name": "The greasy mafioso",
+        "description": "Mamma mia, the spaghetti at this pizzeria are unbeatable!.",
+        "categories": "Italian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 12,
+        "name": "Sugar Sushi",
+        "description": "Sushi, Sashimi, Onigiri, you name it, we have it.",
+        "categories": "Japanese food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Salmon Sashimi"
+    },
+    {
+        "id": 13,
+        "name": "Golden Eatery",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality cheese, wine and meat ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "French food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 14,
+        "name": "Silver Pizza King",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To provide amazing italian food, with italian vegetables and meat.",
+        "categories": "Italian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Silver Leaf Pizza"
+    },
+    {
+        "id": 15,
+        "name": "SWeeding Tree",
+        "description": "We love greenery in our parks and in our bellies. Try our Vegetarian Porkchop and our vegan meatballs.",
+        "categories": "Vegetarian",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 16,
+        "name": "Sweet Coffee",
+        "description": "Our mission has been to help people achieve their health and wellness goals. Cheese and wine, though weve changed over the years, our values have remained the same.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 17,
+        "name": "Spice Kitchen",
+        "description": "Quick and easy lunch and dinners. Delicious, fast greasy burgers",
+        "categories": "Fast food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 18,
+        "name": "Hungry Gastropub",
+        "description": "Yoshinoya is in business to create the structure and systems needed to allow our customers access to the majority of their away-from-home daily meal requirements on a one-stop-shop basis. All our products shall be of the highest quality and value, be healthy, nutritious and provided with outstanding personal services at the lowest possible prices consistent with a fair return on investment for our shareholders, job enhancementsecurity for our employees and a level of community involvement by everyone connected with our business. All of our products and services shall be delivered consistently and measured one satisfied customer at a time, whether by company-owned or franchised operations, in superior, clean, convenient, fun and friendly neighborhood environments. We pledge to make Yoshinoya the best place to eat and the best place to work.",
+        "categories": "Fast food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 19,
+        "name": "The golden pigeon",
+        "description": "No food leaves our kitchen that we ourselves would not eat. The finest dining only here",
+        "categories": "Fine dining",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 20,
+        "name": "QWA Sushi",
+        "description": "The freshest fishes and Japan's skillset come together to bring a piece of Hokkaido here in America.",
+        "categories": "Japanese Sushi",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chef's Special cut"
+    },
+    {
+        "id": 21,
+        "name": "Spice Spoon",
+        "description": "Fine dining and finer location. Amazing view meets amazing food",
+        "categories": "Fine dining",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 22,
+        "name": "Grey Eagle",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Fine dining",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 23,
+        "name": "184 Deli",
+        "description": "The spiciest curry in town.",
+        "categories": "Indian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 24,
+        "name": "Orange Eatery",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "Brunch",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 25,
+        "name": "Spice Pub",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 26,
+        "name": "39 Eats",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "Brunch",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 27,
+        "name": "Green Pizza",
+        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "categories": "Fast food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 28,
+        "name": "72 Pizza",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "Vegetarian",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 29,
+        "name": "3762 BBQ",
+        "description": "BBQ place that uses the best steaks and ribs in town. Our meat is always fresh and delicious",
+        "categories": "Barbecue",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 30,
+        "name": "Belly Kitchen",
+        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "categories": "French food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 31,
+        "name": "Blue Box",
+        "description": "Yoshinoya is in business to create the structure and systems needed to allow our customers access to the majority of their away-from-home daily meal requirements on a one-stop-shop basis. All our products shall be of the highest quality and value, be healthy, nutritious and provided with outstanding personal services at the lowest possible prices consistent with a fair return on investment for our shareholders, job enhancementsecurity for our employees and a level of community involvement by everyone connected with our business. All of our products and services shall be delivered consistently and measured one satisfied customer at a time, whether by company-owned or franchised operations, in superior, clean, convenient, fun and friendly neighborhood environments. We pledge to make Yoshinoya the best place to eat and the best place to work.",
+        "categories": "Fine dining",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 32,
+        "name": "Belly Pub",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "French food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 33,
+        "name": "Belly Bakery",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Italian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 34,
+        "name": "LG Eats",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "Vegetarian",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 35,
+        "name": "Fast Cafe",
+        "description": "To deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.",
+        "categories": "Italian food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 36,
+        "name": "Orange Creamery",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 37,
+        "name": "KR Shakes",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "French food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 38,
+        "name": "Fast Bakery",
+        "description": "To deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.",
+        "categories": "Italian food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 39,
+        "name": "Silver Eatery",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "French food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 40,
+        "name": "Smokestack Grill",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 41,
+        "name": "Silver Curry",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Fine dining",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 42,
+        "name": "Hungry Coffee",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "Italian food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 43,
+        "name": "Belly Diner",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "Fine dining",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 44,
+        "name": "43 Diner",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "Brunch",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 45,
+        "name": "UX Box",
+        "description": "Our mission is to be a leader in the distribution and merchandising of food, pharmacy, health and personal care items, seasonal merchandise, and related products and services. We place considerable importance on forging strong supplier partnerships. Our suppliers, large or small, local or global, are essential components in accomplishing our mission.",
+        "categories": "Fast food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 46,
+        "name": "Fat Creamery",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "Fast food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 47,
+        "name": "Blue Creamery",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To be a giving member of the Ithaca community and to use our restaurant to improve the quality of life in the Finger Lakes region.",
+        "categories": "Italian food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 48,
+        "name": "557 Eatery",
+        "description": "To deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.",
+        "categories": "Fast food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 49,
+        "name": "Fat Cafe",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "Vegetarian",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 50,
+        "name": "Blue Plate House",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "Brunch",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 51,
+        "name": "Thirsty Sushi",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "Brunch",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 52,
+        "name": "Hungry Eatery",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Italian food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 53,
+        "name": "Blue Plate Bar & Grill",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "French food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 54,
+        "name": "Spice Sushi",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To be a giving member of the Ithaca community and to use our restaurant to improve the quality of life in the Finger Lakes region.",
+        "categories": "Italian food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 55,
+        "name": "Orange Box",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Italian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 56,
+        "name": "Orange House",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "Vegetarian",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 57,
+        "name": "Thirsty Creamery",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Vegetarian",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 58,
+        "name": "OH Kitchen",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "Italian food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 59,
+        "name": "Thirsty Pub",
+        "description": "Yoshinoya is in business to create the structure and systems needed to allow our customers access to the majority of their away-from-home daily meal requirements on a one-stop-shop basis. All our products shall be of the highest quality and value, be healthy, nutritious and provided with outstanding personal services at the lowest possible prices consistent with a fair return on investment for our shareholders, job enhancementsecurity for our employees and a level of community involvement by everyone connected with our business. All of our products and services shall be delivered consistently and measured one satisfied customer at a time, whether by company-owned or franchised operations, in superior, clean, convenient, fun and friendly neighborhood environments. We pledge to make Yoshinoya the best place to eat and the best place to work.",
+        "categories": "French food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 60,
+        "name": "Big Steakhouse",
+        "description": "Yoshinoya is in business to create the structure and systems needed to allow our customers access to the majority of their away-from-home daily meal requirements on a one-stop-shop basis. All our products shall be of the highest quality and value, be healthy, nutritious and provided with outstanding personal services at the lowest possible prices consistent with a fair return on investment for our shareholders, job enhancementsecurity for our employees and a level of community involvement by everyone connected with our business. All of our products and services shall be delivered consistently and measured one satisfied customer at a time, whether by company-owned or franchised operations, in superior, clean, convenient, fun and friendly neighborhood environments. We pledge to make Yoshinoya the best place to eat and the best place to work.",
+        "categories": "Italian food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 61,
+        "name": "Silver Creamery",
+        "description": "To achieve and maintain such distinction in food and wine, service, atmosphere and setting that the restaurant gains a first class reputation for gastronomy, gracious and informed hospitality, comfort and beauty which draws new and repeat customers year after year. To achieve the above whilst upholding staff policies and practices which promote a fair and positive working environment. To be aware of and act on our responsibilities as a good corporate citizen to  provide a safe, clean and attractive place for guests to enjoy and for employees to work in - ensure ecologically sound management practices at the restaurant and in our surrounding gardens and woods - undertake meaningful involvement of Restaurant Les Foug\u00c3\u00a8res in selected charitable activities in our community and region.",
+        "categories": "Brunch",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 62,
+        "name": "Smokestack Kitchen",
+        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "categories": "Brunch",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 63,
+        "name": "Sugar Sushi",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "Vegetarian",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 64,
+        "name": "Hungry Eatery",
+        "description": "To achieve and maintain such distinction in food and wine, service, atmosphere and setting that the restaurant gains a first class reputation for gastronomy, gracious and informed hospitality, comfort and beauty which draws new and repeat customers year after year. To achieve the above whilst upholding staff policies and practices which promote a fair and positive working environment. To be aware of and act on our responsibilities as a good corporate citizen to  provide a safe, clean and attractive place for guests to enjoy and for employees to work in - ensure ecologically sound management practices at the restaurant and in our surrounding gardens and woods - undertake meaningful involvement of Restaurant Les Foug\u00c3\u00a8res in selected charitable activities in our community and region.",
+        "categories": "Brunch",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 65,
+        "name": "Spice Grill",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 66,
+        "name": "1730 Gastropub",
+        "description": "To deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.",
+        "categories": "Brunch",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 67,
+        "name": "Sweet Pub",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Fast food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 68,
+        "name": "Smokestack Creamery",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "French food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 69,
+        "name": "VNI Grill",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "Italian food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 70,
+        "name": "Belly Bar & Grill",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "French food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 71,
+        "name": "Salty Shakes",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To be a giving member of the Ithaca community and to use our restaurant to improve the quality of life in the Finger Lakes region.",
+        "categories": "Fast food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 72,
+        "name": "Fat Burger",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 73,
+        "name": "Fat Spoon",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "Vegetarian",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 74,
+        "name": "Smokestack Eats",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Brunch",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 75,
+        "name": "Blue Plate King",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "Vegetarian",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 76,
+        "name": "Golden Burger",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "Fast food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 77,
+        "name": "Sugar Grill & Tap",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "French food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 78,
+        "name": "Green Curry",
+        "description": "To achieve and maintain such distinction in food and wine, service, atmosphere and setting that the restaurant gains a first class reputation for gastronomy, gracious and informed hospitality, comfort and beauty which draws new and repeat customers year after year. To achieve the above whilst upholding staff policies and practices which promote a fair and positive working environment. To be aware of and act on our responsibilities as a good corporate citizen to  provide a safe, clean and attractive place for guests to enjoy and for employees to work in - ensure ecologically sound management practices at the restaurant and in our surrounding gardens and woods - undertake meaningful involvement of Restaurant Les Foug\u00c3\u00a8res in selected charitable activities in our community and region.",
+        "categories": "Vegetarian",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 79,
+        "name": "XOB Bar & Grill",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "French food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 80,
+        "name": "Silver Pizza",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "French food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 81,
+        "name": "Sugar Spoon",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 82,
+        "name": "Red Grill & Tap",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "Fast food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 83,
+        "name": "Fat Bakery",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Vegetarian",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 84,
+        "name": "Big Burger",
+        "description": "To deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.",
+        "categories": "Vegetarian",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 85,
+        "name": "Belly Grill",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Italian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 86,
+        "name": "Salty Kitchen",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Italian food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 87,
+        "name": "Thirsty Eatery",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "French food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 88,
+        "name": "Silver Diner",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Vegetarian",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 89,
+        "name": "Green Creamery",
+        "description": "SVIs mission is to deliver quality products at affordable prices to our independent retailers, wholesalers and food service partners around the world by providing international procurement, distribution, marketing and supply chain management.",
+        "categories": "Fast food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 90,
+        "name": "Smokestack Spoon",
+        "description": "SVIs mission is to deliver quality products at affordable prices to our independent retailers, wholesalers and food service partners around the world by providing international procurement, distribution, marketing and supply chain management.",
+        "categories": "Vegetarian",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 91,
+        "name": "Silver Shakes",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 92,
+        "name": "Blue Plate Bakery",
+        "description": "SVIs mission is to deliver quality products at affordable prices to our independent retailers, wholesalers and food service partners around the world by providing international procurement, distribution, marketing and supply chain management.",
+        "categories": "Fast food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 93,
+        "name": "Blue Box",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "French food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 94,
+        "name": "Sweet Pub",
+        "description": "SVIs mission is to deliver quality products at affordable prices to our independent retailers, wholesalers and food service partners around the world by providing international procurement, distribution, marketing and supply chain management.",
+        "categories": "Brunch",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 95,
+        "name": "Blue Plate House",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Fast food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 96,
+        "name": "Fat Kitchen",
+        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "categories": "French food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 97,
+        "name": "Fat Eats",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Brunch",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 98,
+        "name": "Blue Plate Pizza",
+        "description": "Our mission is to be a leader in the distribution and merchandising of food, pharmacy, health and personal care items, seasonal merchandise, and related products and services. We place considerable importance on forging strong supplier partnerships. Our suppliers, large or small, local or global, are essential components in accomplishing our mission.",
+        "categories": "Vegetarian",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 99,
+        "name": "Belly Steakhouse",
+        "description": "To deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.",
+        "categories": "Vegetarian",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 100,
+        "name": "Fast Coffee",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 101,
+        "name": "Red Coffee",
+        "description": "Yoshinoya is in business to create the structure and systems needed to allow our customers access to the majority of their away-from-home daily meal requirements on a one-stop-shop basis. All our products shall be of the highest quality and value, be healthy, nutritious and provided with outstanding personal services at the lowest possible prices consistent with a fair return on investment for our shareholders, job enhancementsecurity for our employees and a level of community involvement by everyone connected with our business. All of our products and services shall be delivered consistently and measured one satisfied customer at a time, whether by company-owned or franchised operations, in superior, clean, convenient, fun and friendly neighborhood environments. We pledge to make Yoshinoya the best place to eat and the best place to work.",
+        "categories": "French food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 102,
+        "name": "Hungry Cafe",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Brunch",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 103,
+        "name": "98 Cafe",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "French food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 104,
+        "name": "Thirsty Diner",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "Italian food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 105,
+        "name": "Sugar Sushi",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Fast food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 106,
+        "name": "Green King",
+        "description": "To achieve and maintain such distinction in food and wine, service, atmosphere and setting that the restaurant gains a first class reputation for gastronomy, gracious and informed hospitality, comfort and beauty which draws new and repeat customers year after year. To achieve the above whilst upholding staff policies and practices which promote a fair and positive working environment. To be aware of and act on our responsibilities as a good corporate citizen to  provide a safe, clean and attractive place for guests to enjoy and for employees to work in - ensure ecologically sound management practices at the restaurant and in our surrounding gardens and woods - undertake meaningful involvement of Restaurant Les Foug\u00c3\u00a8res in selected charitable activities in our community and region.",
+        "categories": "Italian food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 107,
+        "name": "Green Steakhouse",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To be a giving member of the Ithaca community and to use our restaurant to improve the quality of life in the Finger Lakes region.",
+        "categories": "Fine dining",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 108,
+        "name": "Red Diner",
+        "description": "Yoshinoya is in business to create the structure and systems needed to allow our customers access to the majority of their away-from-home daily meal requirements on a one-stop-shop basis. All our products shall be of the highest quality and value, be healthy, nutritious and provided with outstanding personal services at the lowest possible prices consistent with a fair return on investment for our shareholders, job enhancementsecurity for our employees and a level of community involvement by everyone connected with our business. All of our products and services shall be delivered consistently and measured one satisfied customer at a time, whether by company-owned or franchised operations, in superior, clean, convenient, fun and friendly neighborhood environments. We pledge to make Yoshinoya the best place to eat and the best place to work.",
+        "categories": "Fast food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 109,
+        "name": "Big Subs",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Fast food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 110,
+        "name": "7737 Sushi",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Italian food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 111,
+        "name": "Blue Grill & Tap",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "French food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 112,
+        "name": "Hungry Grill",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "Brunch",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 113,
+        "name": "Orange Cafe",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To be a giving member of the Ithaca community and to use our restaurant to improve the quality of life in the Finger Lakes region.",
+        "categories": "Vegetarian",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 114,
+        "name": "Hungry Subs",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "Fine dining",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 115,
+        "name": "Fat Bakery",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "French food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 116,
+        "name": "496 Juice Bar",
+        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 117,
+        "name": "Belly Pizza",
+        "description": "SVIs mission is to deliver quality products at affordable prices to our independent retailers, wholesalers and food service partners around the world by providing international procurement, distribution, marketing and supply chain management.",
+        "categories": "Brunch",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 118,
+        "name": "AHP Bakery",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "Italian food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 119,
+        "name": "28 Kitchen",
+        "description": "SVIs mission is to deliver quality products at affordable prices to our independent retailers, wholesalers and food service partners around the world by providing international procurement, distribution, marketing and supply chain management.",
+        "categories": "Italian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 120,
+        "name": "Fat House",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To be a giving member of the Ithaca community and to use our restaurant to improve the quality of life in the Finger Lakes region.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 121,
+        "name": "Blue Plate King",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "Fine dining",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 122,
+        "name": "Blue Brasserie",
+        "description": "To deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.",
+        "categories": "Fine dining",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 123,
+        "name": "Big Subs",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "French food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 124,
+        "name": "Orange Pub",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Fast food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 125,
+        "name": "Orange Sushi",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "Fast food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 126,
+        "name": "Big Curry",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 127,
+        "name": "Silver Spoon",
+        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "categories": "Italian food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 128,
+        "name": "Salty BBQ",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "Barbecue",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 129,
+        "name": "Big Grill",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "Italian food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 130,
+        "name": "Smokestack Coffee",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "French food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 131,
+        "name": "Blue Plate House",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Fine dining",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 132,
+        "name": "Blue Plate Coffee",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "Brunch",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 133,
+        "name": "BX Diner",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "Vegetarian",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 134,
+        "name": "Salty House",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "Italian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 135,
+        "name": "Green Cafe",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Italian food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 136,
+        "name": "Smokestack Steakhouse",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "French food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 137,
+        "name": "85 Bakery",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "Italian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 138,
+        "name": "Golden BBQ",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "Barbecue",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 139,
+        "name": "Salty BBQ",
+        "description": "To achieve and maintain such distinction in food and wine, service, atmosphere and setting that the restaurant gains a first class reputation for gastronomy, gracious and informed hospitality, comfort and beauty which draws new and repeat customers year after year. To achieve the above whilst upholding staff policies and practices which promote a fair and positive working environment. To be aware of and act on our responsibilities as a good corporate citizen to  provide a safe, clean and attractive place for guests to enjoy and for employees to work in - ensure ecologically sound management practices at the restaurant and in our surrounding gardens and woods - undertake meaningful involvement of Restaurant Les Foug\u00c3\u00a8res in selected charitable activities in our community and region.",
+        "categories": "Barbecue",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 140,
+        "name": "Silver Grill & Tap",
+        "description": "SVIs mission is to deliver quality products at affordable prices to our independent retailers, wholesalers and food service partners around the world by providing international procurement, distribution, marketing and supply chain management.",
+        "categories": "Brunch",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 141,
+        "name": "Fast King",
+        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "categories": "Fine dining",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 142,
+        "name": "Salty Dragon",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "French food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 143,
+        "name": "Hungry Burger",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "Vegetarian",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 144,
+        "name": "Big Eatery",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To be a giving member of the Ithaca community and to use our restaurant to improve the quality of life in the Finger Lakes region.",
+        "categories": "Brunch",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 145,
+        "name": "Silver Pizza",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "Fast food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 146,
+        "name": "865 Juice Bar",
+        "description": "To deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.",
+        "categories": "Fast food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 147,
+        "name": "Golden Bar & Grill",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "Brunch",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 148,
+        "name": "Orange Brasserie",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Brunch",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 149,
+        "name": "Orange Pub",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "Italian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 150,
+        "name": "Orange House",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To be a giving member of the Ithaca community and to use our restaurant to improve the quality of life in the Finger Lakes region.",
+        "categories": "Fast food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 151,
+        "name": "63 Coffee",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Italian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 152,
+        "name": "EJY Eatery",
+        "description": "Yoshinoya is in business to create the structure and systems needed to allow our customers access to the majority of their away-from-home daily meal requirements on a one-stop-shop basis. All our products shall be of the highest quality and value, be healthy, nutritious and provided with outstanding personal services at the lowest possible prices consistent with a fair return on investment for our shareholders, job enhancementsecurity for our employees and a level of community involvement by everyone connected with our business. All of our products and services shall be delivered consistently and measured one satisfied customer at a time, whether by company-owned or franchised operations, in superior, clean, convenient, fun and friendly neighborhood environments. We pledge to make Yoshinoya the best place to eat and the best place to work.",
+        "categories": "Italian food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 153,
+        "name": "XDF Brasserie",
+        "description": "Our mission is to be a leader in the distribution and merchandising of food, pharmacy, health and personal care items, seasonal merchandise, and related products and services. We place considerable importance on forging strong supplier partnerships. Our suppliers, large or small, local or global, are essential components in accomplishing our mission.",
+        "categories": "Fast food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 154,
+        "name": "Smokestack Creamery",
+        "description": "Yoshinoya is in business to create the structure and systems needed to allow our customers access to the majority of their away-from-home daily meal requirements on a one-stop-shop basis. All our products shall be of the highest quality and value, be healthy, nutritious and provided with outstanding personal services at the lowest possible prices consistent with a fair return on investment for our shareholders, job enhancementsecurity for our employees and a level of community involvement by everyone connected with our business. All of our products and services shall be delivered consistently and measured one satisfied customer at a time, whether by company-owned or franchised operations, in superior, clean, convenient, fun and friendly neighborhood environments. We pledge to make Yoshinoya the best place to eat and the best place to work.",
+        "categories": "French food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 155,
+        "name": "Sweet BBQ",
+        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "categories": "Barbecue",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 156,
+        "name": "294 Bakery",
+        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "categories": "Italian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 157,
+        "name": "Golden Grill & Tap",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To be a giving member of the Ithaca community and to use our restaurant to improve the quality of life in the Finger Lakes region.",
+        "categories": "Italian food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 158,
+        "name": "Green Bakery",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "Fast food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 159,
+        "name": "HDD Coffee",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Vegetarian",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 160,
+        "name": "Sugar Steakhouse",
+        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 161,
+        "name": "Sugar Pizza",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "French food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 162,
+        "name": "Silver Shakes",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "French food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 163,
+        "name": "Red Gastropub",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Vegetarian",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 164,
+        "name": "Fast Diner",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "Fine dining",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 165,
+        "name": "Sugar Shakes",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 166,
+        "name": "Big BBQ",
+        "description": "To deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.",
+        "categories": "Barbecue",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 167,
+        "name": "Sweet Gastropub",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "categories": "Italian food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 168,
+        "name": "8751 Cafe",
+        "description": "To achieve and maintain such distinction in food and wine, service, atmosphere and setting that the restaurant gains a first class reputation for gastronomy, gracious and informed hospitality, comfort and beauty which draws new and repeat customers year after year. To achieve the above whilst upholding staff policies and practices which promote a fair and positive working environment. To be aware of and act on our responsibilities as a good corporate citizen to  provide a safe, clean and attractive place for guests to enjoy and for employees to work in - ensure ecologically sound management practices at the restaurant and in our surrounding gardens and woods - undertake meaningful involvement of Restaurant Les Foug\u00c3\u00a8res in selected charitable activities in our community and region.",
+        "categories": "Vegetarian",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 169,
+        "name": "Big Shakes",
+        "description": "To deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.",
+        "categories": "Vegetarian",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 170,
+        "name": "Belly Pizza",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 171,
+        "name": "Green Shakes",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "Italian food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 172,
+        "name": "Fat Cafe",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To be a giving member of the Ithaca community and to use our restaurant to improve the quality of life in the Finger Lakes region.",
+        "categories": "Brunch",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 173,
+        "name": "Fat Spoon",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "Brunch",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 174,
+        "name": "Thirsty Gastropub",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "Fine dining",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 175,
+        "name": "Fat Pizza",
+        "description": "Yoshinoya is in business to create the structure and systems needed to allow our customers access to the majority of their away-from-home daily meal requirements on a one-stop-shop basis. All our products shall be of the highest quality and value, be healthy, nutritious and provided with outstanding personal services at the lowest possible prices consistent with a fair return on investment for our shareholders, job enhancementsecurity for our employees and a level of community involvement by everyone connected with our business. All of our products and services shall be delivered consistently and measured one satisfied customer at a time, whether by company-owned or franchised operations, in superior, clean, convenient, fun and friendly neighborhood environments. We pledge to make Yoshinoya the best place to eat and the best place to work.",
+        "categories": "Fine dining",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 176,
+        "name": "Salty Shakes",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "Italian food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 177,
+        "name": "Spice Pub",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Brunch",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 178,
+        "name": "Fast Shakes",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "Fast food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 179,
+        "name": "Sugar Kitchen",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To be a giving member of the Ithaca community and to use our restaurant to improve the quality of life in the Finger Lakes region.",
+        "categories": "Italian food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 180,
+        "name": "Big Kitchen",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "Italian food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 181,
+        "name": "Hungry Brasserie",
+        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
+        "categories": "Italian food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 182,
+        "name": "Golden BBQ",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "Barbecue",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 183,
+        "name": "Silver Kitchen",
+        "description": "To achieve and maintain such distinction in food and wine, service, atmosphere and setting that the restaurant gains a first class reputation for gastronomy, gracious and informed hospitality, comfort and beauty which draws new and repeat customers year after year. To achieve the above whilst upholding staff policies and practices which promote a fair and positive working environment. To be aware of and act on our responsibilities as a good corporate citizen to  provide a safe, clean and attractive place for guests to enjoy and for employees to work in - ensure ecologically sound management practices at the restaurant and in our surrounding gardens and woods - undertake meaningful involvement of Restaurant Les Foug\u00c3\u00a8res in selected charitable activities in our community and region.",
+        "categories": "Vegetarian",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 184,
+        "name": "2994 Pub",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "Vegetarian",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 185,
+        "name": "Green House",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "Italian food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 186,
+        "name": "44 Coffee",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Italian food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 187,
+        "name": "CPU Grill & Tap",
+        "description": "We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.",
+        "categories": "Brunch",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 188,
+        "name": "520 Pub",
+        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "categories": "Vegetarian",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Grilled Vegetable Platter"
+    },
+    {
+        "id": 189,
+        "name": "Red Kitchen",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To be a giving member of the Ithaca community and to use our restaurant to improve the quality of life in the Finger Lakes region.",
+        "categories": "Fine dining",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 190,
+        "name": "57 Grill & Tap",
+        "description": "Yoshinoya is in business to create the structure and systems needed to allow our customers access to the majority of their away-from-home daily meal requirements on a one-stop-shop basis. All our products shall be of the highest quality and value, be healthy, nutritious and provided with outstanding personal services at the lowest possible prices consistent with a fair return on investment for our shareholders, job enhancementsecurity for our employees and a level of community involvement by everyone connected with our business. All of our products and services shall be delivered consistently and measured one satisfied customer at a time, whether by company-owned or franchised operations, in superior, clean, convenient, fun and friendly neighborhood environments. We pledge to make Yoshinoya the best place to eat and the best place to work.",
+        "categories": "Fine dining",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Beef Wellington"
+    },
+    {
+        "id": 191,
+        "name": "Sweet Gastropub",
+        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "categories": "Brunch",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 192,
+        "name": "2292 Pub",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "Brunch",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 193,
+        "name": "Green Gastropub",
+        "description": "Our mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 194,
+        "name": "Blue Bar & Grill",
+        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "categories": "Fast food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 195,
+        "name": "UT Creamery",
+        "description": "To deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.",
+        "categories": "Italian food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Chef's Special"
+    },
+    {
+        "id": 196,
+        "name": "Hungry Coffee",
+        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "categories": "French food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 197,
+        "name": "Blue Plate Sushi",
+        "description": "Our Mission at Denny\u00e2\u20ac\u2122s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.",
+        "categories": "French food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 198,
+        "name": "Sweet House",
+        "description": "To deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.",
+        "categories": "Fast food",
+        "opening_hour": "6:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 199,
+        "name": "Spice Deli",
+        "description": "SVIs mission is to deliver quality products at affordable prices to our independent retailers, wholesalers and food service partners around the world by providing international procurement, distribution, marketing and supply chain management.",
+        "categories": "Fast food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 200,
+        "name": "The Rustic Table",
+        "description": "Farm-to-table Italian cuisine featuring handmade pasta and seasonal ingredients sourced from local producers.",
+        "categories": "Italian food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Truffle Risotto"
+    },
+    {
+        "id": 201,
+        "name": "Sakura House",
+        "description": "Traditional Japanese cuisine with a modern twist, featuring fresh sushi and authentic ramen.",
+        "categories": "Japanese food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "10:30 PM",
+        "main_dish": "Signature Ramen"
+    },
+    {
+        "id": 202,
+        "name": "Blue Lobster",
+        "description": "Premium seafood restaurant specializing in Mediterranean-style dishes with fresh daily catch.",
+        "categories": "Seafood",
+        "opening_hour": "12:30 PM",
+        "closing_hour": "11:30 PM",
+        "main_dish": "Grilled Sea Bass"
+    },
+    {
+        "id": 203,
+        "name": "Imperial Garden",
+        "description": "Authentic Chinese cuisine featuring Sichuan and Cantonese specialties prepared by master chefs.",
+        "categories": "Chinese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Peking Duck"
+    },
+    {
+        "id": 204,
+        "name": "Gourmet Burger Co",
+        "description": "Premium burger restaurant using select cuts of meat and artisanal ingredients.",
+        "categories": "American food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Signature Burger"
+    },
+    {
+        "id": 205,
+        "name": "Sushi Excellence",
+        "description": "Master sushi chefs create innovative combinations while respecting traditional techniques.",
+        "categories": "Sushi",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Chef's Selection"
+    },
+    {
+        "id": 206,
+        "name": "Mediterranean Pearl",
+        "description": "Coastal Mediterranean cuisine featuring fresh seafood and local ingredients.",
+        "categories": "Mediterranean",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:30 PM",
+        "main_dish": "Seafood Paella"
+    },
+    {
+        "id": 207,
+        "name": "Thai Orchid",
+        "description": "Authentic Thai flavors in a modern setting, featuring traditional recipes with premium ingredients.",
+        "categories": "Thai food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Pad Thai"
+    },
+    {
+        "id": 208,
+        "name": "Fusion Factory",
+        "description": "Innovative fusion cuisine combining Asian and European flavors in creative ways.",
+        "categories": "Fusion",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Asian-Italian Fusion Bowl"
+    },
+    {
+        "id": 209,
+        "name": "The Steakhouse",
+        "description": "Premium steakhouse featuring aged beef and classic American sides.",
+        "categories": "Steakhouse",
+        "opening_hour": "4:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Ribeye Steak"
+    },
+    {
+        "id": 210,
+        "name": "Vegan Paradise",
+        "description": "Creative plant-based cuisine using organic ingredients and innovative cooking techniques.",
+        "categories": "Vegan",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Buddha Bowl"
+    },
+    {
+        "id": 211,
+        "name": "Mexican Fiesta",
+        "description": "Authentic Mexican flavors and traditional recipes in a vibrant atmosphere.",
+        "categories": "Mexican food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Mole Poblano"
+    },
+    {
+        "id": 212,
+        "name": "Indian Spice",
+        "description": "Traditional Indian cuisine with authentic spices and tandoor specialties.",
+        "categories": "Indian food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "10:30 PM",
+        "main_dish": "Butter Chicken"
+    },
+    {
+        "id": 213,
+        "name": "Greek Taverna",
+        "description": "Traditional Greek dishes and mezze in a warm, family-style atmosphere.",
+        "categories": "Greek food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Moussaka"
+    },
+    {
+        "id": 214,
+        "name": "BBQ King",
+        "description": "Southern-style barbecue with house-made sauces and traditional sides.",
+        "categories": "Barbecue",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "9:30 PM",
+        "main_dish": "Smoked Brisket"
+    },
+    {
+        "id": 215,
+        "name": "Korean BBQ House",
+        "description": "Interactive Korean BBQ experience with premium meats and traditional sides.",
+        "categories": "Korean food",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Galbi"
+    },
+    {
+        "id": 216,
+        "name": "French Bistro",
+        "description": "Classic French cuisine in an intimate bistro setting with seasonal menu changes.",
+        "categories": "French food",
+        "opening_hour": "5:30 PM",
+        "closing_hour": "10:30 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 217,
+        "name": "Vietnamese Pho",
+        "description": "Authentic Vietnamese soups and street food favorites.",
+        "categories": "Vietnamese food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Beef Pho"
+    },
+    {
+        "id": 218,
+        "name": "Spanish Tapas",
+        "description": "Traditional Spanish tapas and paella in a lively atmosphere.",
+        "categories": "Spanish food",
+        "opening_hour": "4:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Mixed Tapas"
+    },
+    {
+        "id": 219,
+        "name": "Pizza Paradise",
+        "description": "Authentic Neapolitan pizza made in a wood-fired oven with imported ingredients.",
+        "categories": "Pizza",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Margherita Pizza"
+    },
+    {
+        "id": 220,
+        "name": "Dim Sum Palace",
+        "description": "Traditional Hong Kong-style dim sum served from rolling carts.",
+        "categories": "Dim Sum",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "3:00 PM",
+        "main_dish": "Har Gow"
+    },
+    {
+        "id": 221,
+        "name": "Brazilian Churrasco",
+        "description": "Authentic Brazilian steakhouse with all-you-can-eat grilled meats.",
+        "categories": "Brazilian food",
+        "opening_hour": "4:00 PM",
+        "closing_hour": "10:30 PM",
+        "main_dish": "Picanha"
+    },
+    {
+        "id": 222,
+        "name": "Lebanese Garden",
+        "description": "Traditional Lebanese mezze and grilled specialties in a garden setting.",
+        "categories": "Lebanese food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Mixed Grill"
+    },
+    {
+        "id": 223,
+        "name": "Ramen Bar",
+        "description": "Authentic Japanese ramen with house-made noodles and rich broths.",
+        "categories": "Ramen",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Miso Ramen"
+    },
+    {
+        "id": 224,
+        "name": "Vegetarian Oasis",
+        "description": "Creative vegetarian cuisine using organic and locally sourced ingredients.",
+        "categories": "Vegetarian",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:30 PM",
+        "main_dish": "Quinoa Power Bowl"
+    },
+    {
+        "id": 225,
+        "name": "Seafood Harbor",
+        "description": "Fresh seafood prepared in various international styles with ocean views.",
+        "categories": "Seafood",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Seafood Platter"
+    },
+    {
+        "id": 226,
+        "name": "Persian Palace",
+        "description": "Authentic Persian cuisine featuring traditional kebabs and rice dishes.",
+        "categories": "Persian food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chelo Kebab"
+    },
+    {
+        "id": 227,
+        "name": "Caribbean Flavors",
+        "description": "Vibrant Caribbean dishes with authentic spices and fresh ingredients.",
+        "categories": "Caribbean food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "9:30 PM",
+        "main_dish": "Jerk Chicken"
+    },
+    {
+        "id": 228,
+        "name": "Modern Bistro",
+        "description": "Contemporary European cuisine with seasonal ingredients and innovative techniques.",
+        "categories": "Modern European",
+        "opening_hour": "5:30 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Duck Confit"
+    },
+    {
+        "id": 229,
+        "name": "Argentine Grill",
+        "description": "Traditional Argentine steakhouse featuring premium cuts and chimichurri.",
+        "categories": "Argentine food",
+        "opening_hour": "4:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Asado Mixed Grill"
+    },
+    {
+        "id": 230,
+        "name": "Noodle House",
+        "description": "Asian noodle specialties from various regions with authentic preparations.",
+        "categories": "Asian Fusion",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Dan Dan Noodles"
+    },
+    {
+        "id": 231,
+        "name": "Mediterranean Grill",
+        "description": "Fresh Mediterranean cuisine with emphasis on grilled meats and seafood.",
+        "categories": "Mediterranean",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:30 PM",
+        "main_dish": "Mixed Grill Platter"
+    },
+    {
+        "id": 232,
+        "name": "Street Food Market",
+        "description": "International street food favorites in a modern food hall setting.",
+        "categories": "Street Food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Global Tacos"
+    },
+    {
+        "id": 233,
+        "name": "Hawaiian Poke",
+        "description": "Fresh poke bowls and Hawaiian specialties with fresh fish daily.",
+        "categories": "Hawaiian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Signature Poke Bowl"
+    },
+    {
+        "id": 234,
+        "name": "Moroccan Nights",
+        "description": "Traditional Moroccan tagines and couscous in an authentic setting.",
+        "categories": "Moroccan food",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "10:30 PM",
+        "main_dish": "Lamb Tagine"
+    },
+    {
+        "id": 235,
+        "name": "Craft Beer & Burgers",
+        "description": "Gourmet burgers paired with local craft beers in a casual atmosphere.",
+        "categories": "American food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Craft Beer Burger"
+    },
+    {
+        "id": 236,
+        "name": "Turkish Delight",
+        "description": "Authentic Turkish cuisine featuring kebabs and traditional mezes.",
+        "categories": "Turkish food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Iskender Kebab"
+    },
+    {
+        "id": 237,
+        "name": "Raw Vegan Cafe",
+        "description": "Creative raw vegan dishes and cold-pressed juices in an eco-friendly setting.",
+        "categories": "Raw Vegan",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Living Lasagna"
+    },
+    {
+        "id": 238,
+        "name": "Soul Food Kitchen",
+        "description": "Traditional Southern soul food with family recipes passed down generations.",
+        "categories": "Soul Food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Fried Chicken & Waffles"
+    },
+    {
+        "id": 239,
+        "name": "Pacific Rim",
+        "description": "Fusion cuisine combining flavors from around the Pacific Ocean.",
+        "categories": "Pacific Fusion",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "10:30 PM",
+        "main_dish": "Miso Glazed Black Cod"
+    },
+    {
+        "id": 240,
+        "name": "Gastropub",
+        "description": "Elevated pub fare with craft cocktails and local beers.",
+        "categories": "Gastropub",
+        "opening_hour": "4:00 PM",
+        "closing_hour": "12:00 AM",
+        "main_dish": "Duck Fat Fries"
+    },
+    {
+        "id": 241,
+        "name": "Indonesian Spice",
+        "description": "Traditional Indonesian dishes with authentic spices and preparations.",
+        "categories": "Indonesian food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "9:30 PM",
+        "main_dish": "Nasi Goreng"
+    },
+    {
+        "id": 242,
+        "name": "Alpine Lodge",
+        "description": "Swiss and Austrian alpine cuisine in a cozy mountain-style setting.",
+        "categories": "Alpine food",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheese Fondue"
+    },
+    {
+        "id": 243,
+        "name": "Malaysian Street",
+        "description": "Authentic Malaysian street food favorites in a casual setting.",
+        "categories": "Malaysian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Laksa"
+    },
+    {
+        "id": 244,
+        "name": "Tandoori Express",
+        "description": "North Indian tandoori specialties and curries made to order.",
+        "categories": "Indian food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Tandoori Mixed Grill"
+    },
+    {
+        "id": 245,
+        "name": "Coastal Kitchen",
+        "description": "Fresh seafood prepared with global coastal influences.",
+        "categories": "Seafood",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:30 PM",
+        "main_dish": "Seafood Bouillabaisse"
+    },
+    {
+        "id": 246,
+        "name": "Wine & Tapas",
+        "description": "Spanish wines paired with traditional and modern tapas.",
+        "categories": "Spanish food",
+        "opening_hour": "4:00 PM",
+        "closing_hour": "11:30 PM",
+        "main_dish": "Patatas Bravas"
+    },
+    {
+        "id": 247,
+        "name": "Dumpling House",
+        "description": "Handmade dumplings from various Asian traditions.",
+        "categories": "Asian Fusion",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:30 PM",
+        "main_dish": "Soup Dumplings"
+    },
+    {
+        "id": 248,
+        "name": "African Grill",
+        "description": "Pan-African cuisine featuring traditional grilled meats and stews.",
+        "categories": "African food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Suya Platter"
+    },
+    {
+        "id": 249,
+        "name": "Farm Table",
+        "description": "Farm-to-table American cuisine with daily changing menu.",
+        "categories": "American food",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Daily Special"
+    },
+    {
+        "id": 250,
+        "name": "Taco Lab",
+        "description": "Creative tacos with global influences and craft margaritas.",
+        "categories": "Mexican fusion",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Fusion Tacos"
+    },
+    {
+        "id": 251,
+        "name": "Izakaya Night",
+        "description": "Japanese pub food and sake in a traditional izakaya setting.",
+        "categories": "Japanese food",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "12:00 AM",
+        "main_dish": "Yakitori Set"
+    },
+    {
+        "id": 252,
+        "name": "Curry House",
+        "description": "Authentic British-style curry house with traditional favorites.",
+        "categories": "Indian food",
+        "opening_hour": "4:30 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Chicken Tikka Masala"
+    },
+    {
+        "id": 253,
+        "name": "Nordic Kitchen",
+        "description": "Modern Scandinavian cuisine with foraged ingredients.",
+        "categories": "Nordic food",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Arctic Char"
+    },
+    {
+        "id": 254,
+        "name": "Smokehouse BBQ",
+        "description": "Texas-style barbecue with house-made rubs and sauces.",
+        "categories": "Barbecue",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Smoked Brisket"
+    },
+    {
+        "id": 255,
+        "name": "Pho Express",
+        "description": "Quick-service Vietnamese restaurant specializing in pho and banh mi.",
+        "categories": "Vietnamese food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Special Pho"
+    },
+    {
+        "id": 256,
+        "name": "Athens Grill",
+        "description": "Traditional Greek grill house with authentic souvlaki and gyros.",
+        "categories": "Greek food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Mixed Souvlaki Platter"
+    },
+    {
+        "id": 257,
+        "name": "Dim Sum Garden",
+        "description": "Cantonese dim sum served all day in a modern setting.",
+        "categories": "Chinese food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Dim Sum Sampler"
+    },
+    {
+        "id": 258,
+        "name": "Crepe Corner",
+        "description": "Sweet and savory French crepes made to order.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Complete Crepe"
+    },
+    {
+        "id": 259,
+        "name": "Burger Lab",
+        "description": "Experimental burger combinations with unique toppings and sauces.",
+        "categories": "Burgers",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Experimental Burger"
+    },
+    {
+        "id": 260,
+        "name": "Tempura House",
+        "description": "Japanese tempura specialist with seasonal ingredients.",
+        "categories": "Japanese food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "9:30 PM",
+        "main_dish": "Tempura Set"
+    },
+    {
+        "id": 261,
+        "name": "Pasta Factory",
+        "description": "Fresh pasta made daily with traditional Italian sauces.",
+        "categories": "Italian food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Daily Pasta Special"
+    },
+    {
+        "id": 262,
+        "name": "Seoul Kitchen",
+        "description": "Authentic Korean dishes with traditional banchan sides.",
+        "categories": "Korean food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Bibimbap"
+    },
+    {
+        "id": 263,
+        "name": "Seafood Shack",
+        "description": "Casual seafood restaurant with daily fresh catches.",
+        "categories": "Seafood",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Fish & Chips"
+    },
+    {
+        "id": 264,
+        "name": "Falafel King",
+        "description": "Middle Eastern street food with homemade falafel and shawarma.",
+        "categories": "Middle Eastern",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Falafel Platter"
+    },
+    {
+        "id": 265,
+        "name": "Teppanyaki Grill",
+        "description": "Interactive Japanese teppanyaki cooking experience.",
+        "categories": "Japanese food",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Teppanyaki Set"
+    },
+    {
+        "id": 266,
+        "name": "Pizza Lab",
+        "description": "Experimental pizzas with unique toppings and combinations.",
+        "categories": "Pizza",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Chef's Special Pizza"
+    },
+    {
+        "id": 267,
+        "name": "Caribbean Grill",
+        "description": "Island flavors with jerk specialties and tropical drinks.",
+        "categories": "Caribbean food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Jerk Platter"
+    },
+    {
+        "id": 268,
+        "name": "Healthy Bowl",
+        "description": "Nutritious grain bowls with fresh ingredients and homemade dressings.",
+        "categories": "Health food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Custom Bowl"
+    },
+    {
+        "id": 269,
+        "name": "Thai Spice",
+        "description": "Authentic Thai cuisine with varying spice levels.",
+        "categories": "Thai food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Green Curry"
+    },
+    {
+        "id": 270,
+        "name": "Brew & Bites",
+        "description": "Craft beer pub with elevated bar food.",
+        "categories": "Pub food",
+        "opening_hour": "3:00 PM",
+        "closing_hour": "12:00 AM",
+        "main_dish": "Beer Battered Fish"
+    },
+    {
+        "id": 271,
+        "name": "Mediterranean Mezze",
+        "description": "Small plates and mezze from around the Mediterranean.",
+        "categories": "Mediterranean",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Mezze Platter"
+    },
+    {
+        "id": 272,
+        "name": "Steakhouse Prime",
+        "description": "Premium steaks aged in-house and classic sides.",
+        "categories": "Steakhouse",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Dry-Aged Ribeye"
+    },
+    {
+        "id": 273,
+        "name": "Ramen Factory",
+        "description": "Handmade noodles in rich broths with traditional toppings.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Tonkotsu Ramen"
+    },
+    {
+        "id": 274,
+        "name": "Street Tacos",
+        "description": "Authentic Mexican street tacos with handmade tortillas.",
+        "categories": "Mexican food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Al Pastor Tacos"
+    },
+    {
+        "id": 275,
+        "name": "Curry Leaf",
+        "description": "South Indian specialties with fresh curry leaves and spices.",
+        "categories": "Indian food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Masala Dosa"
+    },
+    {
+        "id": 276,
+        "name": "Dim Sum Express",
+        "description": "Quick-service dim sum with traditional favorites.",
+        "categories": "Chinese food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Dim Sum Combo"
+    },
+    {
+        "id": 277,
+        "name": "Bistro Moderne",
+        "description": "Contemporary French bistro with seasonal menu.",
+        "categories": "French food",
+        "opening_hour": "5:30 PM",
+        "closing_hour": "10:30 PM",
+        "main_dish": "Duck Confit"
+    },
+    {
+        "id": 278,
+        "name": "Rotisserie Gold",
+        "description": "Specialty rotisserie meats and comfort sides.",
+        "categories": "American food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Rotisserie Chicken"
+    },
+    {
+        "id": 279,
+        "name": "Pasta Prima",
+        "description": "Premium Italian pasta dishes with imported ingredients.",
+        "categories": "Italian food",
+        "opening_hour": "12:00 AM",
+        "closing_hour": "7:00 PM",
+        "main_dish": "Carbonara"
+    },
+    {
+        "id": 280,
+        "name": "Tokyo Bites",
+        "description": "Modern Japanese eatery serving sushi rolls, bento boxes, and matcha desserts.",
+        "categories": "Japanese food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "10:30 PM",
+        "main_dish": "Rainbow Sushi Roll"
+    },
+    {
+        "id": 281,
+        "name": "El Patio Cantina",
+        "description": "Vibrant Mexican restaurant offering tacos, enchiladas, and freshly made guacamole.",
+        "categories": "Mexican food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Carne Asada Tacos"
+    },
+    {
+        "id": 282,
+        "name": "Curry Kingdom",
+        "description": "Casual Indian restaurant specializing in aromatic curries and naan bread.",
+        "categories": "Indian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:30 PM",
+        "main_dish": "Butter Chicken"
+    },
+    {
+        "id": 283,
+        "name": "New York Slice",
+        "description": "Classic pizzeria serving thin-crust New York-style pizzas and garlic knots.",
+        "categories": "Pizza",
+        "opening_hour": "10:30 AM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Pepperoni Pizza"
+    },
+    {
+        "id": 284,
+        "name": "Savannah Smokehouse",
+        "description": "Southern-style barbecue joint famous for its smoked ribs and brisket.",
+        "categories": "Barbecue",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Smoked Brisket"
+    },
+    {
+        "id": 285,
+        "name": "Mediterranean Delight",
+        "description": "Cozy spot for Mediterranean staples like falafel, hummus, and shawarma.",
+        "categories": "Mediterranean food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Chicken Shawarma Plate"
+    },
+    {
+        "id": 286,
+        "name": "The French Table",
+        "description": "Elegant bistro offering French classics like coq au vin and ratatouille.",
+        "categories": "French food",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "10:30 PM",
+        "main_dish": "Beef Bourguignon"
+    },
+    {
+        "id": 287,
+        "name": "The Vegan Spot",
+        "description": "Plant-based eatery with a menu of creative vegan burgers and smoothies.",
+        "categories": "Vegan food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Spicy Chickpea Burger"
+    },
+    {
+        "id": 288,
+        "name": "Istanbul Kebab House",
+        "description": "Authentic Turkish restaurant serving kebabs, pide, and baklava.",
+        "categories": "Turkish food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Lamb Kebab"
+    },
+    {
+        "id": 289,
+        "name": "Burger Barn",
+        "description": "Family-friendly burger joint with gourmet burgers and loaded fries.",
+        "categories": "American food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Double Bacon Cheeseburger"
+    },
+    {
+        "id": 290,
+        "name": "Seaside Shack",
+        "description": "Relaxed seafood spot offering fish tacos, lobster rolls, and clam chowder.",
+        "categories": "Seafood",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "9:30 PM",
+        "main_dish": "Lobster Roll"
+    },
+    {
+        "id": 291,
+        "name": "Urban Thai",
+        "description": "Trendy Thai restaurant serving pad thai, green curry, and mango sticky rice.",
+        "categories": "Thai food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Spicy Basil Chicken"
+    },
+    {
+        "id": 292,
+        "name": "Cafe Italiano",
+        "description": "Charming Italian cafe offering pasta dishes, paninis, and tiramisu.",
+        "categories": "Italian food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Fettuccine Alfredo"
+    },
+    {
+        "id": 293,
+        "name": "Korean Bites",
+        "description": "Hip Korean restaurant known for its bibimbap, bulgogi, and kimchi pancakes.",
+        "categories": "Korean food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Bibimbap"
+    },
+    {
+        "id": 294,
+        "name": "Thai Street Eats",
+        "description": "Casual Thai spot serving spicy street food favorites like pad kra pao and som tum.",
+        "categories": "Thai food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "9:30 PM",
+        "main_dish": "Pad Kra Pao"
+    },
+    {
+        "id": 295,
+        "name": "Sushi Haven",
+        "description": "Premium sushi restaurant with omakase-style dining and fresh sashimi.",
+        "categories": "Japanese food",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Tuna Sashimi Platter"
+    },
+    {
+        "id": 296,
+        "name": "Chow Mein Express",
+        "description": "Quick-service Chinese restaurant with stir-fry noodles, fried rice, and dumplings.",
+        "categories": "Chinese food",
+        "opening_hour": "10:30 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Beef Chow Mein"
+    },
+    {
+        "id": 297,
+        "name": "Taco Town",
+        "description": "Festive Mexican eatery offering a variety of tacos, nachos, and margaritas.",
+        "categories": "Mexican food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:30 PM",
+        "main_dish": "Al Pastor Tacos"
+    },
+    {
+        "id": 298,
+        "name": "Peruvian Flavors",
+        "description": "Authentic Peruvian restaurant serving ceviche, lomo saltado, and causa.",
+        "categories": "Peruvian food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Ceviche Mixto"
+    },
+    {
+        "id": 299,
+        "name": "Belgian Bliss",
+        "description": "Charming cafe offering authentic Belgian waffles, crepes, and coffee.",
+        "categories": "Belgian food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "4:00 PM",
+        "main_dish": "Liege Waffle"
+    },
+    {
+        "id": 300,
+        "name": "Caribbean Breeze",
+        "description": "Lively Caribbean restaurant featuring jerk chicken, plantains, and tropical drinks.",
+        "categories": "Caribbean food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Jerk Chicken"
+    },
+    {
+        "id": 301,
+        "name": "Bistro Bordeaux",
+        "description": "Elegant French bistro serving classic dishes like coq au vin and cr\u00c3\u00a8me br\u00c3\u00bbl\u00c3\u00a9e.",
+        "categories": "French food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Coq au Vin"
+    },
+    {
+        "id": 302,
+        "name": "Sushi King",
+        "description": "High-end sushi restaurant specializing in fresh fish and sashimi.",
+        "categories": "Japanese food",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Sashimi Platter"
+    },
+    {
+        "id": 303,
+        "name": "Mamma Mia Pizzeria",
+        "description": "Family-friendly Italian pizzeria offering a variety of pizzas, pasta, and desserts.",
+        "categories": "Italian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Margherita Pizza"
+    },
+    {
+        "id": 304,
+        "name": "Caf\u00c3\u00a9 Mexicana",
+        "description": "Authentic Mexican caf\u00c3\u00a9 serving tacos, quesadillas, and churros.",
+        "categories": "Mexican food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chicken Tacos"
+    },
+    {
+        "id": 305,
+        "name": "Tandoori Flame",
+        "description": "Indian restaurant specializing in tandoori dishes, curries, and naan.",
+        "categories": "Indian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:30 PM",
+        "main_dish": "Tandoori Chicken"
+    },
+    {
+        "id": 306,
+        "name": "Green Veggie Cafe",
+        "description": "Healthy vegetarian caf\u00c3\u00a9 offering bowls, smoothies, and plant-based dishes.",
+        "categories": "Vegetarian food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Quinoa Salad Bowl"
+    },
+    {
+        "id": 307,
+        "name": "Balkan Grill",
+        "description": "A rustic eatery serving grilled meats, \u00c4\u2021evapi, and Mediterranean salads.",
+        "categories": "Balkan food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "\u00c4\u2020evapi"
+    },
+    {
+        "id": 308,
+        "name": "Pasta Perfection",
+        "description": "Italian pasta house serving house-made pasta and signature sauces.",
+        "categories": "Italian food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Fettuccine Alfredo"
+    },
+    {
+        "id": 309,
+        "name": "The Tapas Corner",
+        "description": "Cozy Spanish tapas bar with small plates of paella, patatas bravas, and sangria.",
+        "categories": "Spanish food",
+        "opening_hour": "1:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Paella"
+    },
+    {
+        "id": 310,
+        "name": "Peking Duck House",
+        "description": "Authentic Chinese restaurant known for its signature Peking duck and dim sum.",
+        "categories": "Chinese food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Peking Duck"
+    },
+    {
+        "id": 311,
+        "name": "La Cocina Latina",
+        "description": "Vibrant Latin kitchen offering empanadas, arepas, and rice bowls.",
+        "categories": "Latin food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Empanadas"
+    },
+    {
+        "id": 312,
+        "name": "Pho Saigon",
+        "description": "Vietnamese restaurant specializing in pho, banh mi, and Vietnamese iced coffee.",
+        "categories": "Vietnamese food",
+        "opening_hour": "10:30 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Pho Bo"
+    },
+    {
+        "id": 313,
+        "name": "Flavors of Ethiopia",
+        "description": "Authentic Ethiopian restaurant offering injera, tibs, and stews.",
+        "categories": "Ethiopian food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Doro Wat"
+    },
+    {
+        "id": 314,
+        "name": "Ramen Station",
+        "description": "Casual Japanese restaurant specializing in hearty bowls of ramen and gyoza.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:30 PM",
+        "main_dish": "Tonkotsu Ramen"
+    },
+    {
+        "id": 315,
+        "name": "Moroccan Oasis",
+        "description": "Cozy Moroccan restaurant with tagines, couscous, and mint tea.",
+        "categories": "Moroccan food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chicken Tagine"
+    },
+    {
+        "id": 316,
+        "name": "The Grill House",
+        "description": "Sizzling steaks, grilled chicken, and seafood served with sides and sauces.",
+        "categories": "Grill",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Grilled Ribeye Steak"
+    },
+    {
+        "id": 317,
+        "name": "Southern Comfort",
+        "description": "Southern-style comfort food with fried chicken, mashed potatoes, and cornbread.",
+        "categories": "Southern food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Fried Chicken"
+    },
+    {
+        "id": 318,
+        "name": "Kebab Express",
+        "description": "Fast-casual restaurant serving juicy kebabs, falafel, and fries.",
+        "categories": "Middle Eastern food",
+        "opening_hour": "11:30 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Lamb Kebab"
+    },
+    {
+        "id": 319,
+        "name": "Crepes & Co.",
+        "description": "Charming caf\u00c3\u00a9 serving sweet and savory crepes, coffee, and fresh juices.",
+        "categories": "French food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "6:00 PM",
+        "main_dish": "Nutella Crepes"
+    },
+    {
+        "id": 320,
+        "name": "The Cajun Spot",
+        "description": "Cajun seafood restaurant with a focus on crawfish, shrimp boils, and po' boys.",
+        "categories": "Cajun food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Crawfish Boil"
+    },
+    {
+        "id": 321,
+        "name": "La Trattoria",
+        "description": "Classic Italian trattoria serving homemade pasta, pizza, and seasonal specials.",
+        "categories": "Italian food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Lasagna"
+    },
+    {
+        "id": 322,
+        "name": "Bistro Le Parisien",
+        "description": "Charming bistro offering a selection of French wines, cheese, and classic dishes.",
+        "categories": "French food",
+        "opening_hour": "1:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Duck Confit"
+    },
+    {
+        "id": 323,
+        "name": "Taco Delights",
+        "description": "Vibrant taco joint serving gourmet tacos, nachos, and spicy salsas.",
+        "categories": "Mexican food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Carnitas Taco"
+    },
+    {
+        "id": 324,
+        "name": "Sake House",
+        "description": "Japanese eatery offering sushi, sashimi, and tempura in a cozy setting.",
+        "categories": "Japanese food",
+        "opening_hour": "5:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Dragon Roll"
+    },
+    {
+        "id": 325,
+        "name": "Curry Corner",
+        "description": "Indian restaurant offering rich, flavorful curries, tandoori dishes, and naan bread.",
+        "categories": "Indian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Butter Chicken"
+    },
+    {
+        "id": 326,
+        "name": "Caf\u00c3\u00a9 Samba",
+        "description": "Brazilian caf\u00c3\u00a9 offering a variety of acai bowls, p\u00c3\u00a3o de queijo, and Brazilian coffee.",
+        "categories": "Brazilian food",
+        "opening_hour": "8:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Feijoada"
+    },
+    {
+        "id": 327,
+        "name": "Churrascaria Sabor",
+        "description": "Brazilian churrascaria specializing in grilled meats served on skewers and a salad bar.",
+        "categories": "Brazilian food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Picanha"
+    },
+    {
+        "id": 328,
+        "name": "Pasta Fresca",
+        "description": "Fresh pasta restaurant serving hand-crafted pasta dishes and Italian-inspired sides.",
+        "categories": "Italian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Penne Arrabbiata"
+    },
+    {
+        "id": 329,
+        "name": "The Waffle House",
+        "description": "Sweet and savory waffle house known for its crispy waffles, eggs, and bacon.",
+        "categories": "Breakfast, Waffles",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "3:00 PM",
+        "main_dish": "Chicken & Waffles"
+    },
+    {
+        "id": 330,
+        "name": "The Ramen Lab",
+        "description": "Casual ramen bar with a variety of broths, noodles, and toppings.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Shoyu Ramen"
+    },
+    {
+        "id": 331,
+        "name": "Pho 24/7",
+        "description": "Vietnamese restaurant offering pho, banh xeo, and other traditional Vietnamese dishes.",
+        "categories": "Vietnamese food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Pho Ga"
+    },
+    {
+        "id": 332,
+        "name": "The Burger Shack",
+        "description": "Classic American burger joint with gourmet burgers, milkshakes, and fries.",
+        "categories": "American food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 333,
+        "name": "Pita Palace",
+        "description": "Mediterranean restaurant serving fresh pita wraps, shawarma, and tabbouleh.",
+        "categories": "Middle Eastern food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chicken Shawarma"
+    },
+    {
+        "id": 334,
+        "name": "Buns & Bites",
+        "description": "Gourmet sandwich shop offering creative sandwiches, soups, and salads.",
+        "categories": "Sandwiches",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Pulled Pork Sandwich"
+    },
+    {
+        "id": 335,
+        "name": "Mama\u00e2\u20ac\u2122s Pizza",
+        "description": "Homestyle pizza joint offering thin-crust and deep-dish pizzas, calzones, and garlic bread.",
+        "categories": "Italian food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Deep Dish Pizza"
+    },
+    {
+        "id": 336,
+        "name": "B\u00c3\u00a1nh M\u00c3\u00ac & Co.",
+        "description": "Modern Vietnamese caf\u00c3\u00a9 serving pho, b\u00c3\u00a1nh m\u00c3\u00ac sandwiches, and bubble tea.",
+        "categories": "Vietnamese food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "B\u00c3\u00a1nh M\u00c3\u00ac"
+    },
+    {
+        "id": 337,
+        "name": "The Pancake House",
+        "description": "Cozy diner serving classic pancakes, waffles, and omelets.",
+        "categories": "Breakfast",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "3:00 PM",
+        "main_dish": "Stack of Pancakes"
+    },
+    {
+        "id": 338,
+        "name": "Spice Symphony",
+        "description": "Indian fusion restaurant with a modern twist on traditional curries and tandoori dishes.",
+        "categories": "Indian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Lamb Rogan Josh"
+    },
+    {
+        "id": 339,
+        "name": "Sushi Express",
+        "description": "Quick-service sushi restaurant serving nigiri, rolls, and bento boxes.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "California Roll"
+    },
+    {
+        "id": 340,
+        "name": "The Diner",
+        "description": "American diner offering burgers, milkshakes, fries, and hearty breakfast plates.",
+        "categories": "American food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Classic Cheeseburger"
+    },
+    {
+        "id": 341,
+        "name": "Pasta Bella",
+        "description": "Authentic Italian restaurant specializing in freshly made pasta and traditional sauces.",
+        "categories": "Italian food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Spaghetti Carbonara"
+    },
+    {
+        "id": 342,
+        "name": "Tandoori Flames",
+        "description": "Indian restaurant known for its tandoori dishes and flavorful curries.",
+        "categories": "Indian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Tandoori Chicken"
+    },
+    {
+        "id": 343,
+        "name": "Sushi Master",
+        "description": "Traditional sushi bar serving fresh, expertly crafted sushi and sashimi.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Omakase"
+    },
+    {
+        "id": 344,
+        "name": "The Pie Shop",
+        "description": "Local bakery serving freshly baked savory and sweet pies.",
+        "categories": "Bakery",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "6:00 PM",
+        "main_dish": "Beef Wellington Pie"
+    },
+    {
+        "id": 345,
+        "name": "Soul Food Kitchen",
+        "description": "Southern comfort food serving fried chicken, collard greens, and cornbread.",
+        "categories": "American food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Fried Chicken"
+    },
+    {
+        "id": 346,
+        "name": "Baguette & Co.",
+        "description": "French caf\u00c3\u00a9 serving gourmet baguettes, croissants, and quiches.",
+        "categories": "French food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "3:00 PM",
+        "main_dish": "Croque Monsieur"
+    },
+    {
+        "id": 347,
+        "name": "El Mariachi",
+        "description": "Mexican restaurant offering tacos, burritos, quesadillas, and margaritas.",
+        "categories": "Mexican food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Burrito Grande"
+    },
+    {
+        "id": 348,
+        "name": "Szechuan Spice",
+        "description": "Chinese restaurant specializing in spicy Szechuan dishes and dumplings.",
+        "categories": "Chinese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Kung Pao Chicken"
+    },
+    {
+        "id": 349,
+        "name": "The Dumpling House",
+        "description": "Cozy eatery known for its handmade dumplings and hot pots.",
+        "categories": "Chinese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Pork Dumplings"
+    },
+    {
+        "id": 350,
+        "name": "Bento Box",
+        "description": "Japanese lunch spot offering delicious bento boxes with rice, vegetables, and protein.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Chicken Teriyaki Bento"
+    },
+    {
+        "id": 351,
+        "name": "Grill & Chill",
+        "description": "American grill offering burgers, steaks, and barbecue ribs.",
+        "categories": "Barbecue",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "BBQ Ribs"
+    },
+    {
+        "id": 352,
+        "name": "Noodle Nirvana",
+        "description": "Asian noodle shop offering a wide variety of noodle soups and stir-fries.",
+        "categories": "Asian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Pad Thai"
+    },
+    {
+        "id": 353,
+        "name": "Caf\u00c3\u00a9 de Paris",
+        "description": "Elegant Parisian caf\u00c3\u00a9 offering croissants, quiches, and coffee.",
+        "categories": "French food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "4:00 PM",
+        "main_dish": "Quiche Lorraine"
+    },
+    {
+        "id": 354,
+        "name": "The Fish Market",
+        "description": "Seafood restaurant offering fresh fish, shrimp, oysters, and lobster.",
+        "categories": "Seafood",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Grilled Salmon"
+    },
+    {
+        "id": 355,
+        "name": "BBQ Town",
+        "description": "American BBQ joint known for its slow-cooked meats and smoky sauces.",
+        "categories": "American food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Pulled Pork Sandwich"
+    },
+    {
+        "id": 356,
+        "name": "Spice Route",
+        "description": "Indian fusion restaurant offering modern takes on classic Indian dishes.",
+        "categories": "Indian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chana Masala"
+    },
+    {
+        "id": 357,
+        "name": "Havana Nights",
+        "description": "Cuban restaurant offering authentic Cuban sandwiches, rice bowls, and mojitos.",
+        "categories": "Cuban food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cuban Sandwich"
+    },
+    {
+        "id": 358,
+        "name": "La Cantina",
+        "description": "Mexican cantina offering tacos, enchiladas, and specialty margaritas.",
+        "categories": "Mexican food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Enchiladas Verdes"
+    },
+    {
+        "id": 359,
+        "name": "The Sandwich Spot",
+        "description": "Casual sandwich shop offering a wide variety of gourmet sandwiches and soups.",
+        "categories": "Sandwiches",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Turkey Club Sandwich"
+    },
+    {
+        "id": 360,
+        "name": "Ramen Express",
+        "description": "Quick-service ramen restaurant offering a variety of broths, toppings, and sides.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Miso Ramen"
+    },
+    {
+        "id": 361,
+        "name": "Pizzeria Napoli",
+        "description": "Traditional Italian pizzeria known for wood-fired pizzas and fresh ingredients.",
+        "categories": "Italian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Margherita Pizza"
+    },
+    {
+        "id": 362,
+        "name": "Banh Mi Street",
+        "description": "Vietnamese street food spot specializing in crispy baguette sandwiches.",
+        "categories": "Vietnamese food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Banh Mi Thit"
+    },
+    {
+        "id": 363,
+        "name": "The Greenhouse Caf\u00c3\u00a9",
+        "description": "Farm-to-table caf\u00c3\u00a9 offering fresh salads, wraps, and smoothies.",
+        "categories": "Healthy food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "5:00 PM",
+        "main_dish": "Avocado Toast"
+    },
+    {
+        "id": 364,
+        "name": "Saffron Grill",
+        "description": "Indian fusion restaurant featuring a variety of spiced dishes and grilled meats.",
+        "categories": "Indian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Chicken Tikka"
+    },
+    {
+        "id": 365,
+        "name": "Caf\u00c3\u00a9 Oaxaca",
+        "description": "Mexican caf\u00c3\u00a9 offering authentic Oaxacan specialties and rich coffee.",
+        "categories": "Mexican food",
+        "opening_hour": "9:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Mole Negro"
+    },
+    {
+        "id": 366,
+        "name": "The Pasta Kitchen",
+        "description": "Italian restaurant serving hand-made pasta, classic sauces, and wood-fired dishes.",
+        "categories": "Italian food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "11:00 PM",
+        "main_dish": "Fettuccine Alfredo"
+    },
+    {
+        "id": 367,
+        "name": "Taco Loco",
+        "description": "Vibrant Mexican restaurant offering tacos, burritos, and refreshing margaritas.",
+        "categories": "Mexican food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Carne Asada Tacos"
+    },
+    {
+        "id": 368,
+        "name": "Vegan Harvest",
+        "description": "Vegan restaurant offering seasonal dishes made with fresh, local produce.",
+        "categories": "Vegan food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Vegan Burger"
+    },
+    {
+        "id": 369,
+        "name": "Burger Joint",
+        "description": "Casual spot serving gourmet burgers, fries, and milkshakes.",
+        "categories": "American food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Cheeseburger"
+    },
+    {
+        "id": 370,
+        "name": "Curry Station",
+        "description": "Indian restaurant offering a variety of curry dishes, naan, and biryanis.",
+        "categories": "Indian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Butter Chicken"
+    },
+    {
+        "id": 371,
+        "name": "Seafood Shack",
+        "description": "Seafood restaurant offering oysters, lobster rolls, shrimp cocktails, and more.",
+        "categories": "Seafood",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Lobster Roll"
+    },
+    {
+        "id": 372,
+        "name": "Noodle Express",
+        "description": "Quick-service spot offering Asian noodle dishes and dim sum.",
+        "categories": "Asian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Beef Chow Fun"
+    },
+    {
+        "id": 373,
+        "name": "The Pancake House",
+        "description": "Breakfast spot known for its variety of pancakes, waffles, and egg dishes.",
+        "categories": "Breakfast",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "3:00 PM",
+        "main_dish": "Buttermilk Pancakes"
+    },
+    {
+        "id": 374,
+        "name": "Tandoori Palace",
+        "description": "Authentic Indian tandoori restaurant offering kebabs, naan, and curries.",
+        "categories": "Indian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Tandoori Chicken"
+    },
+    {
+        "id": 375,
+        "name": "Buns & Brews",
+        "description": "Gourmet bakery specializing in freshly baked buns and artisan coffee.",
+        "categories": "Bakery",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "5:00 PM",
+        "main_dish": "Cinnamon Roll"
+    },
+    {
+        "id": 376,
+        "name": "Sushi Bar",
+        "description": "Japanese sushi bar serving fresh rolls, sashimi, and nigiri.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "California Roll"
+    },
+    {
+        "id": 377,
+        "name": "The Ramen Shop",
+        "description": "Japanese ramen restaurant offering a variety of broths, noodles, and toppings.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Shoyu Ramen"
+    },
+    {
+        "id": 378,
+        "name": "Bento Delight",
+        "description": "Japanese spot offering an assortment of bento boxes filled with rice, veggies, and proteins.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Tempura Bento"
+    },
+    {
+        "id": 379,
+        "name": "Pasta Fresca",
+        "description": "Italian restaurant offering fresh, handmade pasta dishes and regional specialties.",
+        "categories": "Italian food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Lasagna"
+    },
+    {
+        "id": 380,
+        "name": "The Crepe Corner",
+        "description": "French caf\u00c3\u00a9 offering savory and sweet crepes, coffee, and pastries.",
+        "categories": "French food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "5:00 PM",
+        "main_dish": "Nutella Crepe"
+    },
+    {
+        "id": 381,
+        "name": "Grill & Co.",
+        "description": "Modern grill house serving steak, burgers, and grilled seafood.",
+        "categories": "American food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Ribeye Steak"
+    },
+    {
+        "id": 382,
+        "name": "The Veggie Spot",
+        "description": "Vegan and vegetarian-friendly eatery offering plant-based dishes.",
+        "categories": "Vegan food",
+        "opening_hour": "10:00 AM",
+        "closing_hour": "8:00 PM",
+        "main_dish": "Vegan Burrito"
+    },
+    {
+        "id": 383,
+        "name": "Sushi Junction",
+        "description": "Japanese restaurant serving sushi, sashimi, and other traditional Japanese dishes.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Tuna Sashimi"
+    },
+    {
+        "id": 384,
+        "name": "Taco Paradise",
+        "description": "Mexican street food-style restaurant offering tacos, quesadillas, and more.",
+        "categories": "Mexican food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Fish Tacos"
+    },
+    {
+        "id": 385,
+        "name": "Bavarian Grill",
+        "description": "Authentic German grill serving sausages, schnitzels, and pretzels.",
+        "categories": "German food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Wiener Schnitzel"
+    },
+    {
+        "id": 386,
+        "name": "Pasta & Vino",
+        "description": "Italian bistro offering pasta, wines, and fresh salads.",
+        "categories": "Italian food",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Spaghetti Bolognese"
+    },
+    {
+        "id": 387,
+        "name": "Ramen Riot",
+        "description": "Japanese ramen bar offering rich broths and a variety of ramen toppings.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Miso Ramen"
+    },
+    {
+        "id": 388,
+        "name": "Flame & Smoke",
+        "description": "BBQ joint offering slow-cooked ribs, pulled pork, and brisket.",
+        "categories": "Barbecue",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Beef Brisket"
+    },
+    {
+        "id": 389,
+        "name": "Mediterranean Grill",
+        "description": "Greek and Middle Eastern-inspired grill serving kebabs, falafel, and hummus.",
+        "categories": "Mediterranean food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Shawarma"
+    },
+    {
+        "id": 390,
+        "name": "Bao Bun Street",
+        "description": "Asian street food restaurant offering bao buns with a variety of fillings.",
+        "categories": "Asian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Pork Bao"
+    },
+    {
+        "id": 391,
+        "name": "Sushi Zen",
+        "description": "Sushi and Japanese cuisine restaurant offering fresh sushi and sashimi.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Salmon Nigiri"
+    },
+    {
+        "id": 392,
+        "name": "Burrito Barrio",
+        "description": "Mexican restaurant offering burritos, tacos, and nachos with fresh ingredients.",
+        "categories": "Mexican food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Beef Burrito"
+    },
+    {
+        "id": 393,
+        "name": "Lobster House",
+        "description": "Seafood restaurant specializing in lobster dishes and fresh catches.",
+        "categories": "Seafood",
+        "opening_hour": "12:00 PM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Lobster Tail"
+    },
+    {
+        "id": 394,
+        "name": "La Pizzeria",
+        "description": "Italian pizzeria offering thin-crust pizzas, pasta, and Italian wines.",
+        "categories": "Italian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Quattro Stagioni Pizza"
+    },
+    {
+        "id": 395,
+        "name": "Bento Express",
+        "description": "Quick-service Japanese restaurant offering delicious bento boxes and sushi.",
+        "categories": "Japanese food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Chicken Teriyaki Bento"
+    },
+    {
+        "id": 396,
+        "name": "Caf\u00c3\u00a9 P\u00c3\u00a2tisserie",
+        "description": "French caf\u00c3\u00a9 offering a wide range of pastries, coffee, and sandwiches.",
+        "categories": "French food",
+        "opening_hour": "7:00 AM",
+        "closing_hour": "5:00 PM",
+        "main_dish": "Croque Monsieur"
+    },
+    {
+        "id": 397,
+        "name": "Curry Kitchen",
+        "description": "Indian restaurant specializing in a variety of flavorful curries and rice dishes.",
+        "categories": "Indian food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Lamb Rogan Josh"
+    },
+    {
+        "id": 398,
+        "name": "Poke Bowl Bar",
+        "description": "Healthy and fresh poke bowls with customizable toppings and sauces.",
+        "categories": "Healthy food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "9:00 PM",
+        "main_dish": "Ahi Poke Bowl"
+    },
+    {
+        "id": 399,
+        "name": "Souvlaki Street",
+        "description": "Greek restaurant offering souvlaki, gyros, and traditional Mediterranean sides.",
+        "categories": "Greek food",
+        "opening_hour": "11:00 AM",
+        "closing_hour": "10:00 PM",
+        "main_dish": "Pork Souvlaki"
+    }
+]
