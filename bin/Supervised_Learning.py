@@ -2,6 +2,37 @@ import csv
 from collections import defaultdict
 from CSV_Converter import createCSVDataset
 import math
+import nltk
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from nltk.tokenize import word_tokenize
+
+
+def download_if_missing(resource):
+    try:
+        nltk.data.find(resource)
+    except LookupError:
+        print(f"Scaricando {resource}...")
+        nltk.download(resource)
+        
+# Scarica risorse necessarie per nltk solo se non già presenti
+download_if_missing('stopwords')
+download_if_missing('punkt')
+download_if_missing('punkt_tab')
+download_if_missing('wordnet')
+download_if_missing('omw-1.4')
+
+# Inizializza il lemmatizzatore e la lista di stopwords
+lemmatizer = WordNetLemmatizer()
+stop_words = set(stopwords.words('english'))
+
+# Funzione di preprocessing avanzato
+def preprocess_text(text):
+    # Tokenizza il testo
+    words = word_tokenize(text.lower())  # Trasforma in minuscolo e tokenizza
+    # Rimuovi le stopwords e lemmatizza le parole
+    processed_words = [lemmatizer.lemmatize(word) for word in words if word not in stop_words and word.isalpha()]
+    return processed_words
 
 # Carica i dati dal file CSV
 def load_data_from_csv(csv_file):
@@ -21,7 +52,7 @@ def prepare_data(descriptions, categories):
     
     for description, category in zip(descriptions, categories):
         category_counts[category] += 1
-        words = description.lower().split()
+        words = preprocess_text(description)  # Preprocessing avanzato
         for word in words:
             word_counts[category][word] += 1
     
@@ -29,7 +60,7 @@ def prepare_data(descriptions, categories):
 
 # Funzione per calcolare le probabilità
 def predict_category(description, word_counts, category_counts):
-    words = description.lower().split()
+    words = preprocess_text(description)  # Preprocessing avanzato
     total_docs = sum(category_counts.values())
     
     scores = {}
@@ -47,9 +78,11 @@ def predict_category(description, word_counts, category_counts):
     return max(scores, key=scores.get)
 
 # Esegui il modello
-def main():
-    createCSVDataset
-    csv_file = 'restaurantList.csv'  # Nome del file CSV
+def Supervised_learning():
+     
+    createCSVDataset("dataset/restaurantsMeilisearch.json")
+    createCSVDataset("dataset/user_ratings.json")
+    csv_file = 'dataset/restaurantsMeilisearch.csv'  # Nome del file CSV
     descriptions, categories = load_data_from_csv(csv_file)
     
     # Divide i dati in training e test set (80% training, 20% test)
@@ -74,7 +107,3 @@ def main():
     # Accuratezza
     accuracy = correct / len(test_descriptions)
     print(f"Accuratezza: {accuracy * 100:.2f}%")
-
-# Avvia il programma
-if __name__ == "__main__":
-    main()

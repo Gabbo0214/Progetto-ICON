@@ -1,10 +1,11 @@
 import csv
 import json
+import os
 
 # Crea il dataset in formato CSV
-def createCSVDataset():
-    input_file = 'dataset/restaurantsMeilisearch.json'
-    output_file = 'restaurantList.csv'
+def createCSVDataset(input_file):
+    
+    output_file = os.path.splitext(input_file)[0] + '.csv'
     
     columns_to_exclude = ['picture', 'picture_author', 'picture_author_profile_link']
 
@@ -37,6 +38,3 @@ def createCSVDataset():
         print("Errore nel decodificare il file JSON.")
     except Exception as e:
         print(f"Si è verificato un errore: {e}")
-
-# Esegui la funzione
-createCSVDataset()
