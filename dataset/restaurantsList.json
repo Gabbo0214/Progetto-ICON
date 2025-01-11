@@ -29,7 +29,7 @@
     {
         "id": 3,
         "name": "Hungry Bar & Grill",
-        "description": "To provide an exceptional dining experience that satisfies our guests\u00e2\u20ac\u2122 grown-up tastes by being a Cut-Above in everything we do.",
+        "description": "To provide an exceptional dining experience that satisfies our guests grown-up tastes by being a Cut-Above in everything we do.",
         "categories": "Barbecue",
         "opening_hour": "10:00 AM",
         "closing_hour": "9:00 PM",
@@ -47,7 +47,7 @@
     {
         "id": 5,
         "name": "Salty Subs",
-        "description": "Culver\u00e2\u20ac\u2122s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver\u00e2\u20ac\u2122s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
+        "description": "Culvers Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culvers is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
         "categories": "Brunch",
         "opening_hour": "10:00 AM",
         "closing_hour": "8:00 PM",
@@ -119,7 +119,7 @@
     {
         "id": 13,
         "name": "Golden Eatery",
-        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price \u00e2\u20ac\u201c nutritional, well-prepared meals \u00e2\u20ac\u201c using only quality cheese, wine and meat ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
+        "description": "To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price, nutritional, well-prepared meals using only quality cheese, wine and meat ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",
         "categories": "French food",
         "opening_hour": "10:00 AM",
         "closing_hour": "11:00 PM",
@@ -128,7 +128,7 @@
     {
         "id": 14,
         "name": "Silver Pizza King",
-        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie\u00e2\u20ac\u2122s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To provide amazing italian food, with italian vegetables and meat.",
+        "description": "To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To provide amazing italian food, with italian vegetables and meat.",
         "categories": "Italian food",
         "opening_hour": "9:00 AM",
         "closing_hour": "10:00 PM",
@@ -183,7 +183,7 @@
         "id": 20,
         "name": "Hokkaido Delights",
         "description": "Discover the authentic flavors of Japan at Hokkaido Delights, where fresh fish and expert chefs come together to bring you the finest sushi. Let our Chef's Special cut be the highlight of your meal.",
-        "categories": "Japanese Sushi",
+        "categories": "Japanese food",
         "opening_hour": "7:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Chef's Special cut"
@@ -2711,7 +2711,7 @@
     {
         "id": 301,
         "name": "Bistro Bordeaux",
-        "description": "Elegant French bistro serving classic dishes like coq au vin and cr\u00c3\u00a8me br\u00c3\u00bbl\u00c3\u00a9e.",
+        "description": "Elegant French bistro serving classic dishes like coq au vin and raclette.",
         "categories": "French food",
         "opening_hour": "12:00 PM",
         "closing_hour": "10:00 PM",
@@ -2737,8 +2737,8 @@
     },
     {
         "id": 304,
-        "name": "Caf\u00c3\u00a9 Mexicana",
-        "description": "Authentic Mexican caf\u00c3\u00a9 serving tacos, quesadillas, and churros.",
+        "name": "Cafe Mexicana",
+        "description": "Authentic Mexican cafe serving tacos, quesadillas, and churros.",
         "categories": "Mexican food",
         "opening_hour": "12:00 PM",
         "closing_hour": "10:00 PM",
@@ -2756,7 +2756,7 @@
     {
         "id": 306,
         "name": "Green Veggie Cafe",
-        "description": "Healthy vegetarian caf\u00c3\u00a9 offering bowls, smoothies, and plant-based dishes.",
+        "description": "Healthy vegetarian cafe offering bowls, smoothies, and plant-based dishes.",
         "categories": "Vegetarian food",
         "opening_hour": "9:00 AM",
         "closing_hour": "8:00 PM",
@@ -2765,11 +2765,11 @@
     {
         "id": 307,
         "name": "Balkan Grill",
-        "description": "A rustic eatery serving grilled meats, \u00c4\u2021evapi, and Mediterranean salads.",
+        "description": "A rustic eatery serving grilled meats, kevapi, and Mediterranean salads.",
         "categories": "Balkan food",
         "opening_hour": "12:00 PM",
         "closing_hour": "10:00 PM",
-        "main_dish": "\u00c4\u2020evapi"
+        "main_dish": "kevapi"
     },
     {
         "id": 308,
@@ -2873,7 +2873,7 @@
     {
         "id": 319,
         "name": "Crepes & Co.",
-        "description": "Charming caf\u00c3\u00a9 serving sweet and savory crepes, coffee, and fresh juices.",
+        "description": "Charming cafe serving sweet and savory crepes, coffee, and fresh juices.",
         "categories": "French food",
         "opening_hour": "8:00 AM",
         "closing_hour": "6:00 PM",
@@ -2935,8 +2935,8 @@
     },
     {
         "id": 326,
-        "name": "Caf\u00c3\u00a9 Samba",
-        "description": "Brazilian caf\u00c3\u00a9 offering a variety of acai bowls, p\u00c3\u00a3o de queijo, and Brazilian coffee.",
+        "name": "Cafe Samba",
+        "description": "Brazilian cafe offering a variety of acai bowls, pollo de queijo, and Brazilian coffee.",
         "categories": "Brazilian food",
         "opening_hour": "8:00 AM",
         "closing_hour": "8:00 PM",
@@ -3016,7 +3016,7 @@
     },
     {
         "id": 335,
-        "name": "Mama\u00e2\u20ac\u2122s Pizza",
+        "name": "Mamas Pizza",
         "description": "Homestyle pizza joint offering thin-crust and deep-dish pizzas, calzones, and garlic bread.",
         "categories": "Italian food",
         "opening_hour": "12:00 PM",
@@ -3025,12 +3025,12 @@
     },
     {
         "id": 336,
-        "name": "B\u00c3\u00a1nh M\u00c3\u00ac & Co.",
-        "description": "Modern Vietnamese caf\u00c3\u00a9 serving pho, b\u00c3\u00a1nh m\u00c3\u00ac sandwiches, and bubble tea.",
+        "name": "Banh xeo & Co.",
+        "description": "Modern Vietnamese cafe serving pho, bahn xeo sandwiches, and bubble tea.",
         "categories": "Vietnamese food",
         "opening_hour": "10:00 AM",
         "closing_hour": "9:00 PM",
-        "main_dish": "B\u00c3\u00a1nh M\u00c3\u00ac"
+        "main_dish": "Bahn xeo"
     },
     {
         "id": 337,
@@ -3116,7 +3116,7 @@
     {
         "id": 346,
         "name": "Baguette & Co.",
-        "description": "French caf\u00c3\u00a9 serving gourmet baguettes, croissants, and quiches.",
+        "description": "French cafe serving gourmet baguettes, croissants, and quiches.",
         "categories": "French food",
         "opening_hour": "7:00 AM",
         "closing_hour": "3:00 PM",
@@ -3178,8 +3178,8 @@
     },
     {
         "id": 353,
-        "name": "Caf\u00c3\u00a9 de Paris",
-        "description": "Elegant Parisian caf\u00c3\u00a9 offering croissants, quiches, and coffee.",
+        "name": "Cafe de Paris",
+        "description": "Elegant Parisian cafe offering croissants, quiches, and coffee.",
         "categories": "French food",
         "opening_hour": "7:00 AM",
         "closing_hour": "4:00 PM",
@@ -3268,8 +3268,8 @@
     },
     {
         "id": 363,
-        "name": "The Greenhouse Caf\u00c3\u00a9",
-        "description": "Farm-to-table caf\u00c3\u00a9 offering fresh salads, wraps, and smoothies.",
+        "name": "The Greenhouse Cafe",
+        "description": "Farm-to-table cafe offering fresh salads, wraps, and smoothies.",
         "categories": "Healthy food",
         "opening_hour": "7:00 AM",
         "closing_hour": "5:00 PM",
@@ -3286,8 +3286,8 @@
     },
     {
         "id": 365,
-        "name": "Caf\u00c3\u00a9 Oaxaca",
-        "description": "Mexican caf\u00c3\u00a9 offering authentic Oaxacan specialties and rich coffee.",
+        "name": "Caffe Oaxaca",
+        "description": "Mexican caffe offering authentic Oaxacan specialties and rich coffee.",
         "categories": "Mexican food",
         "opening_hour": "9:00 AM",
         "closing_hour": "9:00 PM",
@@ -3422,7 +3422,7 @@
     {
         "id": 380,
         "name": "The Crepe Corner",
-        "description": "French caf\u00c3\u00a9 offering savory and sweet crepes, coffee, and pastries.",
+        "description": "French caffe offering savory and sweet crepes, coffee, and pastries.",
         "categories": "French food",
         "opening_hour": "7:00 AM",
         "closing_hour": "5:00 PM",
@@ -3565,8 +3565,8 @@
     },
     {
         "id": 396,
-        "name": "Caf\u00c3\u00a9 P\u00c3\u00a2tisserie",
-        "description": "French caf\u00c3\u00a9 offering a wide range of pastries, coffee, and sandwiches.",
+        "name": "Caffe Patisserie",
+        "description": "French caffe offering a wide range of pastries, coffee, and sandwiches.",
         "categories": "French food",
         "opening_hour": "7:00 AM",
         "closing_hour": "5:00 PM",
