@@ -1,2 +1,5 @@
 nltk
 scikit-learn
+numpy
+pandas
+tensorflow

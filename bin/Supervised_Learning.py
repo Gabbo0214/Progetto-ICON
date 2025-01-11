@@ -87,10 +87,10 @@ def predict_category(description, word_counts, category_counts):
     return max(scores, key=scores.get)
 
 # Esegui il modello con Cross Validation
-def Supervised_learning():
-    createCSVDataset("dataset/restaurantsList.json")
-    createCSVDataset("dataset/user_ratings.json")
-    csv_file = 'dataset/restaurantsList.csv'
+def supervised_learning():
+    createCSVDataset("dataset/restaurantList.json")
+    createCSVDataset("dataset/userRatings.json")
+    csv_file = 'dataset/restaurantList.csv'
     descriptions, categories = load_data_from_csv(csv_file)
     
     # Imposta il numero di fold per la cross-validation
