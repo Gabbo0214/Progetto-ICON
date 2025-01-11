@@ -2,7 +2,7 @@
     {
         "id": 0,
         "name": "Fat Brasserie",
-        "description": "SVIs mission is to deliver quality products at affordable prices to our independent retailers, wholesalers and food service partners around the world by providing international procurement, distribution, marketing and supply chain management.",
+        "description": "Fat meats, clean meats. White, red meat, but also wine, pasta, and mozzarella. We bring the finest ingredients from the boot peninsula",
         "categories": "Italian food",
         "opening_hour": "10:00 AM",
         "closing_hour": "10:00 PM",
@@ -11,8 +11,8 @@
     {
         "id": 1,
         "name": "Spice Pub",
-        "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
-        "categories": "Vegetarian",
+        "description": "We earned the trust of our vegetarian customers through years of dedication to the art of good, satisfying food using what the earth gives our farmers.",
+        "categories": "Vegan food",
         "opening_hour": "8:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "name": "Fast Box",
-        "description": "Delhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.",
+        "description": "Quick, easy, filling. Stop by us when you are busy, but still need a warm meal that tastes of home.",
         "categories": "Fast food",
         "opening_hour": "10:00 AM",
         "closing_hour": "10:00 PM",
@@ -29,7 +29,7 @@
     {
         "id": 3,
         "name": "Hungry Bar & Grill",
-        "description": "To provide an exceptional dining experience that satisfies our guests grown-up tastes by being a Cut-Above in everything we do.",
+        "description": "The smokiest, tastiest grilled meat you'll ever have, yee haw!.",
         "categories": "Barbecue",
         "opening_hour": "10:00 AM",
         "closing_hour": "9:00 PM",
@@ -47,8 +47,8 @@
     {
         "id": 5,
         "name": "Salty Subs",
-        "description": "Culvers Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culvers is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.",
-        "categories": "Brunch",
+        "description": "Salty Subs was founded by the Richard Biggie in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. We are known for our specialty, the hell sub, with pig meat and the spiciest peppers in the world.",
+        "categories": "Fast food",
         "opening_hour": "10:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Avocado Toast"
@@ -57,7 +57,7 @@
         "id": 6,
         "name": "The green leaf",
         "description": "We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "7:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -138,7 +138,7 @@
         "id": 15,
         "name": "Sweeding Tree",
         "description": "We love greenery in our parks and in our bellies. Try our Vegetarian Porkchop and our vegan meatballs.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "7:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -255,7 +255,7 @@
         "id": 28,
         "name": "Veggie Delight",
         "description": "A vegetarian's paradise where fresh, flavorful ingredients come together for a wholesome meal. Enjoy our Grilled Vegetable Platter, crafted to perfection for those who appreciate healthy eating.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "6:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -309,7 +309,7 @@
         "id": 34,
         "name": "Green Plate Café",
         "description": "A vegetarian-friendly café offering fresh, wholesome dishes. Our Grilled Vegetable Platter is the perfect option for those looking for a delicious and nutritious meal full of flavor.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "7:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -444,7 +444,7 @@
         "id": 49,
         "name": "Veggie Feast",
         "description": "A vegetarian haven offering wholesome and nutritious meals. Our Grilled Vegetable Platter is a healthy and flavorful choice, made with the freshest seasonal vegetables.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "10:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -487,12 +487,12 @@
     },
     {
         "id": 54,
-        "name": "Sushi Fusion",
-        "description": "A vibrant fusion restaurant combining traditional sushi with a creative twist. The Chef's Special features unique flavors and culinary innovation.",
-        "categories": "Italian food",
+        "name": "Sushi Mountain",
+        "description": "A vibrant japanese restaurant combining traditional sushi with a creative twist. The Chef's Special features unique flavors and culinary innovation.",
+        "categories": "Japanese food",
         "opening_hour": "8:00 AM",
         "closing_hour": "9:00 PM",
-        "main_dish": "Chef's Special"
+        "main_dish": "Chef's Sashimi"
     },
     {
         "id": 55,
@@ -507,7 +507,7 @@
         "id": 56,
         "name": "Green Garden Café",
         "description": "A welcoming vegetarian café offering fresh and healthy options. Try our Grilled Vegetable Platter for a nutritious and satisfying meal.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "7:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -516,7 +516,7 @@
         "id": 57,
         "name": "The Veggie Delight",
         "description": "A vegetarian haven with wholesome, delicious meals. Our Grilled Vegetable Platter is the perfect choice for those seeking healthy, plant-based dishes.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "6:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -570,7 +570,7 @@
         "id": 63,
         "name": "Green Sushi",
         "description": "A vegetarian sushi restaurant that brings fresh, sustainable ingredients to every dish. Our Grilled Vegetable Platter offers a healthy, satisfying choice.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "6:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -660,7 +660,7 @@
         "id": 73,
         "name": "The Veggie Spoon",
         "description": "A vegetarian eatery serving healthy and delicious plant-based dishes. Our Grilled Vegetable Platter is the perfect choice for a wholesome meal.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "8:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -678,7 +678,7 @@
         "id": 75,
         "name": "Vegetarian King",
         "description": "A vegetarian restaurant serving wholesome, delicious meals. Our Grilled Vegetable Platter is made with the finest, freshest ingredients.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "8:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -705,7 +705,7 @@
         "id": 78,
         "name": "Veggie Garden",
         "description": "Veggie Garden specializes in delicious vegetarian dishes made with fresh, organic ingredients. Our Grilled Vegetable Platter is a customer favorite.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "7:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -750,7 +750,7 @@
         "id": 83,
         "name": "The Green Oven",
         "description": "The Green Oven offers a wide selection of vegetarian meals, with a standout Grilled Vegetable Platter that is both satisfying and healthy.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "9:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -759,7 +759,7 @@
         "id": 84,
         "name": "Garden Feast",
         "description": "At Garden Feast, we serve vibrant vegetarian dishes. Our Grilled Vegetable Platter is a wholesome and delicious choice for all veggie lovers.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "8:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -795,7 +795,7 @@
         "id": 88,
         "name": "Veggie Delight",
         "description": "Veggie Delight offers an array of flavorful vegetarian options. The Grilled Vegetable Platter is a satisfying and nourishing choice.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "6:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -813,7 +813,7 @@
         "id": 90,
         "name": "Grilled Veggie Café",
         "description": "Grilled Veggie Café serves healthy and satisfying vegetarian dishes, with our signature Grilled Vegetable Platter being a top choice.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "7:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -885,7 +885,7 @@
         "id": 98,
         "name": "Green Veggie Diner",
         "description": "Green Veggie Diner offers a variety of vegetarian dishes that are both healthy and satisfying, including our standout Grilled Vegetable Platter.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "8:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -894,7 +894,7 @@
         "id": 99,
         "name": "The Veggie Grill",
         "description": "The Veggie Grill specializes in delicious vegetarian dishes made with fresh, seasonal produce. Our Grilled Vegetable Platter is a crowd favorite.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "8:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -1020,7 +1020,7 @@
         "id": 113,
         "name": "Orange Garden",
         "description": "Orange Garden serves fresh, vegetarian delights with a twist of creativity. Our Grilled Vegetable Platter is packed with flavor, making it the perfect choice for anyone looking for a healthy and hearty meal in a vibrant and welcoming setting.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "9:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -1200,7 +1200,7 @@
         "id": 133,
         "name": "Green Leaf Bistro",
         "description": "A haven for plant-based dining, offering creative vegetarian dishes made from the finest organic ingredients to nourish both body and soul.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "6:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -1290,7 +1290,7 @@
         "id": 143,
         "name": "The Green Plate",
         "description": "A vegetarian restaurant that combines creativity and healthy eating, offering fresh, flavorful dishes that cater to all dietary needs.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "7:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -1434,7 +1434,7 @@
         "id": 159,
         "name": "Garden Fresh Café",
         "description": "We pride ourselves on creating delicious and wholesome vegetarian dishes. Our commitment to using the finest fresh ingredients ensures every bite is as nutritious as it is tasty. Join us for a meal that’s good for your body and soul.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "9:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -1470,7 +1470,7 @@
         "id": 163,
         "name": "The Green Plate",
         "description": "We are dedicated to creating healthy and flavorful vegetarian meals. Our dishes are made with locally sourced ingredients, designed to satisfy your hunger and promote your well-being, all in a welcoming and eco-conscious environment.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "6:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -1515,7 +1515,7 @@
         "id": 168,
         "name": "The Vine Café",
         "description": "The Vine Café offers an inviting atmosphere where fresh, locally sourced ingredients take center stage. Our menu reflects our commitment to quality, with a variety of vegetarian options that are both satisfying and nourishing.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "6:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -1524,7 +1524,7 @@
         "id": 169,
         "name": "Green Leaf Grill",
         "description": "At Green Leaf Grill, we focus on creating dishes that are not only delicious but healthy. Our vibrant, vegetarian meals are crafted with fresh ingredients, ensuring every dish is as nourishing as it is flavorful.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "10:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -1650,7 +1650,7 @@
         "id": 183,
         "name": "Verdant Kitchen",
         "description": "A haven for plant-based dining, Verdant Kitchen serves vibrant vegetarian dishes that are both nourishing and delicious. We use fresh, seasonal ingredients to create culinary masterpieces that cater to every palate.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "7:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -1659,7 +1659,7 @@
         "id": 184,
         "name": "The Greenhouse Cafe",
         "description": "With a focus on organic and sustainable dining, The Greenhouse Cafe offers delicious vegetarian dishes made with the freshest ingredients. Come enjoy a wholesome meal in an inviting and eco-conscious environment.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "10:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -1695,7 +1695,7 @@
         "id": 188,
         "name": "The Bistro 520",
         "description": "A charming bistro offering classic comfort food with a contemporary twist. The Bistro 520 invites you to enjoy a delicious meal, combining fresh ingredients with a welcoming atmosphere.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "10:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -1848,7 +1848,7 @@
         "id": 205,
         "name": "Sushi Excellence",
         "description": "Master sushi chefs create innovative combinations while respecting traditional techniques.",
-        "categories": "Sushi",
+        "categories": "Japanese food",
         "opening_hour": "12:00 PM",
         "closing_hour": "11:00 PM",
         "main_dish": "Chef's Selection"
@@ -1857,7 +1857,7 @@
         "id": 206,
         "name": "Mediterranean Pearl",
         "description": "Coastal Mediterranean cuisine featuring fresh seafood and local ingredients.",
-        "categories": "Mediterranean",
+        "categories": "Italian food",
         "opening_hour": "12:00 PM",
         "closing_hour": "10:30 PM",
         "main_dish": "Seafood Paella"
@@ -1873,18 +1873,18 @@
     },
     {
         "id": 208,
-        "name": "Fusion Factory",
-        "description": "Innovative fusion cuisine combining Asian and European flavors in creative ways.",
-        "categories": "Fusion",
+        "name": "Rice Factory",
+        "description": "Innovative cuisine combining Japanese flavors in creative ways.",
+        "categories": "Japanese food",
         "opening_hour": "5:00 PM",
         "closing_hour": "11:00 PM",
-        "main_dish": "Asian-Italian Fusion Bowl"
+        "main_dish": "Asian Fusion Bowl"
     },
     {
         "id": 209,
         "name": "The Steakhouse",
         "description": "Premium steakhouse featuring aged beef and classic American sides.",
-        "categories": "Steakhouse",
+        "categories": "Barbecue",
         "opening_hour": "4:00 PM",
         "closing_hour": "11:00 PM",
         "main_dish": "Ribeye Steak"
@@ -1893,7 +1893,7 @@
         "id": 210,
         "name": "Vegan Paradise",
         "description": "Creative plant-based cuisine using organic ingredients and innovative cooking techniques.",
-        "categories": "Vegan",
+        "categories": "Vegan food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Buddha Bowl"
@@ -1974,7 +1974,7 @@
         "id": 219,
         "name": "Pizza Paradise",
         "description": "Authentic Neapolitan pizza made in a wood-fired oven with imported ingredients.",
-        "categories": "Pizza",
+        "categories": "Italian food",
         "opening_hour": "11:30 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Margherita Pizza"
@@ -2019,7 +2019,7 @@
         "id": 224,
         "name": "Vegetarian Oasis",
         "description": "Creative vegetarian cuisine using organic and locally sourced ingredients.",
-        "categories": "Vegetarian",
+        "categories": "Vegan food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:30 PM",
         "main_dish": "Quinoa Power Bowl"
@@ -2072,8 +2072,8 @@
     {
         "id": 230,
         "name": "Noodle House",
-        "description": "Asian noodle specialties from various regions with authentic preparations.",
-        "categories": "Asian Fusion",
+        "description": "Japanese noodle specialties from various regions with authentic preparations.",
+        "categories": "Japanese food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Dan Dan Noodles"
@@ -2082,7 +2082,7 @@
         "id": 231,
         "name": "Mediterranean Grill",
         "description": "Fresh Mediterranean cuisine with emphasis on grilled meats and seafood.",
-        "categories": "Mediterranean",
+        "categories": "Italian food",
         "opening_hour": "12:00 PM",
         "closing_hour": "10:30 PM",
         "main_dish": "Mixed Grill Platter"
@@ -2136,7 +2136,7 @@
         "id": 237,
         "name": "Raw Vegan Cafe",
         "description": "Creative raw vegan dishes and cold-pressed juices in an eco-friendly setting.",
-        "categories": "Raw Vegan",
+        "categories": "Vegan food",
         "opening_hour": "8:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Living Lasagna"
@@ -2145,16 +2145,16 @@
         "id": 238,
         "name": "Soul Food Kitchen",
         "description": "Traditional Southern soul food with family recipes passed down generations.",
-        "categories": "Soul Food",
+        "categories": "American Food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Fried Chicken & Waffles"
     },
     {
         "id": 239,
-        "name": "Pacific Rim",
-        "description": "Fusion cuisine combining flavors from around the Pacific Ocean.",
-        "categories": "Pacific Fusion",
+        "name": "Japanese Rim",
+        "description": "Japanese cuisine combining flavors from around the island.",
+        "categories": "Japanese food",
         "opening_hour": "5:00 PM",
         "closing_hour": "10:30 PM",
         "main_dish": "Miso Glazed Black Cod"
@@ -2188,9 +2188,9 @@
     },
     {
         "id": 243,
-        "name": "Malaysian Street",
-        "description": "Authentic Malaysian street food favorites in a casual setting.",
-        "categories": "Malaysian food",
+        "name": "China Street",
+        "description": "Authentic Chinese street food favorites in a casual setting.",
+        "categories": "Chinese food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Laksa"
@@ -2225,8 +2225,8 @@
     {
         "id": 247,
         "name": "Dumpling House",
-        "description": "Handmade dumplings from various Asian traditions.",
-        "categories": "Asian Fusion",
+        "description": "Handmade dumplings from traditional chinese cooks.",
+        "categories": "Chinese food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:30 PM",
         "main_dish": "Soup Dumplings"
@@ -2252,11 +2252,11 @@
     {
         "id": 250,
         "name": "Taco Lab",
-        "description": "Creative tacos with global influences and craft margaritas.",
-        "categories": "Mexican fusion",
+        "description": "Creative tacos with Spanish influences and craft margaritas.",
+        "categories": "Mexican food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
-        "main_dish": "Fusion Tacos"
+        "main_dish": "Burning Tacos"
     },
     {
         "id": 251,
@@ -2334,7 +2334,7 @@
         "id": 259,
         "name": "Burger Lab",
         "description": "Experimental burger combinations with unique toppings and sauces.",
-        "categories": "Burgers",
+        "categories": "American food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Experimental Burger"
@@ -2379,7 +2379,7 @@
         "id": 264,
         "name": "Falafel King",
         "description": "Middle Eastern street food with homemade falafel and shawarma.",
-        "categories": "Middle Eastern",
+        "categories": "Middle Eastern food",
         "opening_hour": "10:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Falafel Platter"
@@ -2397,7 +2397,7 @@
         "id": 266,
         "name": "Pizza Lab",
         "description": "Experimental pizzas with unique toppings and combinations.",
-        "categories": "Pizza",
+        "categories": "Italian food",
         "opening_hour": "11:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Chef's Special Pizza"
@@ -2442,7 +2442,7 @@
         "id": 271,
         "name": "Mediterranean Mezze",
         "description": "Small plates and mezze from around the Mediterranean.",
-        "categories": "Mediterranean",
+        "categories": "Italian food",
         "opening_hour": "11:30 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Mezze Platter"
@@ -2550,7 +2550,7 @@
         "id": 283,
         "name": "New York Slice",
         "description": "Classic pizzeria serving thin-crust New York-style pizzas and garlic knots.",
-        "categories": "Pizza",
+        "categories": "American food",
         "opening_hour": "10:30 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Pepperoni Pizza"
@@ -2568,7 +2568,7 @@
         "id": 285,
         "name": "Mediterranean Delight",
         "description": "Cozy spot for Mediterranean staples like falafel, hummus, and shawarma.",
-        "categories": "Mediterranean food",
+        "categories": "Middle Eastern food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Chicken Shawarma Plate"
@@ -2692,9 +2692,9 @@
     },
     {
         "id": 299,
-        "name": "Belgian Bliss",
-        "description": "Charming cafe offering authentic Belgian waffles, crepes, and coffee.",
-        "categories": "Belgian food",
+        "name": "French Bliss",
+        "description": "Charming cafe offering authentic French waffles, crepes, and coffee.",
+        "categories": "French food",
         "opening_hour": "8:00 AM",
         "closing_hour": "4:00 PM",
         "main_dish": "Liege Waffle"
@@ -2757,7 +2757,7 @@
         "id": 306,
         "name": "Green Veggie Cafe",
         "description": "Healthy vegetarian cafe offering bowls, smoothies, and plant-based dishes.",
-        "categories": "Vegetarian food",
+        "categories": "Vegan food",
         "opening_hour": "9:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Quinoa Salad Bowl"
@@ -2802,7 +2802,7 @@
         "id": 311,
         "name": "La Cocina Latina",
         "description": "Vibrant Latin kitchen offering empanadas, arepas, and rice bowls.",
-        "categories": "Latin food",
+        "categories": "Mexican food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Empanadas"
@@ -2818,9 +2818,9 @@
     },
     {
         "id": 313,
-        "name": "Flavors of Ethiopia",
-        "description": "Authentic Ethiopian restaurant offering injera, tibs, and stews.",
-        "categories": "Ethiopian food",
+        "name": "Flavors of Italy",
+        "description": "Authentic Italian restaurant offering Panzerotti, Focaccia, and Pizza fritta.",
+        "categories": "Italian food",
         "opening_hour": "12:00 PM",
         "closing_hour": "10:00 PM",
         "main_dish": "Doro Wat"
@@ -2856,7 +2856,7 @@
         "id": 317,
         "name": "Southern Comfort",
         "description": "Southern-style comfort food with fried chicken, mashed potatoes, and cornbread.",
-        "categories": "Southern food",
+        "categories": "American food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Fried Chicken"
@@ -2881,9 +2881,9 @@
     },
     {
         "id": 320,
-        "name": "The Cajun Spot",
-        "description": "Cajun seafood restaurant with a focus on crawfish, shrimp boils, and po' boys.",
-        "categories": "Cajun food",
+        "name": "The Sea Spot",
+        "description": "Seafood restaurant with a focus on crawfish, shrimp boils, and po' boys.",
+        "categories": "Seafood",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Crawfish Boil"
@@ -2964,7 +2964,7 @@
         "id": 329,
         "name": "The Waffle House",
         "description": "Sweet and savory waffle house known for its crispy waffles, eggs, and bacon.",
-        "categories": "Breakfast, Waffles",
+        "categories": "Brunch",
         "opening_hour": "7:00 AM",
         "closing_hour": "3:00 PM",
         "main_dish": "Chicken & Waffles"
@@ -3009,7 +3009,7 @@
         "id": 334,
         "name": "Buns & Bites",
         "description": "Gourmet sandwich shop offering creative sandwiches, soups, and salads.",
-        "categories": "Sandwiches",
+        "categories": "Fast food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Pulled Pork Sandwich"
@@ -3036,7 +3036,7 @@
         "id": 337,
         "name": "The Pancake House",
         "description": "Cozy diner serving classic pancakes, waffles, and omelets.",
-        "categories": "Breakfast",
+        "categories": "Brunch",
         "opening_hour": "7:00 AM",
         "closing_hour": "3:00 PM",
         "main_dish": "Stack of Pancakes"
@@ -3044,7 +3044,7 @@
     {
         "id": 338,
         "name": "Spice Symphony",
-        "description": "Indian fusion restaurant with a modern twist on traditional curries and tandoori dishes.",
+        "description": "Indian restaurant with a modern twist on traditional curries and tandoori dishes.",
         "categories": "Indian food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
@@ -3098,8 +3098,8 @@
     {
         "id": 344,
         "name": "The Pie Shop",
-        "description": "Local bakery serving freshly baked savory and sweet pies.",
-        "categories": "Bakery",
+        "description": "Local bakery serving freshly baked savory and salty focaccia.",
+        "categories": "Italian food",
         "opening_hour": "7:00 AM",
         "closing_hour": "6:00 PM",
         "main_dish": "Beef Wellington Pie"
@@ -3170,8 +3170,8 @@
     {
         "id": 352,
         "name": "Noodle Nirvana",
-        "description": "Asian noodle shop offering a wide variety of noodle soups and stir-fries.",
-        "categories": "Asian food",
+        "description": "Japanese noodle shop offering a wide variety of noodle soups and stir-fries.",
+        "categories": "Japanese food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Pad Thai"
@@ -3198,7 +3198,7 @@
         "id": 355,
         "name": "BBQ Town",
         "description": "American BBQ joint known for its slow-cooked meats and smoky sauces.",
-        "categories": "American food",
+        "categories": "Barbecue",
         "opening_hour": "12:00 PM",
         "closing_hour": "11:00 PM",
         "main_dish": "Pulled Pork Sandwich"
@@ -3206,7 +3206,7 @@
     {
         "id": 356,
         "name": "Spice Route",
-        "description": "Indian fusion restaurant offering modern takes on classic Indian dishes.",
+        "description": "Indian dinery restaurant offering modern takes on classic Indian dishes.",
         "categories": "Indian food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
@@ -3214,9 +3214,9 @@
     },
     {
         "id": 357,
-        "name": "Havana Nights",
-        "description": "Cuban restaurant offering authentic Cuban sandwiches, rice bowls, and mojitos.",
-        "categories": "Cuban food",
+        "name": "Samba Nights",
+        "description": "Mexican restaurant offering authentic Mexican music, Burritos and Tacos.",
+        "categories": "Mexican food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Cuban Sandwich"
@@ -3234,7 +3234,7 @@
         "id": 359,
         "name": "The Sandwich Spot",
         "description": "Casual sandwich shop offering a wide variety of gourmet sandwiches and soups.",
-        "categories": "Sandwiches",
+        "categories": "Fast food",
         "opening_hour": "10:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Turkey Club Sandwich"
@@ -3270,7 +3270,7 @@
         "id": 363,
         "name": "The Greenhouse Cafe",
         "description": "Farm-to-table cafe offering fresh salads, wraps, and smoothies.",
-        "categories": "Healthy food",
+        "categories": "Vegan food",
         "opening_hour": "7:00 AM",
         "closing_hour": "5:00 PM",
         "main_dish": "Avocado Toast"
@@ -3278,7 +3278,7 @@
     {
         "id": 364,
         "name": "Saffron Grill",
-        "description": "Indian fusion restaurant featuring a variety of spiced dishes and grilled meats.",
+        "description": "Indian restaurant featuring a variety of spiced dishes and grilled meats.",
         "categories": "Indian food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
@@ -3351,7 +3351,7 @@
         "id": 372,
         "name": "Noodle Express",
         "description": "Quick-service spot offering Asian noodle dishes and dim sum.",
-        "categories": "Asian food",
+        "categories": "Chinese food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Beef Chow Fun"
@@ -3360,7 +3360,7 @@
         "id": 373,
         "name": "The Pancake House",
         "description": "Breakfast spot known for its variety of pancakes, waffles, and egg dishes.",
-        "categories": "Breakfast",
+        "categories": "Brunch",
         "opening_hour": "7:00 AM",
         "closing_hour": "3:00 PM",
         "main_dish": "Buttermilk Pancakes"
@@ -3378,7 +3378,7 @@
         "id": 375,
         "name": "Buns & Brews",
         "description": "Gourmet bakery specializing in freshly baked buns and artisan coffee.",
-        "categories": "Bakery",
+        "categories": "Italian food",
         "opening_hour": "7:00 AM",
         "closing_hour": "5:00 PM",
         "main_dish": "Cinnamon Roll"
@@ -3504,7 +3504,7 @@
         "id": 389,
         "name": "Mediterranean Grill",
         "description": "Greek and Middle Eastern-inspired grill serving kebabs, falafel, and hummus.",
-        "categories": "Mediterranean food",
+        "categories": "Greek food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Shawarma"
@@ -3512,8 +3512,8 @@
     {
         "id": 390,
         "name": "Bao Bun Street",
-        "description": "Asian street food restaurant offering bao buns with a variety of fillings.",
-        "categories": "Asian food",
+        "description": "Chinese street food restaurant offering bao buns with a variety of fillings.",
+        "categories": "Chinese food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Pork Bao"
@@ -3585,7 +3585,7 @@
         "id": 398,
         "name": "Poke Bowl Bar",
         "description": "Healthy and fresh poke bowls with customizable toppings and sauces.",
-        "categories": "Healthy food",
+        "categories": "Japanese food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Ahi Poke Bowl"
