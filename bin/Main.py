@@ -5,7 +5,6 @@ from Supervised_Learning import supervised_learning
 from Neural_Networks import train_autoencoder, get_recommendations
 
 def main():
-
     #Richiamo una a una le funzioni importanti
     supervised_learning()
     train_autoencoder()

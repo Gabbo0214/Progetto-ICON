@@ -62,7 +62,6 @@ def train_autoencoder(data_path_restaurants='dataset/restaurantList.json', data_
     )
 
 def get_recommendations(user_id, top_n=10):
-    
     global autoencoder, rating_matrix, restaurants
     
     #Controllo che tutto sia inizializzato correttamente

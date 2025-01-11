@@ -13,12 +13,11 @@ def download_if_missing(resource):
     try:
         nltk.data.find(resource)
     except LookupError:
-        print(f"Scaricando {resource}...")
+        print(f"Installing {resource}...")
         nltk.download(resource)
 
 #Scarica risorse necessarie per nltk solo se non già presenti
 download_if_missing('stopwords')
-download_if_missing('punkt')
 download_if_missing('punkt_tab')
 download_if_missing('wordnet')
 download_if_missing('omw-1.4')
@@ -116,8 +115,8 @@ def supervised_learning():
             predicted_category = predict_category(description, word_counts, category_counts)
             
             #Stampa la categoria predetta e quella reale
-            print(f"Descrizione: {description}")
-            print(f"Categoria Predetta: {predicted_category}, Categoria Reale: {true_category}\n")
+            print(f"Description: {description}")
+            print(f"Predicted Category: {predicted_category}, Real Category: {true_category}\n")
             
             if predicted_category == true_category:
                 total_correct += 1
@@ -127,4 +126,4 @@ def supervised_learning():
     total_accuracy = total_correct / total_test_samples
     
     #Stampa l'accuratezza totale
-    print(f"Accuratezza totale: {total_accuracy * 100:.2f}%")
+    print(f"Total Accuracy: {total_accuracy * 100:.2f}%")

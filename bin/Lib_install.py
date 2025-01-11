@@ -3,19 +3,19 @@ import sys
 import importlib
 
 #Funzione per installare una libreria
-def install(package):
+def install(package):  
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 
 #Verifico se una libreria è installata, altrimenti la installo
-def check_and_install_library(libraries):
+def check_and_install_library(libraries):   
     for library in libraries:
         try:
             #Verifico se la libreria è già importabile
             importlib.import_module(library)
-            print(f"Libreria '{library}' già installata.")
+            print(f"Library '{library}' already installed.")
         except ImportError:
             #Se la libreria non è installata, la installo
-            print(f"Libreria '{library}' non trovata. Installazione in corso...")
+            print(f"Library '{library}' not found. Downloading...")
             install(library)
 
 #Funzione per leggere il file requirements.txt e ottenere le librerie
@@ -26,7 +26,7 @@ def get_libraries_from_requirements():
             #Aggiungo ogni riga del file come libreria
             libraries = [line.strip() for line in file if line.strip() and not line.startswith('#')]
     except FileNotFoundError:
-        print("File 'requirements.txt' non trovato.")
+        print("File 'requirements.txt' not found.")
     return libraries
 
 def check_and_install_libraries():
