@@ -2,7 +2,7 @@ import csv
 import json
 import os
 
-# Crea il dataset in formato CSV
+#Creo il dataset in formato CSV
 def createCSVDataset(input_file):
     
     output_file = os.path.splitext(input_file)[0] + '.csv'
@@ -14,7 +14,7 @@ def createCSVDataset(input_file):
             if not isinstance(data, list):
                 raise ValueError("Il file JSON non contiene una lista di oggetti.")
 
-            # Definisci i campi basandoti sulle chiavi del primo elemento
+            #Definisco i campi basandomi sulle chiavi del primo elemento
             fieldnames = data[0].keys()
 
             with open(output_file, 'w', newline='', encoding='utf-8') as csv_file:
@@ -24,6 +24,7 @@ def createCSVDataset(input_file):
 
             print(f"File CSV creato con successo: {output_file}")
 
+    #Possibili exceptions
     except FileNotFoundError:
         print(f"Il file {input_file} non è stato trovato.")
     except json.JSONDecodeError:
