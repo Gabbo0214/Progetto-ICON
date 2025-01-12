@@ -3,25 +3,36 @@ check_and_install_libraries()
     
 from Supervised_Learning import supervised_learning
 from Neural_Networks import train_autoencoder, get_recommendations
-from Knowledge_Graph import create_knowledge_graph
+from Knowledge_Graph import create_knowledge_graph, highly_rated_restaurants, most_popular_restaurants, users_who_like_same_category
 
-def display_phone_screen():
-    """
-    Simulo lo schermo di un telefono per l'interazione con l'utente.
-    """
+def display_app_screen():
+
     print("\n" + "="*30)
     print("        🍴 Glutton         ")
     print("="*30)
     print("1. Lista ristoranti per categoria")
-    print("2. Grafico ristoranti consigliati")
-    print("3. Ottieni Raccomandazioni")
+    print("2. Esplora i ristoranti...")
+    print("3. Raccomandazioni dell'app")
     print("4. Esci")
     print("="*30)
 
+def display_new_screen():
+
+    print("\n" + "="*30)
+    print("    🍴 Glutton Explorer     ")
+    print("="*30)
+    print("1. Le star del momento")
+    print("2. Per i tuoi standard")
+    print("3. Utenti con gusti simili")
+    print("4. Esci")
+    print("="*30)
+    
 def main():
     
+    user_id = input("\n[⌨️  ]Inserisci il tuo ID utente (solo il numero): ")
+            
     while True:
-        display_phone_screen()
+        display_app_screen()
         choice = input("Seleziona un'opzione (1-4): ")
         
         if choice == "1":
@@ -30,9 +41,24 @@ def main():
         elif choice == "2":
             print("\n[🔍] Creazione del grafico...")
             graph = create_knowledge_graph('dataset/restaurantList.csv', 'dataset/userRatings.csv')
-            print("\n[✔️ ] Grafico creato con successo.")
+            
+            while True:
+                display_new_screen()
+                new_choice = input("Seleziona un'opzione (1-4): ")
+                if new_choice == "1":
+                    most_popular_restaurants(graph)
+                elif new_choice == "2":
+                    rating_requested = input("\n[⌨️  ]Inserisci la valutazione minima (1-5): ")
+                    highly_rated_restaurants(graph, rating_requested)
+                elif new_choice == "3":
+                    users_who_like_same_category(graph, user_id)
+                elif new_choice == "4":
+                    print("\n[👋] Ritorno alla schermata principale.")
+                    break
+                else:
+                    print("\n[❌] Scelta non valida. Riprova.")
+            
         elif choice == "3":
-            user_id = input("\nInserisci l'ID utente per le raccomandazioni: ")
             print(f"\n[🎯] Raccomandazioni per l'utente {user_id}...")
             print("\n[🤖] Allenamento Autoencoder in corso...")
             train_autoencoder()

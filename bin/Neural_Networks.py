@@ -2,10 +2,10 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Model
-from tensorflow.keras.layers import Input, Dense, Flatten, Reshape
+from tensorflow.keras.layers import Input, Dense
 from tensorflow.keras.optimizers import Adam
 
-# Variabili globali per dati precaricati
+#Variabili globali per dati precaricati
 autoencoder = None
 rating_matrix = None
 restaurants = None
@@ -13,11 +13,11 @@ restaurants = None
 def train_autoencoder(data_path_restaurants='dataset/restaurantList.json', data_path_ratings='dataset/userRatings.json', epochs=50, batch_size=32):
     global autoencoder, rating_matrix, restaurants
 
-    # 1. Carico i dataset
+    #1. Carico i dataset
     restaurants = pd.read_json(data_path_restaurants)
     ratings = pd.read_json(data_path_ratings)
 
-    # 2. Preprocessing: creo una matrice di ristoranti e recensioni
+    #2. Preprocessing: creo una matrice di ristoranti e recensioni
     ratings['restaurant_id'] = ratings['restaurant_id'].astype(int)
     user_ids = ratings['user_id'].astype('category').cat.codes
     restaurant_ids = ratings['restaurant_id'].astype('category').cat.codes
@@ -32,10 +32,10 @@ def train_autoencoder(data_path_restaurants='dataset/restaurantList.json', data_
     for row in ratings.itertuples():
         rating_matrix[row.user_id_mapped, row.restaurant_id_mapped] = row.rating
 
-    # 3. Divido i dati in allenamento e test
+    #3. Divido i dati in allenamento e test
     train_data, test_data = train_test_split(rating_matrix, test_size=0.2, random_state=42)
 
-    # 4. Definisco il modello autoencoder
+    #4. Definisco il modello autoencoder
     input_layer = Input(shape=(num_restaurants,))
     encoded = Dense(64, activation='relu')(input_layer)
     encoded = Dense(32, activation='relu')(encoded)
@@ -45,10 +45,10 @@ def train_autoencoder(data_path_restaurants='dataset/restaurantList.json', data_
 
     autoencoder = Model(input_layer, decoded)
 
-    # 5. Compilo e alleno il modello
+    #5. Compilo e alleno il modello
     autoencoder.compile(optimizer=Adam(learning_rate=0.001), loss='mean_squared_error')
 
-    # Normalizzazione dei voti
+    #Normalizzazione dei voti
     train_data_norm = train_data / np.max(train_data)
     test_data_norm = test_data / np.max(test_data)
 
@@ -64,24 +64,31 @@ def train_autoencoder(data_path_restaurants='dataset/restaurantList.json', data_
 def get_recommendations(user_id, top_n=10):
     global autoencoder, rating_matrix, restaurants
     
-    #Estraggo voti e ristoranti e normalizzo i voti
+    #Estraggo le valutazioni dell'utente
     user_ratings = rating_matrix[user_id].reshape(1, -1)
-    user_ratings_norm = user_ratings / np.max(rating_matrix)
 
-    #Seleziono tramite l'autoencoder i ristoranti predetti, e li elenco in ordine decrescente per i primi 10
+    #Normalizzo le valutazioni dell'utente
+    max_rating = np.max(rating_matrix)
+    user_ratings_norm = user_ratings / max_rating if max_rating > 0 else user_ratings
+
+    #Predico le valutazioni per tutti i ristoranti e ordino in base a quanto si pensa possa piacere all'utente
     predicted_ratings = autoencoder.predict(user_ratings_norm)
     recommended_restaurants_ids = (-predicted_ratings).argsort()[0][:top_n]
-
-    #Filtro i ristoranti consigliati e quelli già piaciuti
-    recommended_restaurants = restaurants[restaurants['id'].isin(recommended_restaurants_ids)]
+    
+    #Rimuovo i ristoranti già piaciuti dai consigli
     liked_restaurants_ids = np.where(rating_matrix[user_id] >= 4)[0]
-    liked_restaurants = restaurants[restaurants['id'].isin(liked_restaurants_ids)].head(3)
+    recommended_restaurants_ids = [r_id for r_id in recommended_restaurants_ids if r_id not in liked_restaurants_ids]
 
-    #Stampa dei dati richiesti, ovvero ristoranti piaciuti e consigliati
+    #Ottiengo i dettagli dei ristoranti consigliati e piaciuti
+    recommended_restaurants = restaurants.iloc[recommended_restaurants_ids]
+    liked_restaurants = restaurants.iloc[liked_restaurants_ids].head(3)
+    
+    #Stampo i ristoranti piaciuti
     print("Dato che ti piacciono:")
     for _, row in liked_restaurants.iterrows():
         print(f"- {row['name']}")
     
+    #Stampo i ristoranti consigliati
     print("\nPotrebbero piacerti anche:")
     for idx, (_, row) in enumerate(recommended_restaurants.iterrows(), start=1):
         print(f"{idx}. {row['name']}")

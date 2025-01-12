@@ -2,25 +2,11 @@ import csv
 from collections import defaultdict
 from CSV_Converter import createCSVDataset
 import math
-import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 import string
 from sklearn.model_selection import KFold
-
-def download_if_missing(resource):
-    try:
-        nltk.data.find(resource)
-    except LookupError:
-        print(f"Installing {resource}...")
-        nltk.download(resource)
-
-#Scarica risorse necessarie per nltk solo se non già presenti
-download_if_missing('stopwords')
-download_if_missing('punkt_tab')
-download_if_missing('wordnet')
-download_if_missing('omw-1.4')
 
 #Inizializza il lemmatizzatore e la lista di stopwords
 lemmatizer = WordNetLemmatizer()
@@ -87,17 +73,16 @@ def predict_category(description, word_counts, category_counts):
     #Restituisce la categoria con il punteggio più alto
     return max(scores, key=scores.get)
 
-#Eseguo il modello di apprendimento controllato
 def supervised_learning():
     createCSVDataset("dataset/restaurantList.json")
     createCSVDataset("dataset/userRatings.json")
     csv_file = 'dataset/restaurantList.csv'
     names, descriptions, categories = load_data_from_csv(csv_file)
     
-    #Preparo i dati per l'allenamento
+    # Preparo i dati per l'allenamento
     word_counts, category_counts = prepare_data(descriptions, categories)
     
-    #Eseguo la cross-validation e calcolo l'accuratezza
+    # Eseguo la cross-validation e calcolo l'accuratezza
     k = 4
     kf = KFold(n_splits=k)
     
@@ -105,28 +90,35 @@ def supervised_learning():
     total_test_samples = 0 
     
     for train_index, test_index in kf.split(descriptions):
-        #Divido i dati in training e test set per questo fold
+        # Divido i dati in training e test set per questo fold
         train_descriptions = [descriptions[i] for i in train_index]
         train_categories = [categories[i] for i in train_index]
         test_descriptions = [descriptions[i] for i in test_index]
         test_categories = [categories[i] for i in test_index]
+        test_names = [names[i] for i in test_index]  # Aggiungi i nomi dei ristoranti nel test set
         
-        #Valutazione sul test set
-        for description, true_category in zip(test_descriptions, test_categories):
+        # Valutazione sul test set
+        for description, true_category, name in zip(test_descriptions, test_categories, test_names):
             predicted_category = predict_category(description, word_counts, category_counts)
+            
+            # Stampa il confronto tra la categoria predetta e la categoria reale
+            print(f"Ristorante: {name}")
+            print(f"Categoria reale: {true_category}")
+            print(f"Categoria predetta: {predicted_category}\n")
+            
             if predicted_category == true_category:
                 total_correct += 1
             total_test_samples += 1
     
-    #Calcolo e stampo l'accuratezza
+    # Calcolo e stampo l'accuratezza
     total_accuracy = total_correct / total_test_samples
     print(f"Accuratezza totale: {total_accuracy * 100:.2f}%")
     print("\n[✔️ ] Supervised Learning completato.")
     print("\n[🤖] La nostra intelligenza artificiale ha organizzato i ristoranti per te.")
     
-    #Stampo le categorie e richiedo la selezione di una di esse
+    # Stampo le categorie e richiedo la selezione di una di esse
     show_categories(names, descriptions, categories, word_counts, category_counts)
-
+    
 #Funzione per stampare le categorie uniche
 def show_categories(names, descriptions, categories, word_counts, category_counts):
     unique_categories = sorted(set(categories))  # Ordino le categorie alfabeticamente
@@ -153,7 +145,6 @@ def show_restaurants_by_category(selected_category, names, descriptions, categor
     for train_index, test_index in kf.split(descriptions):
         #Seleziono i dati di allenamento e test per questo fold
         train_names = [names[i] for i in train_index]  
-        train_descriptions = [descriptions[i] for i in train_index]
         train_categories = [categories[i] for i in train_index]
         test_names = [names[i] for i in test_index]
         test_descriptions = [descriptions[i] for i in test_index]
