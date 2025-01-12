@@ -64,10 +64,6 @@ def train_autoencoder(data_path_restaurants='dataset/restaurantList.json', data_
 def get_recommendations(user_id, top_n=10):
     global autoencoder, rating_matrix, restaurants
     
-    #Controllo che tutto sia inizializzato correttamente
-    if autoencoder is None or rating_matrix is None or restaurants is None:
-        raise ValueError("Autoencoder model and data must be loaded first. Call train_autoencoder() before using get_recommendations().")
-    
     #Estraggo voti e ristoranti e normalizzo i voti
     user_ratings = rating_matrix[user_id].reshape(1, -1)
     user_ratings_norm = user_ratings / np.max(rating_matrix)
@@ -82,10 +78,10 @@ def get_recommendations(user_id, top_n=10):
     liked_restaurants = restaurants[restaurants['id'].isin(liked_restaurants_ids)].head(3)
 
     #Stampa dei dati richiesti, ovvero ristoranti piaciuti e consigliati
-    print("Based on your liking for these restaurants:")
+    print("Dato che ti piacciono:")
     for _, row in liked_restaurants.iterrows():
         print(f"- {row['name']}")
     
-    print("\nWe recommend:")
+    print("\nPotrebbero piacerti anche:")
     for idx, (_, row) in enumerate(recommended_restaurants.iterrows(), start=1):
         print(f"{idx}. {row['name']}")

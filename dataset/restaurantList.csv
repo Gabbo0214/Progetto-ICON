@@ -1,0 +1,401 @@
+id,name,description,categories,opening_hour,closing_hour,main_dish
+0,Fat Brasserie,"Fat meats, clean meats. White, red meat, but also wine, pasta, and mozzarella. We bring the finest ingredients from the boot peninsula",Italian food,10:00 AM,10:00 PM,Chef's Special
+1,Spice Pub,"We earned the trust of our vegetarian customers through years of dedication to the art of good, satisfying food using what the earth gives our farmers.",Vegan food,8:00 AM,10:00 PM,Grilled Vegetable Platter
+2,Fast Box,"Quick, easy, filling. Stop by us when you are busy, but still need a warm meal that tastes of home.",Fast food,10:00 AM,10:00 PM,Cheeseburger
+3,Hungry Bar & Grill,"The smokiest, tastiest grilled meat you'll ever have, yee haw!.",BBQ food,10:00 AM,9:00 PM,Grilled Vegetable Platter
+4,Smokestack Juice Bar,"Pizza, pasta and Mandolino are our most loved words!.",Italian food,6:00 AM,10:00 PM,Chef's Special
+5,Salty Subs,"Salty Subs was founded by the Richard Biggie in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. We are known for our specialty, the hell sub, with pig meat and the spiciest peppers in the world.",Fast food,10:00 AM,8:00 PM,Avocado Toast
+6,The green leaf,"We earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.",Vegan food,7:00 AM,8:00 PM,Grilled Vegetable Platter
+7,English Monsieur,We are committed to using the finest ingredients in our recipes. No food leaves our kitchen that we ourselves would not eat.,Fine dining,10:00 AM,11:00 PM,Beef Wellington
+8,The cheeser winer,"The best cheese, wine and meat your money can buy in this restaurant that lives and breathes by France's cuisine.",French food,8:00 AM,8:00 PM,Coq au Vin
+9,Swell Eatery,Our mission is to provide the best and highest quality fine dining experience money can buy.,Fine dining,9:00 AM,10:00 PM,Beef Wellington
+10,Green White and Red Coffee,"The objective is to deliver the best food one of the most beloved countries can offer. We bring the best pizzas, pasta e other specialties from our italian chefs.",Italian food,9:00 AM,8:00 PM,Chef's Special
+11,The greasy mafioso,"Mamma mia, the spaghetti at this pizzeria are unbeatable!.",Italian food,9:00 AM,8:00 PM,Chef's Special
+12,Sugar Sushi,"Sushi, Sashimi, Onigiri, you name it, we have it.",Japanese food,9:00 AM,10:00 PM,Salmon Sashimi
+13,Golden Eatery,"To ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price, nutritional, well-prepared meals using only quality cheese, wine and meat ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.",French food,10:00 AM,11:00 PM,Coq au Vin
+14,Silver Pizza King,"To sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To provide amazing italian food, with italian vegetables and meat.",Italian food,9:00 AM,10:00 PM,Silver Leaf Pizza
+15,Sweeding Tree,We love greenery in our parks and in our bellies. Try our Vegetarian Porkchop and our vegan meatballs.,Vegan food,7:00 AM,10:00 PM,Grilled Vegetable Platter
+16,La Belle Cuisine,"A warm, welcoming French bistro where we focus on creating authentic dishes using the finest ingredients. Our signature dish, Coq au Vin, is a reflection of the rich flavors of French cuisine. Experience the best of France, right here with us.",French food,8:00 AM,8:00 PM,Coq au Vin
+17,Burger Bliss,"Indulge in a quick, delicious bite at Burger Bliss, where our juicy, greasy burgers bring comfort and satisfaction. Perfect for a fast and tasty meal that’ll leave you craving for more.",Fast food,9:00 AM,8:00 PM,Cheeseburger
+18,Yoshinoya's Grill,"Offering hearty, satisfying meals at an unbeatable price, Yoshinoya’s Grill provides a variety of options for a quick and delicious meal. Whether you’re on the go or relaxing, we’re here to provide a wholesome, nutritious meal.",Fast food,6:00 AM,11:00 PM,Cheeseburger
+19,Pigeon’s Royal Feast,"Fine dining at its finest. At Pigeon’s Royal Feast, we offer only the best ingredients and dishes, ensuring every meal exceeds expectations. Our Beef Wellington is crafted to perfection for a dining experience unlike any other.",Fine dining,7:00 AM,8:00 PM,Beef Wellington
+20,Hokkaido Delights,"Discover the authentic flavors of Japan at Hokkaido Delights, where fresh fish and expert chefs come together to bring you the finest sushi. Let our Chef's Special cut be the highlight of your meal.",Japanese food,7:00 AM,10:00 PM,Chef's Special cut
+21,Spoon’s Elegance,"Enjoy an exquisite fine dining experience at Spoon’s Elegance, where breathtaking views meet world-class cuisine. Our signature dish, Beef Wellington, promises to impress even the most discerning diners.",Fine dining,9:00 AM,10:00 PM,Beef Wellington
+22,The Eagle’s Nest,"With a commitment to quality and flavor, The Eagle’s Nest offers a fine dining experience with a focus on healthy, delicious dishes. Our Grilled Vegetable Platter is a celebration of fresh, wholesome ingredients.",Fine dining,8:00 AM,9:00 PM,Grilled Vegetable Platter
+23,Curry House 184,"Spice up your day with the boldest, most flavorful curry in town. Curry House 184 serves a variety of curries, each one more flavorful and spicy than the last, with our Chef's Special curry taking the spotlight.",Indian food,9:00 AM,11:00 PM,Chef's Special
+24,Sunny Brunch Café,"Enjoy a relaxed and delicious brunch at Sunny Brunch Café, where we focus on fresh, light dishes perfect for a leisurely meal. Our Avocado Toast is a fan favorite, offering a healthy yet indulgent start to your day.",Brunch  & Other food,10:00 AM,10:00 PM,Avocado Toast
+25,Le Coq Bistro,"A charming French bistro serving authentic French cuisine. Our Coq au Vin is prepared with rich, flavorful ingredients that capture the essence of French cooking. Come for the flavors, stay for the experience.",French food,8:00 AM,10:00 PM,Coq au Vin
+26,Brunch & Co.,"Brunch at its finest, where we serve delightful dishes with a twist. Our Avocado Toast is the perfect blend of health and taste to fuel your morning or afternoon.",Brunch  & Other food,7:00 AM,8:00 PM,Avocado Toast
+27,Pizza Slice,"A fast food haven where delicious pizza meets a fast-paced lifestyle. Along with our signature Cheeseburger, we serve hot, fresh pizzas ready to satisfy any craving.",Fast food,7:00 AM,8:00 PM,Cheeseburger
+28,Veggie Delight,"A vegetarian's paradise where fresh, flavorful ingredients come together for a wholesome meal. Enjoy our Grilled Vegetable Platter, crafted to perfection for those who appreciate healthy eating.",Vegan food,6:00 AM,8:00 PM,Grilled Vegetable Platter
+29,Smokey Ribs BBQ,"Savor the finest BBQ steaks and ribs in town, with only the freshest, most flavorful meats on the grill. Come indulge in our hearty BBQ meals, like our tender ribs and juicy steaks.",BBQ food,9:00 AM,10:00 PM,Avocado Toast
+30,French Bistro Kitchen,"Indulge in the finest French dishes at French Bistro Kitchen. With our specialty, Coq au Vin, prepared to perfection, we aim to transport you straight to the heart of France with every bite.",French food,6:00 AM,8:00 PM,Coq au Vin
+31,The Fine Plate,"Offering a fine dining experience where quality and flavor shine. Our Beef Wellington is the star of the menu, showcasing the perfect blend of rich flavors and tender meat in every bite.",Fine dining,6:00 AM,10:00 PM,Beef Wellington
+32,Le Pub Français,"A cozy French pub offering a selection of the finest French dishes. Our Coq au Vin is a customer favorite, prepared with care and served with passion for authentic French cuisine.",French food,6:00 AM,8:00 PM,Coq au Vin
+33,Trattoria del Gusto,"Enjoy the tastes of Italy at Trattoria del Gusto, where every dish is made with fresh, high-quality ingredients. Our Chef's Special is a crowd favorite, featuring delicious Italian classics made to perfection.",Italian food,9:00 AM,9:00 PM,Chef's Special
+34,Green Plate Café,"A vegetarian-friendly café offering fresh, wholesome dishes. Our Grilled Vegetable Platter is the perfect option for those looking for a delicious and nutritious meal full of flavor.",Vegan food,7:00 AM,11:00 PM,Grilled Vegetable Platter
+35,Pasta & More,"Savor Italian flavors in a relaxed, casual setting at Pasta & More. With our Chef's Special taking center stage, each dish is designed to bring you the best of Italian cuisine, prepared with passion and precision.",Italian food,7:00 AM,11:00 PM,Chef's Special
+36,Orange Grove Bistro,"A French-inspired bistro where every dish is a masterpiece. Our Coq au Vin is an unforgettable experience, prepared with the finest ingredients and cooked to perfection. A taste of France, with a welcoming atmosphere.",French food,8:00 AM,10:00 PM,Coq au Vin
+37,Shaky Coq,"Indulge in delicious French cuisine at Shaky Coq, where every dish is crafted to perfection. Our Coq au Vin is a true French classic that will transport your taste buds to the heart of France.",French food,6:00 AM,9:00 PM,Coq au Vin
+38,Café del Gusto,"Enjoy a delightful Italian experience at Café del Gusto. Our Chef's Special showcases the best of Italian cuisine, combining fresh ingredients and authentic flavors for a memorable meal.",Italian food,7:00 AM,11:00 PM,Chef's Special
+39,Le Silver Bistro,"Experience the finest in French dining at Le Silver Bistro. Our Coq au Vin, paired with a great wine list, promises a rich and satisfying meal that embodies the essence of French cuisine.",French food,10:00 AM,9:00 PM,Coq au Vin
+40,Smokey Coq Grill,"For the best in French-inspired BBQ, Smokey Coq Grill delivers smoky goodness in every bite. Our Coq au Vin is the star of the show, bringing French culinary tradition to the grill.",French food,8:00 AM,10:00 PM,Coq au Vin
+41,Silver & Gold,"A sophisticated fine dining experience with a focus on French classics and innovative techniques. Our Beef Wellington is a must-try, featuring the finest cuts of meat and elegant preparation.",Fine dining,8:00 AM,10:00 PM,Beef Wellington
+42,Café Italiano,"Where every dish is made with the finest Italian ingredients. Our Chef's Special offers an authentic taste of Italy, bringing you the flavors of the Mediterranean with every bite.",Italian food,6:00 AM,8:00 PM,Chef's Special
+43,Gourmet Diner,"Gourmet Diner is the perfect place to experience elevated fine dining. Our Beef Wellington is a customer favorite, offering tender meat wrapped in pastry with a rich, flavorful filling.",Fine dining,6:00 AM,10:00 PM,Beef Wellington
+44,Brunch Heaven,"Brunch at Brunch Heaven offers delicious and satisfying dishes for every taste. Our Avocado Toast is the perfect way to start your day, with fresh ingredients and wholesome flavors.",Brunch  & Other food,10:00 AM,11:00 PM,Avocado Toast
+45,Burger & Fries,"A fast food paradise for burger lovers. At Burger & Fries, we pride ourselves on serving hearty, flavorful Cheeseburgers made with the freshest ingredients. Perfect for a quick, satisfying meal.",Fast food,6:00 AM,10:00 PM,Cheeseburger
+46,Creamy Treats,"A fast food spot that brings you the best comfort food with a creamy twist. Our Cheeseburger is an all-time favorite, made with quality ingredients and served with a side of creamy goodness.",Fast food,7:00 AM,10:00 PM,Cheeseburger
+47,Maxie’s Café,"Maxie’s Café serves a delicious blend of modern creativity and traditional cooking. Our Chef's Special is the highlight of the menu, offering a diverse range of dishes that showcase the best of Italian cuisine.",Italian food,6:00 AM,11:00 PM,Chef's Special
+48,Fresh Bites,"A fast food joint where freshness meets flavor. Our Cheeseburger is juicy, delicious, and made with the freshest ingredients to ensure you enjoy every bite.",Fast food,7:00 AM,11:00 PM,Cheeseburger
+49,Veggie Feast,"A vegetarian haven offering wholesome and nutritious meals. Our Grilled Vegetable Platter is a healthy and flavorful choice, made with the freshest seasonal vegetables.",Vegan food,10:00 AM,10:00 PM,Grilled Vegetable Platter
+50,Brunch Spot,"Brunch Spot is where you can enjoy a relaxing and flavorful brunch experience. Our Avocado Toast is the perfect light meal to enjoy with a cup of coffee, featuring fresh ingredients for a healthy start to your day.",Brunch  & Other food,8:00 AM,8:00 PM,Avocado Toast
+51,Sushi & Avocado,"A trendy spot offering fresh sushi and healthy avocado-based dishes for brunch. Enjoy a balanced, flavorful meal with the finest ingredients.",Brunch  & Other food,8:00 AM,11:00 PM,Avocado Toast
+52,Bella Italia,Experience authentic Italian cuisine with a focus on quality ingredients and excellent service. Our Chef's Special will transport your taste buds to Italy.,Italian food,6:00 AM,8:00 PM,Chef's Special
+53,Le Coq Bistro,A charming French bistro serving classic dishes with a modern twist. Indulge in the delicious Coq au Vin for an unforgettable culinary experience.,French food,9:00 AM,8:00 PM,Coq au Vin
+54,Sushi Mountain,A vibrant japanese restaurant combining traditional sushi with a creative twist. The Chef's Special features unique flavors and culinary innovation.,Japanese food,8:00 AM,9:00 PM,Chef's Sashimi
+55,The Pasta Box,"A casual Italian eatery offering freshly made pasta and other Italian classics. Our Chef's Special is crafted with love and fresh, seasonal ingredients.",Italian food,9:00 AM,9:00 PM,Chef's Special
+56,Green Garden Café,A welcoming vegetarian café offering fresh and healthy options. Try our Grilled Vegetable Platter for a nutritious and satisfying meal.,Vegan food,7:00 AM,11:00 PM,Grilled Vegetable Platter
+57,The Veggie Delight,"A vegetarian haven with wholesome, delicious meals. Our Grilled Vegetable Platter is the perfect choice for those seeking healthy, plant-based dishes.",Vegan food,6:00 AM,9:00 PM,Grilled Vegetable Platter
+58,Classic Italian Kitchen,"Authentic Italian food made with the finest ingredients. Our Chef's Special offers a traditional, comforting taste of Italy.",Italian food,6:00 AM,8:00 PM,Chef's Special
+59,French Country Pub,A cozy French pub offering hearty meals and a warm atmosphere. Enjoy a delicious Coq au Vin paired with our selection of fine wines.,French food,7:00 AM,10:00 PM,Coq au Vin
+60,Steakhouse Haven,A classic steakhouse offering juicy steaks and comforting sides. Our Chef's Special features the finest cuts of meat prepared to perfection.,Italian food,8:00 AM,10:00 PM,Chef's Special
+61,Gastronomy & Grace,A refined dining experience where excellent food meets gracious hospitality. Our Avocado Toast is a healthy and flavorful option for brunch.,Brunch  & Other food,7:00 AM,9:00 PM,Avocado Toast
+62,Classic Café,A beloved café offering classic brunch dishes with a modern twist. Enjoy our Avocado Toast along with your favorite coffee or tea.,Brunch  & Other food,9:00 AM,11:00 PM,Avocado Toast
+63,Green Sushi,"A vegetarian sushi restaurant that brings fresh, sustainable ingredients to every dish. Our Grilled Vegetable Platter offers a healthy, satisfying choice.",Vegan food,6:00 AM,8:00 PM,Grilled Vegetable Platter
+64,Brunch & Co.,"A trendy brunch spot that serves fresh, delicious meals. Our Avocado Toast is a customer favorite, perfect for a light and nutritious meal.",Brunch  & Other food,6:00 AM,8:00 PM,Avocado Toast
+65,French Flair,Savor the flavors of France with our Coq au Vin and other classic French dishes. A delightful dining experience with exceptional service.,French food,8:00 AM,11:00 PM,Coq au Vin
+66,Brunch Bistro,A charming bistro serving the best brunch options. Our Avocado Toast is served with a side of fresh fruit and a warm cup of coffee.,Brunch  & Other food,9:00 AM,10:00 PM,Avocado Toast
+67,Burger Haven,A fast food joint offering the finest cheeseburgers made with premium beef and fresh toppings. Grab a Cheeseburger for a satisfying meal on the go.,Fast food,8:00 AM,11:00 PM,Cheeseburger
+68,Le Coq & Co.,"Experience the best of French cuisine at our restaurant. Our Coq au Vin is a rich, flavorful dish that's sure to impress.",French food,6:00 AM,10:00 PM,Coq au Vin
+69,Vino & Grill,An Italian grill house offering expertly grilled meats and seafood. Our Chef's Special brings you the best of Italian flavors in every bite.,Italian food,6:00 AM,10:00 PM,Chef's Special
+70,Grill & Sizzle,A French-style grill offering premium cuts of meat and rich sauces. Savor the Coq au Vin for a truly exceptional meal.,French food,6:00 AM,11:00 PM,Coq au Vin
+71,Fast & Tasty,A fast food restaurant known for its delicious cheeseburgers and speedy service. Grab a Cheeseburger for a quick and tasty meal.,Fast food,6:00 AM,9:00 PM,Cheeseburger
+72,Burger Deluxe,An upscale fast food experience with gourmet burgers and a variety of sides. Our Coq au Vin and gourmet Cheeseburger options are a must-try.,French food,8:00 AM,8:00 PM,Coq au Vin
+73,The Veggie Spoon,A vegetarian eatery serving healthy and delicious plant-based dishes. Our Grilled Vegetable Platter is the perfect choice for a wholesome meal.,Vegan food,8:00 AM,10:00 PM,Grilled Vegetable Platter
+74,Eats & Treats,A cozy spot offering a wide range of comfort foods with impeccable service. Try our Avocado Toast for a light yet satisfying meal.,Brunch  & Other food,9:00 AM,11:00 PM,Avocado Toast
+75,Vegetarian King,"A vegetarian restaurant serving wholesome, delicious meals. Our Grilled Vegetable Platter is made with the finest, freshest ingredients.",Vegan food,8:00 AM,10:00 PM,Grilled Vegetable Platter
+76,Burger Haven,"At Burger Haven, we are committed to serving the best, juiciest cheeseburgers with fresh ingredients and the finest quality meats.",Fast food,8:00 AM,11:00 PM,Cheeseburger
+77,Le Coq Bistro,"Le Coq Bistro offers authentic French cuisine with a focus on traditional dishes like Coq au Vin, paired with an exceptional wine list.",French food,7:00 AM,10:00 PM,Coq au Vin
+78,Veggie Garden,"Veggie Garden specializes in delicious vegetarian dishes made with fresh, organic ingredients. Our Grilled Vegetable Platter is a customer favorite.",Vegan food,7:00 AM,11:00 PM,Grilled Vegetable Platter
+79,Bistro Coq,"Savor the finest French culinary creations at Bistro Coq, where our Coq au Vin brings together the best of rustic French cuisine.",French food,7:00 AM,10:00 PM,Coq au Vin
+80,The Parisian Table,Enjoy classic French dishes with a modern twist at The Parisian Table. Our Coq au Vin is a signature dish you'll return for.,French food,7:00 AM,8:00 PM,Coq au Vin
+81,La Poule,La Poule offers a cozy French dining experience with a focus on Coq au Vin and other beloved French comfort foods.,French food,8:00 AM,8:00 PM,Coq au Vin
+82,Burger Bliss,Burger Bliss is where fast food meets gourmet. Come enjoy a perfectly grilled cheeseburger with a variety of delicious toppings.,Fast food,8:00 AM,10:00 PM,Cheeseburger
+83,The Green Oven,"The Green Oven offers a wide selection of vegetarian meals, with a standout Grilled Vegetable Platter that is both satisfying and healthy.",Vegan food,9:00 AM,10:00 PM,Grilled Vegetable Platter
+84,Garden Feast,"At Garden Feast, we serve vibrant vegetarian dishes. Our Grilled Vegetable Platter is a wholesome and delicious choice for all veggie lovers.",Vegan food,8:00 AM,10:00 PM,Grilled Vegetable Platter
+85,Pasta Pronto,Pasta Pronto serves mouth-watering Italian dishes with a special focus on seasonal specialties like our Chef's Special pasta.,Italian food,9:00 AM,10:00 PM,Chef's Special
+86,Spaghetti House,"Spaghetti House is your go-to for authentic Italian pasta. Don’t miss our Chef’s Special, created with fresh seasonal ingredients.",Italian food,7:00 AM,9:00 PM,Chef's Special
+87,Le Coq & Wine,"Le Coq & Wine brings the elegance of French dining with a focus on the legendary Coq au Vin, complemented by an extensive wine selection.",French food,6:00 AM,8:00 PM,Coq au Vin
+88,Veggie Delight,Veggie Delight offers an array of flavorful vegetarian options. The Grilled Vegetable Platter is a satisfying and nourishing choice.,Vegan food,6:00 AM,11:00 PM,Grilled Vegetable Platter
+89,Cheeseburger Express,"Cheeseburger Express is your perfect stop for a quick, delicious cheeseburger meal, served fast and hot, just the way you like it.",Fast food,6:00 AM,11:00 PM,Cheeseburger
+90,Grilled Veggie Café,"Grilled Veggie Café serves healthy and satisfying vegetarian dishes, with our signature Grilled Vegetable Platter being a top choice.",Vegan food,7:00 AM,11:00 PM,Grilled Vegetable Platter
+91,French Bistro,French Bistro is a charming spot for lovers of French cuisine. Indulge in our signature Coq au Vin and other time-honored French dishes.,French food,8:00 AM,10:00 PM,Coq au Vin
+92,Cheese & Burger,"At Cheese & Burger, we’re all about gourmet burgers with the finest cheese and all your favorite toppings.",Fast food,9:00 AM,10:00 PM,Cheeseburger
+93,Coq Royale,"Coq Royale specializes in exceptional French cuisine, where Coq au Vin is just the beginning of our authentic and flavorful menu.",French food,6:00 AM,9:00 PM,Coq au Vin
+94,Brunch Delight,"Brunch Delight is your ideal spot for a fresh, healthy brunch. Try our Avocado Toast and enjoy a relaxing morning meal.",Brunch  & Other food,6:00 AM,8:00 PM,Avocado Toast
+95,Fast Feast,"Fast Feast offers quick, delicious, and nutritious meals with a focus on quality and freshness. Our Cheeseburger is a must-try.",Fast food,6:00 AM,9:00 PM,Cheeseburger
+96,Le Gourmet Kitchen,Le Gourmet Kitchen offers an unforgettable French dining experience. The Coq au Vin is a signature dish that showcases the flavors of France.,French food,7:00 AM,11:00 PM,Coq au Vin
+97,Avocado & Toast,"Avocado & Toast specializes in healthy brunch options. Our Avocado Toast is the perfect start to your day, loaded with flavor and nutrients.",Brunch  & Other food,6:00 AM,11:00 PM,Avocado Toast
+98,Green Veggie Diner,"Green Veggie Diner offers a variety of vegetarian dishes that are both healthy and satisfying, including our standout Grilled Vegetable Platter.",Vegan food,8:00 AM,10:00 PM,Grilled Vegetable Platter
+99,The Veggie Grill,"The Veggie Grill specializes in delicious vegetarian dishes made with fresh, seasonal produce. Our Grilled Vegetable Platter is a crowd favorite.",Vegan food,8:00 AM,11:00 PM,Grilled Vegetable Platter
+100,Bistro Coq & Café,Bistro Coq & Café is where you can enjoy the perfect Coq au Vin along with freshly brewed coffee and delightful French desserts.,French food,8:00 AM,8:00 PM,Coq au Vin
+101,Le Coq Bistro,"A delightful French bistro specializing in traditional Coq au Vin, where every dish is crafted with care, using the finest ingredients to provide a warm, inviting experience. Whether you're here for a quick meal or a leisurely dining experience, we promise quality and consistency in every bite.",French food,6:00 AM,10:00 PM,Coq au Vin
+102,Sunny Side Cafe,"A charming brunch spot offering wholesome, delicious meals with a focus on fresh ingredients. Our Avocado Toast is a crowd favorite, served with a variety of toppings to satisfy every craving. Enjoy a laid-back atmosphere and friendly service!",Brunch  & Other food,8:00 AM,9:00 PM,Avocado Toast
+103,The French Table,"Experience the taste of France at The French Table. Our Coq au Vin is the star of the menu, alongside other classic French dishes prepared with the utmost attention to detail. Join us for an unforgettable dining experience that brings the heart of French cuisine to your table.",French food,6:00 AM,9:00 PM,Coq au Vin
+104,Bella Trattoria,"Taste the authentic flavors of Italy at Bella Trattoria. From the rich flavors of our Chef's Special to a wide variety of Italian-inspired dishes, we provide a cozy environment where family and friends can enjoy hearty meals with excellent service.",Italian food,6:00 AM,10:00 PM,Chef's Special
+105,Sushi Express,"Sushi Express serves fast, delicious sushi and other quick bites, perfect for a lunch break or a casual dinner. Enjoy our expertly crafted dishes, including the classic Cheeseburger, all while receiving prompt and friendly service.",Fast food,8:00 AM,11:00 PM,Cheeseburger
+106,La Trattoria Verde,"A place where rustic Italian dining meets sophistication. Our Chef's Special changes daily, using the freshest ingredients to create a delightful surprise for your tastebuds. La Trattoria Verde is perfect for any occasion, offering a warm and inviting atmosphere.",Italian food,6:00 AM,10:00 PM,Chef's Special
+107,Maxie's Fine Dining,"Step into a world of gourmet flavors at Maxie’s Fine Dining. With a modern twist on Southern cooking, our Beef Wellington is a guest favorite, served alongside our impressive selection of wines. Perfect for a special evening or a casual night out.",Fine dining,7:00 AM,10:00 PM,Beef Wellington
+108,Red's Fast Grill,"Red's Fast Grill offers delicious fast food with a twist. Our Cheeseburger is a standout item, featuring premium ingredients and quick service. Ideal for a fast meal or a casual dining experience, served in a fun, friendly atmosphere.",Fast food,7:00 AM,10:00 PM,Cheeseburger
+109,Big Subs Deli,"At Big Subs Deli, we pride ourselves on our oversized sandwiches made with the freshest ingredients. Whether you’re here for a quick snack or a hearty meal, our Cheeseburger and other classic fast food dishes are sure to satisfy.",Fast food,6:00 AM,10:00 PM,Cheeseburger
+110,Sushi 7737,Sushi 7737 offers the finest sushi with a focus on quality and freshness. Our Chef’s Special is designed to please every palate with delicious combinations of the best seasonal ingredients.,Italian food,7:00 AM,10:00 PM,Chef's Special
+111,Le Coq Bistro & Grill,"Enjoy the best of French cuisine at Le Coq Bistro & Grill, where our Coq au Vin is prepared to perfection. A welcoming environment with a blend of classic and modern French dishes, making it a perfect place for family gatherings or intimate dinners.",French food,7:00 AM,10:00 PM,Coq au Vin
+112,Green's Brunch Bar,"Green’s Brunch Bar is the place to be for a relaxed and delicious start to your day. Our Avocado Toast, topped with fresh ingredients, is the perfect choice for a healthy brunch experience.",Brunch  & Other food,8:00 AM,9:00 PM,Avocado Toast
+113,Orange Garden,"Orange Garden serves fresh, vegetarian delights with a twist of creativity. Our Grilled Vegetable Platter is packed with flavor, making it the perfect choice for anyone looking for a healthy and hearty meal in a vibrant and welcoming setting.",Vegan food,9:00 AM,10:00 PM,Grilled Vegetable Platter
+114,Hungry Dining,"At Hungry Dining, we strive to deliver exceptional experiences for every guest. Indulge in our Beef Wellington, a masterful dish that showcases the skill and creativity of our chefs, along with a curated selection of fine wines and other gourmet offerings.",Fine dining,9:00 AM,9:00 PM,Beef Wellington
+115,Fat Bakeshop,"Fat Bakeshop is all about indulgence, from decadent pastries to savory delights. Our Coq au Vin is prepared with a focus on flavor and quality, served alongside freshly baked treats that will make every visit memorable.",French food,9:00 AM,11:00 PM,Coq au Vin
+116,Juicy Creations,"Juicy Creations is a refreshing destination for those seeking fresh juices, smoothies, and light bites. Our Coq au Vin is a hearty meal that will satisfy any craving, all served in a bright, welcoming atmosphere.",French food,8:00 AM,11:00 PM,Coq au Vin
+117,Belly Brunch,"Belly Brunch offers wholesome, delicious meals with a focus on fresh and healthy ingredients. Our Avocado Toast is made to perfection, ideal for a laid-back brunch experience with friends and family.",Brunch  & Other food,10:00 AM,10:00 PM,Avocado Toast
+118,AHP Pizzeria,"AHP Pizzeria serves classic Italian flavors with a contemporary twist. From our Chef’s Special to a wide variety of traditional pizzas, every meal is prepared with the finest ingredients to ensure a satisfying and delightful experience.",Italian food,6:00 AM,11:00 PM,Chef's Special
+119,28 Italian Kitchen,"28 Italian Kitchen offers a variety of exquisite Italian dishes, with a focus on fresh, seasonal ingredients. Our Chef's Special is a highlight, showcasing the finest Italian flavors in every bite.",Italian food,9:00 AM,8:00 PM,Chef's Special
+120,Fat House Grill,"Fat House Grill serves delicious Southern-inspired meals, with a special focus on modern cuisine. From our Beef Wellington to other signature dishes, our restaurant delivers an exceptional dining experience in a welcoming environment.",French food,8:00 AM,11:00 PM,Coq au Vin
+121,Blue Plate Dining,"Blue Plate Dining offers exceptional fine dining with a focus on high-quality ingredients and innovative culinary techniques. Our Beef Wellington is the star of the menu, prepared to perfection for an unforgettable dining experience.",Fine dining,7:00 AM,8:00 PM,Beef Wellington
+122,Blue Brasserie & Bar,"Blue Brasserie & Bar offers a combination of fine dining and casual elegance. Our Beef Wellington is a favorite among guests, served alongside a selection of fine wines and crafted cocktails.",Fine dining,6:00 AM,11:00 PM,Beef Wellington
+123,Big Subs Grill,"Big Subs Grill serves hearty, oversized sandwiches made with the freshest ingredients. Whether you're grabbing a quick lunch or indulging in our Cheeseburger, you can always count on fast and friendly service.",French food,6:00 AM,8:00 PM,Coq au Vin
+124,Orange Pub & Grill,Orange Pub & Grill serves up classic fast food favorites like our delicious Cheeseburger in a relaxed and friendly atmosphere. Perfect for a casual meal with friends or family.,Fast food,10:00 AM,9:00 PM,Cheeseburger
+125,Orange Sushi Bar,"At Orange Sushi Bar, we specialize in serving fast, fresh, and delicious sushi. Alongside our sushi, enjoy a range of tasty fast food options like our classic Cheeseburger.",Fast food,10:00 AM,10:00 PM,Cheeseburger
+126,La Cuisine Royale,"Dedicated to crafting exceptional French dishes with the finest ingredients, ensuring every plate reflects the art of classic French cuisine.",French food,8:00 AM,10:00 PM,Coq au Vin
+127,Culver's Classic Grill,"A family favorite serving hearty meals with a dedication to quality ingredients and an American tradition of great food, from ButterBurgers to fresh salads.",Italian food,7:00 AM,9:00 PM,Chef's Special
+128,Smoky Oak,"A barbecue joint that brings bold flavors and smoky perfection to every dish, from tender meats to freshly grilled sides.",BBQ food,8:00 AM,9:00 PM,Grilled Vegetable Platter
+129,Trattoria Del Vino,"An Italian haven offering authentic cuisine, prepared with regional ingredients and passion for Italian traditions.",Italian food,7:00 AM,11:00 PM,Chef's Special
+130,The Parisian Café,"A refined French café where the essence of French cooking is captured in every dish, focusing on culinary excellence and a welcoming atmosphere.",French food,9:00 AM,9:00 PM,Coq au Vin
+131,The Velvet Plate,"A fine dining destination that offers an elevated dining experience, using only the highest quality ingredients to prepare each exquisite meal.",Fine dining,9:00 AM,9:00 PM,Beef Wellington
+132,Brunch & Bloom,"A chic brunch spot where fresh, healthy meals are paired with a vibrant atmosphere, designed to refresh your senses and satisfy your cravings.",Brunch  & Other food,8:00 AM,11:00 PM,Avocado Toast
+133,Green Leaf Bistro,"A haven for plant-based dining, offering creative vegetarian dishes made from the finest organic ingredients to nourish both body and soul.",Vegan food,6:00 AM,9:00 PM,Grilled Vegetable Platter
+134,Viva La Italia,"An Italian dining experience where tradition meets innovation, serving carefully crafted meals in a welcoming and family-friendly environment.",Italian food,9:00 AM,9:00 PM,Chef's Special
+135,Cucina del Cuore,"Italian-inspired dishes served with a heart, celebrating fresh ingredients and the warmth of authentic home cooking.",Italian food,8:00 AM,11:00 PM,Chef's Special
+136,Le Rôtisseur,"Experience the finest French fare, where every dish is a masterwork that celebrates French culinary traditions and the art of roasting.",French food,9:00 AM,8:00 PM,Coq au Vin
+137,Café de la Città,"An authentic Italian café where every dish is a tribute to Italy’s vibrant culinary culture, focusing on traditional flavors and fresh ingredients.",Italian food,9:00 AM,8:00 PM,Chef's Special
+138,BBQ Legends,"Savor the finest cuts of meat and smoky flavors, with a true BBQ experience that captures the spirit of authentic, slow-cooked perfection.",BBQ food,6:00 AM,8:00 PM,Beef Wellington
+139,Cedar Smokehouse,"A restaurant that offers the perfect blend of smoky BBQ flavors and upscale dining, where classic recipes meet culinary creativity.",BBQ food,8:00 AM,11:00 PM,Coq au Vin
+140,The Morning Spoon,"A brunch spot dedicated to serving delicious and fresh dishes, perfect for starting your day with great food and a relaxing atmosphere.",Brunch  & Other food,10:00 AM,9:00 PM,Avocado Toast
+141,Royal Dining,"Fine dining with a focus on delivering world-class meals that showcase the best of international cuisine, with an emphasis on gourmet service and sophistication.",Fine dining,10:00 AM,8:00 PM,Beef Wellington
+142,The French Table,"A French culinary experience that brings the essence of France’s gourmet traditions to every plate, offering a sophisticated and authentic menu.",French food,10:00 AM,10:00 PM,Coq au Vin
+143,The Green Plate,"A vegetarian restaurant that combines creativity and healthy eating, offering fresh, flavorful dishes that cater to all dietary needs.",Vegan food,7:00 AM,8:00 PM,Grilled Vegetable Platter
+144,Breezy Brunch,A laid-back brunch café where every dish is carefully crafted with fresh ingredients and served with a side of comfort.,Brunch  & Other food,9:00 AM,11:00 PM,Avocado Toast
+145,Quick Eats,"Serving delicious fast food made with quality ingredients, Quick Eats is your go-to spot for a satisfying meal on the go.",Fast food,6:00 AM,9:00 PM,Cheeseburger
+146,Juice & Grind,"Offering a range of healthy and flavorful options, Juice & Grind is perfect for those who seek fresh juices and fast bites.",Fast food,9:00 AM,9:00 PM,Cheeseburger
+147,The Golden Grill,"A place where exceptional brunch meets comfort food, offering delicious and nutritious meals in a cozy, friendly environment.",Brunch  & Other food,8:00 AM,8:00 PM,Avocado Toast
+148,The Brasserie Corner,"A warm, welcoming brasserie serving wholesome and nutritious meals with a focus on quality ingredients and excellent service.",Brunch  & Other food,7:00 AM,10:00 PM,Avocado Toast
+149,Italiano Bistro,"A casual and cozy spot for authentic Italian dishes with a modern twist, offering a menu full of rich flavors and fresh ingredients.",Italian food,9:00 AM,8:00 PM,Chef's Special
+150,Maxie’s Grille,"A southern-inspired eatery that serves delicious comfort food with modern twists, perfect for a laid-back meal with family and friends.",Fast food,8:00 AM,10:00 PM,Cheeseburger
+151,Viva Italia,"Our mission is to serve each guest with prompt, professional, and friendly service, ensuring that they enjoy a clean and comfortable atmosphere. We offer high-quality meals made with fresh ingredients at fair prices. We strive to create an experience where both our guests and staff feel valued and respected.",Italian food,9:00 AM,9:00 PM,Chef's Special
+152,Bella Tavola,"We provide an exceptional dining experience with delicious meals made from the finest ingredients. Our focus is on customer satisfaction, offering nutritious meals at the best possible prices while ensuring our guests feel like part of our family.",Italian food,8:00 AM,10:00 PM,Chef's Special
+153,Urban Bite,"At Urban Bite, we aim to bring high-quality, quick meals to the table with an emphasis on freshness and flavor. Whether you're grabbing a bite on the go or settling in for a relaxing meal, we offer a variety of options designed to satisfy all your cravings.",Fast food,9:00 AM,9:00 PM,Cheeseburger
+154,Le Petit Bistro,"Our goal is to provide a warm, welcoming environment with French-inspired meals prepared with passion. We use only the freshest ingredients to offer our guests an unforgettable dining experience, from classic French dishes to innovative takes on traditional flavors.",French food,9:00 AM,8:00 PM,Coq au Vin
+155,The Smokehouse Grill,"Welcome to The Smokehouse Grill, where delicious barbecue is the name of the game. Our specialties include juicy steaks and tender ribs, all cooked to perfection. Join us for a hearty meal in a laid-back and friendly atmosphere.",BBQ food,8:00 AM,8:00 PM,Cheeseburger
+156,Fresco Bakery,"At Fresco Bakery, we believe in crafting the finest baked goods and dishes with a special focus on quality and flavor. Our bakery-style dishes cater to both traditional and contemporary tastes, all served in a cozy and welcoming environment.",Italian food,9:00 AM,8:00 PM,Chef's Special
+157,The Grilled Plate,"Our mission is to serve exceptional, locally-inspired dishes that bring people together. From southern-inspired creations to unique twists on classic comfort food, we aim to exceed your expectations every time you visit.",Italian food,10:00 AM,9:00 PM,Chef's Special
+158,Fresh Market Grill,"At Fresh Market Grill, we offer a healthy and tasty menu with a focus on fresh, high-quality ingredients. Our goal is to provide our customers with delicious meals that are as nutritious as they are satisfying.",Fast food,8:00 AM,11:00 PM,Cheeseburger
+159,Garden Fresh Café,We pride ourselves on creating delicious and wholesome vegetarian dishes. Our commitment to using the finest fresh ingredients ensures every bite is as nutritious as it is tasty. Join us for a meal that’s good for your body and soul.,Vegan food,9:00 AM,11:00 PM,Grilled Vegetable Platter
+160,Luxe Steakhouse,Luxe Steakhouse is known for its elegant atmosphere and exquisite French-inspired cuisine. We pride ourselves on offering a fine dining experience where every meal is made with the finest ingredients and served with impeccable service.,French food,8:00 AM,9:00 PM,Coq au Vin
+161,The Parisian Kitchen,"A celebration of French culinary tradition, The Parisian Kitchen brings authentic dishes straight from the heart of France. From fine dining to casual French classics, we offer a complete experience that transports you to Paris.",French food,9:00 AM,9:00 PM,Coq au Vin
+162,Café Provence,Savor the flavors of Provence at Café Provence. We bring the charm of southern France to your table with dishes crafted from fresh ingredients and traditional techniques. Enjoy a relaxing and inviting atmosphere as you dine.,French food,10:00 AM,8:00 PM,Coq au Vin
+163,The Green Plate,"We are dedicated to creating healthy and flavorful vegetarian meals. Our dishes are made with locally sourced ingredients, designed to satisfy your hunger and promote your well-being, all in a welcoming and eco-conscious environment.",Vegan food,6:00 AM,8:00 PM,Grilled Vegetable Platter
+164,The Refined Table,"The Refined Table offers an upscale dining experience where quality, ambiance, and service come together. We provide exceptional cuisine and an intimate atmosphere perfect for any special occasion or sophisticated meal.",Fine dining,8:00 AM,11:00 PM,Beef Wellington
+165,Bistro de Luxe,"Indulge in gourmet French cuisine at Bistro de Luxe, where fine dining meets classic French tradition. Our expert chefs prepare every dish with a refined touch, creating a dining experience that’s as memorable as the flavors.",French food,8:00 AM,9:00 PM,Coq au Vin
+166,Smoke & Fire BBQ,"Experience bold flavors at Smoke & Fire BBQ, where smoky meats and savory sides come together in perfect harmony. Our barbecue is prepared with care, delivering tender, juicy dishes with every bite.",BBQ food,7:00 AM,9:00 PM,Beef Wellington
+167,Basil & Vine,"At Basil & Vine, we combine the best of modern Italian cuisine with traditional recipes. Our attention to detail ensures every meal is fresh, flavorful, and prepared to perfection for every guest.",Italian food,7:00 AM,10:00 PM,Chef's Special
+168,The Vine Café,"The Vine Café offers an inviting atmosphere where fresh, locally sourced ingredients take center stage. Our menu reflects our commitment to quality, with a variety of vegetarian options that are both satisfying and nourishing.",Vegan food,6:00 AM,10:00 PM,Grilled Vegetable Platter
+169,Green Leaf Grill,"At Green Leaf Grill, we focus on creating dishes that are not only delicious but healthy. Our vibrant, vegetarian meals are crafted with fresh ingredients, ensuring every dish is as nourishing as it is flavorful.",Vegan food,10:00 AM,10:00 PM,Grilled Vegetable Platter
+170,Savor & Slice,"Savor & Slice is the ultimate destination for authentic French flavors. Our menu brings together classic French dishes and innovative new recipes, all served with flair and served in a charming, rustic environment.",French food,8:00 AM,11:00 PM,Coq au Vin
+171,The Green Bistro,"The Green Bistro is a tribute to vibrant, fresh, and delicious vegetarian cuisine. Our menu is inspired by the seasons and made with only the finest local ingredients to offer a health-conscious dining experience.",Italian food,8:00 AM,8:00 PM,Chef's Special
+172,Sunrise Café,"Sunrise Café is all about giving you a bright start to your day. Our menu features brunch favorites made with wholesome ingredients, perfect for a relaxing morning with friends and family.",Brunch  & Other food,6:00 AM,8:00 PM,Avocado Toast
+173,Morning Spoon,"At Morning Spoon, we provide a welcoming atmosphere for brunch lovers. From fresh, creative twists on breakfast classics to healthy options, we offer a menu full of flavor and variety to satisfy every craving.",Brunch  & Other food,7:00 AM,10:00 PM,Avocado Toast
+174,The Elegant Feast,The Elegant Feast provides an elevated dining experience that combines sophistication with exceptional flavors. Our fine dining menu reflects our passion for culinary excellence and our commitment to impeccable service.,Fine dining,8:00 AM,8:00 PM,Beef Wellington
+175,The Prime Cut,"At The Prime Cut, we specialize in fine dining with an emphasis on quality cuts of beef and exceptional service. Our menu brings the best of gourmet cuisine, perfect for any occasion.",Fine dining,10:00 AM,11:00 PM,Beef Wellington
+176,Tuscan Trattoria,"Experience the essence of Italian culinary traditions, where we focus on authentic regional flavors and locally sourced ingredients. Our goal is to create memorable dining experiences in a cozy and welcoming atmosphere, with a dedication to quality and sustainability.",Italian food,6:00 AM,11:00 PM,Chef's Special
+177,Brunch Haven,"At Brunch Haven, we serve the finest ingredients with a twist, crafting dishes that balance classic comfort with fresh, modern flair. Our goal is to create an inviting space for friends and family to enjoy elevated brunch favorites.",Brunch  & Other food,9:00 AM,8:00 PM,Avocado Toast
+178,Quick Bites Grill,"Providing a fast yet satisfying dining experience, Quick Bites Grill focuses on delivering comfort food that’s both delicious and convenient, all while maintaining the highest standards of quality and service.",Fast food,8:00 AM,8:00 PM,Cheeseburger
+179,Southern Comfort Kitchen,"Combining modern creativity with traditional southern comfort food, our restaurant brings bold flavors and fresh ingredients together in dishes that delight the senses. We aim to create a memorable, family-friendly dining experience with impeccable service.",Italian food,8:00 AM,10:00 PM,Chef's Special
+180,Wellness Bistro,"Our mission is to support your health journey with wholesome, nutritious meals that nourish the body and satisfy the soul. Wellness Bistro offers fresh, balanced dishes that promote both well-being and indulgence.",Italian food,10:00 AM,8:00 PM,Chef's Special
+181,The Hungry Table,"A dining experience that brings people together through delicious food and exceptional service. The Hungry Table is dedicated to offering high-quality dishes made from the finest ingredients, served with a smile.",Italian food,6:00 AM,11:00 PM,Chef's Special
+182,Smokehouse Grill,"A celebration of rich, smoky flavors, Smokehouse Grill specializes in slow-cooked barbecue meats and sides made with love. We aim to provide an unforgettable experience, where every meal is a satisfying adventure.",BBQ food,7:00 AM,9:00 PM,Coq au Vin
+183,Verdant Kitchen,"A haven for plant-based dining, Verdant Kitchen serves vibrant vegetarian dishes that are both nourishing and delicious. We use fresh, seasonal ingredients to create culinary masterpieces that cater to every palate.",Vegan food,7:00 AM,11:00 PM,Grilled Vegetable Platter
+184,The Greenhouse Cafe,"With a focus on organic and sustainable dining, The Greenhouse Cafe offers delicious vegetarian dishes made with the freshest ingredients. Come enjoy a wholesome meal in an inviting and eco-conscious environment.",Vegan food,10:00 AM,9:00 PM,Grilled Vegetable Platter
+185,Lush Greens Eatery,"Lush Greens Eatery provides a bright and cozy atmosphere to enjoy freshly prepared vegetarian meals. With a commitment to healthy living, we serve dishes that are nourishing, flavorful, and full of color.",Italian food,10:00 AM,8:00 PM,Chef's Special
+186,Café 44,"A cozy corner café offering the finest Italian fare, Café 44 serves freshly made dishes with an emphasis on seasonal ingredients and artisanal techniques. Join us for a relaxing meal paired with a perfect cup of coffee.",Italian food,8:00 AM,9:00 PM,Chef's Special
+187,Morning Brew & Brunch,"A place where morning meets midday in a delightful fusion of coffee, brunch, and relaxation. We take pride in crafting delicious dishes that bring comfort and joy, made with the finest ingredients.",Brunch  & Other food,6:00 AM,10:00 PM,Avocado Toast
+188,The Bistro 520,"A charming bistro offering classic comfort food with a contemporary twist. The Bistro 520 invites you to enjoy a delicious meal, combining fresh ingredients with a welcoming atmosphere.",Vegan food,10:00 AM,9:00 PM,Grilled Vegetable Platter
+189,Maxie’s Fine Dining,"Maxie’s offers an exceptional fine dining experience, where elegant ambiance meets culinary excellence. Our menu features carefully crafted dishes prepared with the finest ingredients, paired with expert service in an upscale setting.",Fine dining,9:00 AM,9:00 PM,Beef Wellington
+190,Yoshinoya Grill,"At Yoshinoya Grill, we create flavorful meals that are nutritious and satisfying, all while maintaining a commitment to exceptional service and fresh ingredients. Our restaurant aims to provide a top-tier dining experience in a relaxed and inviting environment.",Fine dining,10:00 AM,9:00 PM,Beef Wellington
+191,Sweet Roost,"Sweet Roost is a modern yet cozy spot for brunch, offering delicious, fresh ingredients in every dish. We focus on providing a warm and welcoming atmosphere where guests can enjoy comfort food made with a twist.",Brunch  & Other food,6:00 AM,9:00 PM,Avocado Toast
+192,Green Plate Café,"Offering a variety of healthy and delicious brunch options, Green Plate Café takes pride in serving fresh, seasonal dishes in an eco-friendly and stylish setting. A perfect place to enjoy a wholesome meal with friends and family.",Brunch  & Other food,10:00 AM,9:00 PM,Avocado Toast
+193,Le Jardin Bistro,"Le Jardin Bistro brings the essence of French cuisine to life with each dish, focusing on rich flavors and classic techniques. From fresh local ingredients to exceptional service, we aim to create a memorable dining experience.",French food,8:00 AM,11:00 PM,Coq au Vin
+194,Sapphire Grill,"Sapphire Grill combines modern fast food with a refined dining experience, serving delicious and satisfying dishes with a touch of sophistication. Enjoy our signature comfort foods in a stylish and relaxed environment.",Fast food,6:00 AM,10:00 PM,Cheeseburger
+195,Creamery Corner,"Creamery Corner is your go-to destination for fresh, quality meals made with the finest ingredients. We are committed to delivering a top-notch dining experience where every bite leaves you satisfied and craving more.",Italian food,8:00 AM,11:00 PM,Chef's Special
+196,Parisian Café,"Parisian Café offers a charming escape to the flavors of France, serving classic dishes with modern flair. Our menu features carefully curated recipes, made with the freshest ingredients for a delightful dining experience.",French food,7:00 AM,8:00 PM,Coq au Vin
+197,Blue Ocean Grill,"At Blue Ocean Grill, we strive to create the ultimate French dining experience, combining traditional techniques with fresh, sustainable ingredients. Our intimate setting is perfect for enjoying dishes that reflect the artistry of French cuisine.",French food,9:00 AM,10:00 PM,Coq au Vin
+198,Sweet & Savory Café,"Sweet & Savory Café brings together a delightful combination of fast food and deliciously fresh meals. Our menu focuses on indulgent comfort foods with a unique twist, served in a welcoming and cozy atmosphere.",Fast food,6:00 AM,10:00 PM,Cheeseburger
+199,Spice Market Deli,Spice Market Deli takes pride in offering freshly made fast food that delights the senses. We focus on using bold flavors and high-quality ingredients to bring you an unforgettable dining experience.,Fast food,10:00 AM,8:00 PM,Cheeseburger
+200,The Rustic Table,Farm-to-table Italian cuisine featuring handmade pasta and seasonal ingredients sourced from local producers.,Italian food,12:00 PM,11:00 PM,Truffle Risotto
+201,Sakura House,"Traditional Japanese cuisine with a modern twist, featuring fresh sushi and authentic ramen.",Japanese food,11:30 AM,10:30 PM,Signature Ramen
+202,Blue Lobster,Premium seafood restaurant specializing in Mediterranean-style dishes with fresh daily catch.,Seafood,12:30 PM,11:30 PM,Grilled Sea Bass
+203,Imperial Garden,Authentic Chinese cuisine featuring Sichuan and Cantonese specialties prepared by master chefs.,Chinese food,11:00 AM,11:00 PM,Peking Duck
+204,Gourmet Burger Co,Premium burger restaurant using select cuts of meat and artisanal ingredients.,American food,11:00 AM,10:00 PM,Signature Burger
+205,Sushi Excellence,Master sushi chefs create innovative combinations while respecting traditional techniques.,Japanese food,12:00 PM,11:00 PM,Chef's Selection
+206,Mediterranean Pearl,Coastal Mediterranean cuisine featuring fresh seafood and local ingredients.,Italian food,12:00 PM,10:30 PM,Seafood Paella
+207,Thai Orchid,"Authentic Thai flavors in a modern setting, featuring traditional recipes with premium ingredients.",Thai food,11:30 AM,10:00 PM,Pad Thai
+208,Rice Factory,Innovative cuisine combining Japanese flavors in creative ways.,Japanese food,5:00 PM,11:00 PM,Asian Fusion Bowl
+209,The Steakhouse,Premium steakhouse featuring aged beef and classic American sides.,BBQ food,4:00 PM,11:00 PM,Ribeye Steak
+210,Vegan Paradise,Creative plant-based cuisine using organic ingredients and innovative cooking techniques.,Vegan food,11:00 AM,9:00 PM,Buddha Bowl
+211,Mexican Fiesta,Authentic Mexican flavors and traditional recipes in a vibrant atmosphere.,Mexican food,11:00 AM,10:00 PM,Mole Poblano
+212,Indian Spice,Traditional Indian cuisine with authentic spices and tandoor specialties.,Indian food,11:30 AM,10:30 PM,Butter Chicken
+213,Greek Taverna,"Traditional Greek dishes and mezze in a warm, family-style atmosphere.",Greek food,12:00 PM,11:00 PM,Moussaka
+214,BBQ King,Southern-style barbecue with house-made sauces and traditional sides.,BBQ food,11:30 AM,9:30 PM,Smoked Brisket
+215,Korean BBQ House,Interactive Korean BBQ experience with premium meats and traditional sides.,Korean food,5:00 PM,11:00 PM,Galbi
+216,French Bistro,Classic French cuisine in an intimate bistro setting with seasonal menu changes.,French food,5:30 PM,10:30 PM,Coq au Vin
+217,Vietnamese Pho,Authentic Vietnamese soups and street food favorites.,Vietnamese food,10:00 AM,9:00 PM,Beef Pho
+218,Spanish Tapas,Traditional Spanish tapas and paella in a lively atmosphere.,Spanish food,4:00 PM,11:00 PM,Mixed Tapas
+219,Pizza Paradise,Authentic Neapolitan pizza made in a wood-fired oven with imported ingredients.,Italian food,11:30 AM,10:00 PM,Margherita Pizza
+220,Dim Sum Palace,Traditional Hong Kong-style dim sum served from rolling carts.,Chinese food,9:00 AM,3:00 PM,Har Gow
+221,Brazilian Churrasco,Authentic Brazilian steakhouse with all-you-can-eat grilled meats.,Brazilian food,4:00 PM,10:30 PM,Picanha
+222,Lebanese Garden,Traditional Lebanese mezze and grilled specialties in a garden setting.,Lebanese food,11:30 AM,10:00 PM,Mixed Grill
+223,Ramen Bar,Authentic Japanese ramen with house-made noodles and rich broths.,Japanese food,11:00 AM,10:00 PM,Miso Ramen
+224,Vegetarian Oasis,Creative vegetarian cuisine using organic and locally sourced ingredients.,Vegan food,11:00 AM,9:30 PM,Quinoa Power Bowl
+225,Seafood Harbor,Fresh seafood prepared in various international styles with ocean views.,Seafood,12:00 PM,10:00 PM,Seafood Platter
+226,Persian Palace,Authentic Persian cuisine featuring traditional kebabs and rice dishes.,Persian food,12:00 PM,10:00 PM,Chelo Kebab
+227,Caribbean Flavors,Vibrant Caribbean dishes with authentic spices and fresh ingredients.,Caribbean food,11:30 AM,9:30 PM,Jerk Chicken
+228,Modern Bistro,Contemporary European cuisine with seasonal ingredients and innovative techniques.,Italian food,5:30 PM,11:00 PM,Duck Confit
+229,Argentine Grill,Traditional Argentine steakhouse featuring premium cuts and chimichurri.,Argentine food,4:00 PM,11:00 PM,Asado Mixed Grill
+230,Noodle House,Japanese noodle specialties from various regions with authentic preparations.,Japanese food,11:00 AM,10:00 PM,Dan Dan Noodles
+231,Mediterranean Grill,Fresh Mediterranean cuisine with emphasis on grilled meats and seafood.,Italian food,12:00 PM,10:30 PM,Mixed Grill Platter
+232,Street Food Market,International street food favorites in a modern food hall setting.,Fast food,11:00 AM,9:00 PM,Global Tacos
+233,Hawaiian Poke,Fresh poke bowls and Hawaiian specialties with fresh fish daily.,Hawaiian food,11:00 AM,8:00 PM,Signature Poke Bowl
+234,Moroccan Nights,Traditional Moroccan tagines and couscous in an authentic setting.,Moroccan food,5:00 PM,10:30 PM,Lamb Tagine
+235,Craft Beer & Burgers,Gourmet burgers paired with local craft beers in a casual atmosphere.,American food,11:30 AM,11:00 PM,Craft Beer Burger
+236,Turkish Delight,Authentic Turkish cuisine featuring kebabs and traditional mezes.,Turkish food,12:00 PM,10:00 PM,Iskender Kebab
+237,Raw Vegan Cafe,Creative raw vegan dishes and cold-pressed juices in an eco-friendly setting.,Vegan food,8:00 AM,8:00 PM,Living Lasagna
+238,Soul Food Kitchen,Traditional Southern soul food with family recipes passed down generations.,American food,11:00 AM,9:00 PM,Fried Chicken & Waffles
+239,Japanese Rim,Japanese cuisine combining flavors from around the island.,Japanese food,5:00 PM,10:30 PM,Miso Glazed Black Cod
+240,Gastropub,Elevated fast food local fare with craft cocktails and local beers.,Fast food,4:00 PM,12:00 AM,Duck Fat Fries
+241,Indonesian Spice,Traditional Indonesian dishes with authentic spices and preparations.,Indonesian food,11:30 AM,9:30 PM,Nasi Goreng
+242,Italian Lodge,Italian alpine cuisine in a cozy mountain-style setting.,Italian food,5:00 PM,10:00 PM,Cheese Fondue
+243,China Street,Authentic Chinese street food favorites in a casual setting.,Chinese food,11:00 AM,10:00 PM,Laksa
+244,Tandoori Express,North Indian tandoori specialties and curries made to order.,Indian food,11:30 AM,10:00 PM,Tandoori Mixed Grill
+245,Coastal Kitchen,Fresh seafood prepared with global coastal influences.,Seafood,12:00 PM,10:30 PM,Seafood Bouillabaisse
+246,Wine & Tapas,Spanish wines paired with traditional and modern tapas.,Spanish food,4:00 PM,11:30 PM,Patatas Bravas
+247,Dumpling House,Handmade dumplings from traditional chinese cooks.,Chinese food,11:00 AM,9:30 PM,Soup Dumplings
+248,African Grill,Pan-African cuisine featuring traditional grilled meats and stews.,African food,12:00 PM,10:00 PM,Suya Platter
+249,Farm Table,Farm-to-table American cuisine with daily changing menu.,American food,5:00 PM,10:00 PM,Daily Special
+250,Taco Lab,Creative tacos with Spanish influences and craft margaritas.,Mexican food,11:00 AM,10:00 PM,Burning Tacos
+251,Izakaya Night,Japanese pub food and sake in a traditional izakaya setting.,Japanese food,5:00 PM,12:00 AM,Yakitori Set
+252,Curry House,Authentic British-style curry house with traditional favorites.,Indian food,4:30 PM,11:00 PM,Chicken Tikka Masala
+253,Nordic Kitchen,Modern Scandinavian cuisine with foraged ingredients.,Nordic food,5:00 PM,10:00 PM,Arctic Char
+254,Smokehouse BBQ,Texas-style barbecue with house-made rubs and sauces.,BBQ food,11:00 AM,9:00 PM,Smoked Brisket
+255,Pho Express,Quick-service Vietnamese restaurant specializing in pho and banh mi.,Vietnamese food,10:00 AM,9:00 PM,Special Pho
+256,Athens Grill,Traditional Greek grill house with authentic souvlaki and gyros.,Greek food,11:00 AM,10:00 PM,Mixed Souvlaki Platter
+257,Dim Sum Garden,Cantonese dim sum served all day in a modern setting.,Chinese food,9:00 AM,9:00 PM,Dim Sum Sampler
+258,Crepe Corner,Sweet and savory French crepes made to order.,French food,8:00 AM,8:00 PM,Complete Crepe
+259,Burger Lab,Experimental burger combinations with unique toppings and sauces.,American food,11:00 AM,10:00 PM,Experimental Burger
+260,Tempura House,Japanese tempura specialist with seasonal ingredients.,Japanese food,11:30 AM,9:30 PM,Tempura Set
+261,Pasta Factory,Fresh pasta made daily with traditional Italian sauces.,Italian food,11:30 AM,10:00 PM,Daily Pasta Special
+262,Seoul Kitchen,Authentic Korean dishes with traditional banchan sides.,Korean food,11:00 AM,10:00 PM,Bibimbap
+263,Seafood Shack,Casual seafood restaurant with daily fresh catches.,Seafood,11:00 AM,9:00 PM,Fish & Chips
+264,Falafel King,Middle Eastern street food with homemade falafel and shawarma.,Middle Eastern food,10:00 AM,10:00 PM,Falafel Platter
+265,Teppanyaki Grill,Interactive Japanese teppanyaki cooking experience.,Japanese food,5:00 PM,10:00 PM,Teppanyaki Set
+266,Pizza Lab,Experimental pizzas with unique toppings and combinations.,Italian food,11:00 AM,11:00 PM,Chef's Special Pizza
+267,Caribbean Grill,Island flavors with jerk specialties and tropical drinks.,Caribbean food,12:00 PM,10:00 PM,Jerk Platter
+268,Healthy Bowl,Nutritious grain bowls with fresh ingredients and homemade dressings.,Vegan food,8:00 AM,8:00 PM,Custom Bowl
+269,Thai Spice,Authentic Thai cuisine with varying spice levels.,Thai food,11:00 AM,10:00 PM,Green Curry
+270,Brew & Bites,"Craft beer pub with elevated, tasty, quick and fast food.",Fast food,3:00 PM,12:00 AM,Beer Battered Fish
+271,Mediterranean Mezze,Small plates and mezze from around the Mediterranean.,Italian food,11:30 AM,10:00 PM,Mezze Platter
+272,Steakhouse Prime,Premium steaks aged in-house and classic sides.,BBQ food,5:00 PM,11:00 PM,Dry-Aged Ribeye
+273,Ramen Factory,Handmade noodles in rich broths with traditional toppings.,Japanese food,11:00 AM,10:00 PM,Tonkotsu Ramen
+274,Street Tacos,Authentic Mexican street tacos with handmade tortillas.,Mexican food,10:00 AM,10:00 PM,Al Pastor Tacos
+275,Curry Leaf,South Indian specialties with fresh curry leaves and spices.,Indian food,11:30 AM,10:00 PM,Masala Dosa
+276,Dim Sum Express,Quick-service dim sum with traditional favorites.,Chinese food,8:00 AM,8:00 PM,Dim Sum Combo
+277,Bistro Moderne,Contemporary French bistro with seasonal menu.,French food,5:30 PM,10:30 PM,Duck Confit
+278,Rotisserie Gold,Specialty rotisserie meats and comfort sides.,American food,11:00 AM,9:00 PM,Rotisserie Chicken
+279,Pasta Prima,Premium Italian pasta dishes with imported ingredients.,Italian food,12:00 AM,7:00 PM,Carbonara
+280,Tokyo Bites,"Modern Japanese eatery serving sushi rolls, bento boxes, and matcha desserts.",Japanese food,11:30 AM,10:30 PM,Rainbow Sushi Roll
+281,El Patio Cantina,"Vibrant Mexican restaurant offering tacos, enchiladas, and freshly made guacamole.",Mexican food,12:00 PM,11:00 PM,Carne Asada Tacos
+282,Curry Kingdom,Casual Indian restaurant specializing in aromatic curries and naan bread.,Indian food,11:00 AM,9:30 PM,Butter Chicken
+283,New York Slice,Classic pizzeria serving thin-crust New York-style pizzas and garlic knots.,American food,10:30 AM,11:00 PM,Pepperoni Pizza
+284,Savannah Smokehouse,Southern-style barbecue joint famous for its smoked ribs and brisket.,BBQ food,11:00 AM,10:00 PM,Smoked Brisket
+285,Mediterranean Delight,"Cozy spot for Mediterranean staples like falafel, hummus, and shawarma.",Middle Eastern food,11:00 AM,9:00 PM,Chicken Shawarma Plate
+286,The French Table,Elegant bistro offering French classics like coq au vin and ratatouille.,French food,5:00 PM,10:30 PM,Beef Bourguignon
+287,The Vegan Spot,Plant-based eatery with a menu of creative vegan burgers and smoothies.,Vegan food,10:00 AM,8:00 PM,Spicy Chickpea Burger
+288,Istanbul Kebab House,"Authentic Turkish restaurant serving kebabs, pide, and baklava.",Turkish food,12:00 PM,11:00 PM,Lamb Kebab
+289,Burger Barn,Family-friendly burger joint with gourmet burgers and loaded fries.,American food,11:00 AM,10:00 PM,Double Bacon Cheeseburger
+290,Seaside Shack,"Relaxed seafood spot offering fish tacos, lobster rolls, and clam chowder.",Seafood,11:30 AM,9:30 PM,Lobster Roll
+291,Urban Thai,"Trendy Thai restaurant serving pad thai, green curry, and mango sticky rice.",Thai food,11:00 AM,10:00 PM,Spicy Basil Chicken
+292,Cafe Italiano,"Charming Italian cafe offering pasta dishes, paninis, and tiramisu.",Italian food,10:00 AM,10:00 PM,Fettuccine Alfredo
+293,Korean Bites,"Hip Korean restaurant known for its bibimbap, bulgogi, and kimchi pancakes.",Korean food,11:00 AM,10:00 PM,Bibimbap
+294,Thai Street Eats,Casual Thai spot serving spicy street food favorites like pad kra pao and som tum.,Thai food,12:00 PM,9:30 PM,Pad Kra Pao
+295,Sushi Haven,Premium sushi restaurant with omakase-style dining and fresh sashimi.,Japanese food,5:00 PM,10:00 PM,Tuna Sashimi Platter
+296,Chow Mein Express,"Quick-service Chinese restaurant with stir-fry noodles, fried rice, and dumplings.",Chinese food,10:30 AM,9:00 PM,Beef Chow Mein
+297,Taco Town,"Festive Mexican eatery offering a variety of tacos, nachos, and margaritas.",Mexican food,11:00 AM,10:30 PM,Al Pastor Tacos
+298,Peruvian Flavors,"Authentic Peruvian restaurant serving ceviche, lomo saltado, and causa.",Peruvian food,12:00 PM,9:00 PM,Ceviche Mixto
+299,French Bliss,"Charming cafe offering authentic French waffles, crepes, and coffee.",French food,8:00 AM,4:00 PM,Liege Waffle
+300,Caribbean Breeze,"Lively Caribbean restaurant featuring jerk chicken, plantains, and tropical drinks.",Caribbean food,11:30 AM,10:00 PM,Jerk Chicken
+301,Bistro Bordeaux,Elegant French bistro serving classic dishes like coq au vin and raclette.,French food,12:00 PM,10:00 PM,Coq au Vin
+302,Sushi King,High-end sushi restaurant specializing in fresh fish and sashimi.,Japanese food,5:00 PM,11:00 PM,Sashimi Platter
+303,Mamma Mia Pizzeria,"Family-friendly Italian pizzeria offering a variety of pizzas, pasta, and desserts.",Italian food,11:00 AM,10:00 PM,Margherita Pizza
+304,Cafe Mexicana,"Authentic Mexican cafe serving tacos, quesadillas, and churros.",Mexican food,12:00 PM,10:00 PM,Chicken Tacos
+305,Tandoori Flame,"Indian restaurant specializing in tandoori dishes, curries, and naan.",Indian food,11:00 AM,9:30 PM,Tandoori Chicken
+306,Green Veggie Cafe,"Healthy vegetarian cafe offering bowls, smoothies, and plant-based dishes.",Vegan food,9:00 AM,8:00 PM,Quinoa Salad Bowl
+307,Balkan Grill,"A rustic eatery serving grilled meats, kevapi, and Mediterranean salads.",Balkan food,12:00 PM,10:00 PM,kevapi
+308,Pasta Perfection,Italian pasta house serving house-made pasta and signature sauces.,Italian food,12:00 PM,9:00 PM,Fettuccine Alfredo
+309,The Tapas Corner,"Cozy Spanish tapas bar with small plates of paella, patatas bravas, and sangria.",Spanish food,1:00 PM,11:00 PM,Paella
+310,Peking Duck House,Authentic Chinese restaurant known for its signature Peking duck and dim sum.,Chinese food,11:30 AM,10:00 PM,Peking Duck
+311,La Cocina Latina,"Vibrant Latin kitchen offering empanadas, arepas, and rice bowls.",Mexican food,11:00 AM,10:00 PM,Empanadas
+312,Pho Saigon,"Vietnamese restaurant specializing in pho, banh mi, and Vietnamese iced coffee.",Vietnamese food,10:30 AM,9:00 PM,Pho Bo
+313,Flavors of Italy,"Authentic Italian restaurant offering Panzerotti, Focaccia, and Pizza fritta.",Italian food,12:00 PM,10:00 PM,Doro Wat
+314,Ramen Station,Casual Japanese restaurant specializing in hearty bowls of ramen and gyoza.,Japanese food,11:00 AM,9:30 PM,Tonkotsu Ramen
+315,Moroccan Oasis,"Cozy Moroccan restaurant with tagines, couscous, and mint tea.",Moroccan food,12:00 PM,10:00 PM,Chicken Tagine
+316,The Grill House,"Sizzling steaks, grilled chicken, and seafood served with sides and sauces.",BBQ food,11:00 AM,10:00 PM,Grilled Ribeye Steak
+317,Southern Comfort,"Southern-style comfort food with fried chicken, mashed potatoes, and cornbread.",American food,11:00 AM,9:00 PM,Fried Chicken
+318,Kebab Express,"Fast-casual restaurant serving juicy kebabs, falafel, and fries.",Middle Eastern food,11:30 AM,10:00 PM,Lamb Kebab
+319,Crepes & Co.,"Charming cafe serving sweet and savory crepes, coffee, and fresh juices.",French food,8:00 AM,6:00 PM,Nutella Crepes
+320,The Sea Spot,"Seafood restaurant with a focus on crawfish, shrimp boils, and po' boys.",Seafood,11:00 AM,9:00 PM,Crawfish Boil
+321,La Trattoria,"Classic Italian trattoria serving homemade pasta, pizza, and seasonal specials.",Italian food,12:00 PM,10:00 PM,Lasagna
+322,Bistro Le Parisien,"Charming bistro offering a selection of French wines, cheese, and classic dishes.",French food,1:00 PM,11:00 PM,Duck Confit
+323,Taco Delights,"Vibrant taco joint serving gourmet tacos, nachos, and spicy salsas.",Mexican food,11:00 AM,10:00 PM,Carnitas Taco
+324,Sake House,"Japanese eatery offering sushi, sashimi, and tempura in a cozy setting.",Japanese food,5:00 PM,11:00 PM,Dragon Roll
+325,Curry Corner,"Indian restaurant offering rich, flavorful curries, tandoori dishes, and naan bread.",Indian food,11:00 AM,10:00 PM,Butter Chicken
+326,Cafe Samba,"Brazilian cafe offering a variety of acai bowls, pollo de queijo, and Brazilian coffee.",Brazilian food,8:00 AM,8:00 PM,Feijoada
+327,Churrascaria Sabor,Brazilian churrascaria specializing in grilled meats served on skewers and a salad bar.,Brazilian food,12:00 PM,10:00 PM,Picanha
+328,Pasta Fresca,Fresh pasta restaurant serving hand-crafted pasta dishes and Italian-inspired sides.,Italian food,11:00 AM,10:00 PM,Penne Arrabbiata
+329,The Waffle House,"Sweet and savory waffle house known for its crispy waffles, eggs, and bacon.",Brunch  & Other food,7:00 AM,3:00 PM,Chicken & Waffles
+330,The Ramen Lab,"Casual ramen bar with a variety of broths, noodles, and toppings.",Japanese food,11:00 AM,9:00 PM,Shoyu Ramen
+331,Pho 24/7,"Vietnamese restaurant offering pho, banh xeo, and other traditional Vietnamese dishes.",Vietnamese food,10:00 AM,9:00 PM,Pho Ga
+332,The Burger Shack,"Classic American burger joint with gourmet burgers, milkshakes, and fries.",American food,11:00 AM,10:00 PM,Cheeseburger
+333,Pita Palace,"Mediterranean restaurant serving fresh pita wraps, shawarma, and tabbouleh.",Middle Eastern food,11:00 AM,10:00 PM,Chicken Shawarma
+334,Buns & Bites,"Gourmet sandwich shop offering creative sandwiches, soups, and salads.",Fast food,11:00 AM,9:00 PM,Pulled Pork Sandwich
+335,Mamas Pizza,"Homestyle pizza joint offering thin-crust and deep-dish pizzas, calzones, and garlic bread.",Italian food,12:00 PM,10:00 PM,Deep Dish Pizza
+336,Banh xeo & Co.,"Modern Vietnamese cafe serving pho, bahn xeo sandwiches, and bubble tea.",Vietnamese food,10:00 AM,9:00 PM,Bahn xeo
+337,The Pancake House,"Cozy diner serving classic pancakes, waffles, and omelets.",Brunch  & Other food,7:00 AM,3:00 PM,Stack of Pancakes
+338,Spice Symphony,Indian restaurant with a modern twist on traditional curries and tandoori dishes.,Indian food,11:00 AM,10:00 PM,Lamb Rogan Josh
+339,Sushi Express,"Quick-service sushi restaurant serving nigiri, rolls, and bento boxes.",Japanese food,11:00 AM,9:00 PM,California Roll
+340,The Diner,"American diner offering burgers, milkshakes, fries, and hearty breakfast plates.",American food,7:00 AM,10:00 PM,Classic Cheeseburger
+341,Pasta Bella,Authentic Italian restaurant specializing in freshly made pasta and traditional sauces.,Italian food,12:00 PM,10:00 PM,Spaghetti Carbonara
+342,Tandoori Flames,Indian restaurant known for its tandoori dishes and flavorful curries.,Indian food,11:00 AM,10:00 PM,Tandoori Chicken
+343,Sushi Master,"Traditional sushi bar serving fresh, expertly crafted sushi and sashimi.",Japanese food,11:00 AM,9:00 PM,Omakase
+344,The Pie Shop,Local bakery serving freshly baked savory and salty focaccia.,Italian food,7:00 AM,6:00 PM,Beef Wellington Pie
+345,Soul Food Kitchen,"Southern comfort food serving fried chicken, collard greens, and cornbread.",American food,11:00 AM,10:00 PM,Fried Chicken
+346,Baguette & Co.,"French cafe serving gourmet baguettes, croissants, and quiches.",French food,7:00 AM,3:00 PM,Croque Monsieur
+347,El Mariachi,"Mexican restaurant offering tacos, burritos, quesadillas, and margaritas.",Mexican food,11:00 AM,10:00 PM,Burrito Grande
+348,Szechuan Spice,Chinese restaurant specializing in spicy Szechuan dishes and dumplings.,Chinese food,11:00 AM,9:00 PM,Kung Pao Chicken
+349,The Dumpling House,Cozy eatery known for its handmade dumplings and hot pots.,Chinese food,11:00 AM,9:00 PM,Pork Dumplings
+350,Bento Box,"Japanese lunch spot offering delicious bento boxes with rice, vegetables, and protein.",Japanese food,11:00 AM,9:00 PM,Chicken Teriyaki Bento
+351,Grill & Chill,"American grill offering burgers, steaks, and barbecue ribs.",BBQ food,12:00 PM,11:00 PM,BBQ Ribs
+352,Noodle Nirvana,Japanese noodle shop offering a wide variety of noodle soups and stir-fries.,Japanese food,11:00 AM,9:00 PM,Pad Thai
+353,Cafe de Paris,"Elegant Parisian cafe offering croissants, quiches, and coffee.",French food,7:00 AM,4:00 PM,Quiche Lorraine
+354,The Fish Market,"Seafood restaurant offering fresh fish, shrimp, oysters, and lobster.",Seafood,12:00 PM,9:00 PM,Grilled Salmon
+355,BBQ Town,American BBQ joint known for its slow-cooked meats and smoky sauces.,BBQ food,12:00 PM,11:00 PM,Pulled Pork Sandwich
+356,Spice Route,Indian dinery restaurant offering modern takes on classic Indian dishes.,Indian food,11:00 AM,10:00 PM,Chana Masala
+357,Samba Nights,"Mexican restaurant offering authentic Mexican music, Burritos and Tacos.",Mexican food,11:00 AM,10:00 PM,Cuban Sandwich
+358,La Cantina,"Mexican cantina offering tacos, enchiladas, and specialty margaritas.",Mexican food,11:00 AM,10:00 PM,Enchiladas Verdes
+359,The Sandwich Spot,Casual sandwich shop offering a wide variety of gourmet sandwiches and soups.,Fast food,10:00 AM,9:00 PM,Turkey Club Sandwich
+360,Ramen Express,"Quick-service ramen restaurant offering a variety of broths, toppings, and sides.",Japanese food,11:00 AM,9:00 PM,Miso Ramen
+361,Pizzeria Napoli,Traditional Italian pizzeria known for wood-fired pizzas and fresh ingredients.,Italian food,11:00 AM,10:00 PM,Margherita Pizza
+362,Banh Mi Street,Vietnamese street food spot specializing in crispy baguette sandwiches.,Vietnamese food,10:00 AM,9:00 PM,Banh Mi Thit
+363,The Greenhouse Cafe,"Farm-to-table cafe offering fresh salads, wraps, and smoothies.",Vegan food,7:00 AM,5:00 PM,Avocado Toast
+364,Saffron Grill,Indian restaurant featuring a variety of spiced dishes and grilled meats.,Indian food,11:00 AM,10:00 PM,Chicken Tikka
+365,Caffe Oaxaca,Mexican caffe offering authentic Oaxacan specialties and rich coffee.,Mexican food,9:00 AM,9:00 PM,Mole Negro
+366,The Pasta Kitchen,"Italian restaurant serving hand-made pasta, classic sauces, and wood-fired dishes.",Italian food,12:00 PM,11:00 PM,Fettuccine Alfredo
+367,Taco Loco,"Vibrant Mexican restaurant offering tacos, burritos, and refreshing margaritas.",Mexican food,11:00 AM,10:00 PM,Carne Asada Tacos
+368,Vegan Harvest,"Vegan restaurant offering seasonal dishes made with fresh, local produce.",Vegan food,10:00 AM,8:00 PM,Vegan Burger
+369,Burger Joint,"Casual spot serving gourmet burgers, fries, and milkshakes.",American food,11:00 AM,10:00 PM,Cheeseburger
+370,Curry Station,"Indian restaurant offering a variety of curry dishes, naan, and biryanis.",Indian food,11:00 AM,10:00 PM,Butter Chicken
+371,Seafood Shack,"Seafood restaurant offering oysters, lobster rolls, shrimp cocktails, and more.",Seafood,12:00 PM,9:00 PM,Lobster Roll
+372,Noodle Express,Quick-service spot offering Asian noodle dishes and dim sum.,Chinese food,11:00 AM,9:00 PM,Beef Chow Fun
+373,The Pancake House,"Breakfast spot known for its variety of pancakes, waffles, and egg dishes.",Brunch  & Other food,7:00 AM,3:00 PM,Buttermilk Pancakes
+374,Tandoori Palace,"Authentic Indian tandoori restaurant offering kebabs, naan, and curries.",Indian food,11:00 AM,10:00 PM,Tandoori Chicken
+375,Buns & Brews,Gourmet bakery specializing in freshly baked buns and artisan coffee.,Italian food,7:00 AM,5:00 PM,Cinnamon Roll
+376,Sushi Bar,"Japanese sushi bar serving fresh rolls, sashimi, and nigiri.",Japanese food,11:00 AM,9:00 PM,California Roll
+377,The Ramen Shop,"Japanese ramen restaurant offering a variety of broths, noodles, and toppings.",Japanese food,11:00 AM,9:00 PM,Shoyu Ramen
+378,Bento Delight,"Japanese spot offering an assortment of bento boxes filled with rice, veggies, and proteins.",Japanese food,11:00 AM,9:00 PM,Tempura Bento
+379,Pasta Fresca,"Italian restaurant offering fresh, handmade pasta dishes and regional specialties.",Italian food,12:00 PM,10:00 PM,Lasagna
+380,The Crepe Corner,"French caffe offering savory and sweet crepes, coffee, and pastries.",French food,7:00 AM,5:00 PM,Nutella Crepe
+381,Grill & Co.,"Modern grill house serving steak, burgers, and grilled seafood.",American food,11:00 AM,10:00 PM,Ribeye Steak
+382,The Veggie Spot,Vegan and vegetarian-friendly eatery offering plant-based dishes.,Vegan food,10:00 AM,8:00 PM,Vegan Burrito
+383,Sushi Junction,"Japanese restaurant serving sushi, sashimi, and other traditional Japanese dishes.",Japanese food,11:00 AM,9:00 PM,Tuna Sashimi
+384,Taco Paradise,"Mexican street food-style restaurant offering tacos, quesadillas, and more.",Mexican food,11:00 AM,10:00 PM,Fish Tacos
+385,Bavarian Grill,"Authentic German grill serving sausages, schnitzels, and pretzels.",German food,11:00 AM,9:00 PM,Wiener Schnitzel
+386,Pasta & Vino,"Italian bistro offering pasta, wines, and fresh salads.",Italian food,12:00 PM,10:00 PM,Spaghetti Bolognese
+387,Ramen Riot,Japanese ramen bar offering rich broths and a variety of ramen toppings.,Japanese food,11:00 AM,9:00 PM,Miso Ramen
+388,Flame & Smoke,"BBQ joint offering slow-cooked ribs, pulled pork, and brisket.",BBQ food,11:00 AM,10:00 PM,Beef Brisket
+389,Mediterranean Grill,"Greek and Middle Eastern-inspired grill serving kebabs, falafel, and hummus.",Greek food,11:00 AM,10:00 PM,Shawarma
+390,Bao Bun Street,Chinese street food restaurant offering bao buns with a variety of fillings.,Chinese food,11:00 AM,9:00 PM,Pork Bao
+391,Sushi Zen,Sushi and Japanese cuisine restaurant offering fresh sushi and sashimi.,Japanese food,11:00 AM,9:00 PM,Salmon Nigiri
+392,Burrito Barrio,"Mexican restaurant offering burritos, tacos, and nachos with fresh ingredients.",Mexican food,11:00 AM,10:00 PM,Beef Burrito
+393,Lobster House,Seafood restaurant specializing in lobster dishes and fresh catches.,Seafood,12:00 PM,9:00 PM,Lobster Tail
+394,La Pizzeria,"Italian pizzeria offering thin-crust pizzas, pasta, and Italian wines.",Italian food,11:00 AM,10:00 PM,Quattro Stagioni Pizza
+395,Bento Express,Quick-service Japanese restaurant offering delicious bento boxes and sushi.,Japanese food,11:00 AM,9:00 PM,Chicken Teriyaki Bento
+396,Caffe Patisserie,"French caffe offering a wide range of pastries, coffee, and sandwiches.",French food,7:00 AM,5:00 PM,Croque Monsieur
+397,Curry Kitchen,Indian restaurant specializing in a variety of flavorful curries and rice dishes.,Indian food,11:00 AM,10:00 PM,Lamb Rogan Josh
+398,Poke Bowl Bar,Healthy and fresh poke bowls with customizable toppings and sauces.,Japanese food,11:00 AM,9:00 PM,Ahi Poke Bowl
+399,Souvlaki Street,"Greek restaurant offering souvlaki, gyros, and traditional Mediterranean sides.",Greek food,11:00 AM,10:00 PM,Pork Souvlaki

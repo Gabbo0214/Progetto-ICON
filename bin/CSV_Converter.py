@@ -12,7 +12,7 @@ def createCSVDataset(input_file):
             data = json.load(json_file)
             
             if not isinstance(data, list):
-                raise ValueError("JSON file does not contain a list of entries.")
+                raise ValueError("Il file JSON non contiene una lista di istanze.")
 
             #Definisco i campi basandomi sulle chiavi del primo elemento
             fieldnames = data[0].keys()
@@ -22,12 +22,12 @@ def createCSVDataset(input_file):
                 writer.writeheader()
                 writer.writerows(data)
 
-            print(f"File CSV successfully created: {output_file}")
+            print(f"File CSV creato con successo: {output_file}")
 
     #Possibili exceptions
     except FileNotFoundError:
-        print(f"The file {input_file} was not found.")
+        print(f"Il file {input_file} non è stato trovato.")
     except json.JSONDecodeError:
-        print("Decoding error for JSON file.")
+        print("Errore di codifica del file JSON.")
     except Exception as e:
-        print(f"There was an error: {e}")
+        print(f"Un errore è stato riscontrato: {e}")

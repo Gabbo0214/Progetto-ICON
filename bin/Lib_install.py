@@ -12,10 +12,10 @@ def check_and_install_library(libraries):
         try:
             #Verifico se la libreria è già importabile
             importlib.import_module(library)
-            print(f"Library '{library}' already installed.")
+            print(f"Libreria '{library}' già installata.")
         except ImportError:
             #Se la libreria non è installata, la installo
-            print(f"Library '{library}' not found. Downloading...")
+            print(f"Libreria '{library}' non trovata. Inizio il download...")
             install(library)
 
 #Funzione per leggere il file requirements.txt e ottenere le librerie
@@ -26,7 +26,7 @@ def get_libraries_from_requirements():
             #Aggiungo ogni riga del file come libreria
             libraries = [line.strip() for line in file if line.strip() and not line.startswith('#')]
     except FileNotFoundError:
-        print("File 'requirements.txt' not found.")
+        print("Il file 'requirements.txt' non è presente o non è stato trovato.")
     return libraries
 
 def check_and_install_libraries():

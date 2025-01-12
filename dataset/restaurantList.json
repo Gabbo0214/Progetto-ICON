@@ -30,7 +30,7 @@
         "id": 3,
         "name": "Hungry Bar & Grill",
         "description": "The smokiest, tastiest grilled meat you'll ever have, yee haw!.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "10:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -219,7 +219,7 @@
         "id": 24,
         "name": "Sunny Brunch Café",
         "description": "Enjoy a relaxed and delicious brunch at Sunny Brunch Café, where we focus on fresh, light dishes perfect for a leisurely meal. Our Avocado Toast is a fan favorite, offering a healthy yet indulgent start to your day.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "10:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Avocado Toast"
@@ -237,7 +237,7 @@
         "id": 26,
         "name": "Brunch & Co.",
         "description": "Brunch at its finest, where we serve delightful dishes with a twist. Our Avocado Toast is the perfect blend of health and taste to fuel your morning or afternoon.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "7:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Avocado Toast"
@@ -264,7 +264,7 @@
         "id": 29,
         "name": "Smokey Ribs BBQ",
         "description": "Savor the finest BBQ steaks and ribs in town, with only the freshest, most flavorful meats on the grill. Come indulge in our hearty BBQ meals, like our tender ribs and juicy steaks.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "9:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Avocado Toast"
@@ -399,7 +399,7 @@
         "id": 44,
         "name": "Brunch Heaven",
         "description": "Brunch at Brunch Heaven offers delicious and satisfying dishes for every taste. Our Avocado Toast is the perfect way to start your day, with fresh ingredients and wholesome flavors.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "10:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Avocado Toast"
@@ -453,7 +453,7 @@
         "id": 50,
         "name": "Brunch Spot",
         "description": "Brunch Spot is where you can enjoy a relaxing and flavorful brunch experience. Our Avocado Toast is the perfect light meal to enjoy with a cup of coffee, featuring fresh ingredients for a healthy start to your day.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "8:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Avocado Toast"
@@ -462,7 +462,7 @@
         "id": 51,
         "name": "Sushi & Avocado",
         "description": "A trendy spot offering fresh sushi and healthy avocado-based dishes for brunch. Enjoy a balanced, flavorful meal with the finest ingredients.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "8:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Avocado Toast"
@@ -552,7 +552,7 @@
         "id": 61,
         "name": "Gastronomy & Grace",
         "description": "A refined dining experience where excellent food meets gracious hospitality. Our Avocado Toast is a healthy and flavorful option for brunch.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "7:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Avocado Toast"
@@ -561,7 +561,7 @@
         "id": 62,
         "name": "Classic Café",
         "description": "A beloved café offering classic brunch dishes with a modern twist. Enjoy our Avocado Toast along with your favorite coffee or tea.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "9:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Avocado Toast"
@@ -579,7 +579,7 @@
         "id": 64,
         "name": "Brunch & Co.",
         "description": "A trendy brunch spot that serves fresh, delicious meals. Our Avocado Toast is a customer favorite, perfect for a light and nutritious meal.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "6:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Avocado Toast"
@@ -597,7 +597,7 @@
         "id": 66,
         "name": "Brunch Bistro",
         "description": "A charming bistro serving the best brunch options. Our Avocado Toast is served with a side of fresh fruit and a warm cup of coffee.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "9:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Avocado Toast"
@@ -669,7 +669,7 @@
         "id": 74,
         "name": "Eats & Treats",
         "description": "A cozy spot offering a wide range of comfort foods with impeccable service. Try our Avocado Toast for a light yet satisfying meal.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "9:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Avocado Toast"
@@ -849,7 +849,7 @@
         "id": 94,
         "name": "Brunch Delight",
         "description": "Brunch Delight is your ideal spot for a fresh, healthy brunch. Try our Avocado Toast and enjoy a relaxing morning meal.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "6:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Avocado Toast"
@@ -876,7 +876,7 @@
         "id": 97,
         "name": "Avocado & Toast",
         "description": "Avocado & Toast specializes in healthy brunch options. Our Avocado Toast is the perfect start to your day, loaded with flavor and nutrients.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "6:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Avocado Toast"
@@ -921,7 +921,7 @@
         "id": 102,
         "name": "Sunny Side Cafe",
         "description": "A charming brunch spot offering wholesome, delicious meals with a focus on fresh ingredients. Our Avocado Toast is a crowd favorite, served with a variety of toppings to satisfy every craving. Enjoy a laid-back atmosphere and friendly service!",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "8:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Avocado Toast"
@@ -1011,7 +1011,7 @@
         "id": 112,
         "name": "Green's Brunch Bar",
         "description": "Green’s Brunch Bar is the place to be for a relaxed and delicious start to your day. Our Avocado Toast, topped with fresh ingredients, is the perfect choice for a healthy brunch experience.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "8:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Avocado Toast"
@@ -1056,7 +1056,7 @@
         "id": 117,
         "name": "Belly Brunch",
         "description": "Belly Brunch offers wholesome, delicious meals with a focus on fresh and healthy ingredients. Our Avocado Toast is made to perfection, ideal for a laid-back brunch experience with friends and family.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "10:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Avocado Toast"
@@ -1155,7 +1155,7 @@
         "id": 128,
         "name": "Smoky Oak",
         "description": "A barbecue joint that brings bold flavors and smoky perfection to every dish, from tender meats to freshly grilled sides.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "8:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Grilled Vegetable Platter"
@@ -1191,7 +1191,7 @@
         "id": 132,
         "name": "Brunch & Bloom",
         "description": "A chic brunch spot where fresh, healthy meals are paired with a vibrant atmosphere, designed to refresh your senses and satisfy your cravings.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "8:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Avocado Toast"
@@ -1245,7 +1245,7 @@
         "id": 138,
         "name": "BBQ Legends",
         "description": "Savor the finest cuts of meat and smoky flavors, with a true BBQ experience that captures the spirit of authentic, slow-cooked perfection.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "6:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Beef Wellington"
@@ -1254,7 +1254,7 @@
         "id": 139,
         "name": "Cedar Smokehouse",
         "description": "A restaurant that offers the perfect blend of smoky BBQ flavors and upscale dining, where classic recipes meet culinary creativity.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "8:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Coq au Vin"
@@ -1263,7 +1263,7 @@
         "id": 140,
         "name": "The Morning Spoon",
         "description": "A brunch spot dedicated to serving delicious and fresh dishes, perfect for starting your day with great food and a relaxing atmosphere.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "10:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Avocado Toast"
@@ -1299,7 +1299,7 @@
         "id": 144,
         "name": "Breezy Brunch",
         "description": "A laid-back brunch café where every dish is carefully crafted with fresh ingredients and served with a side of comfort.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "9:00 AM",
         "closing_hour": "11:00 PM",
         "main_dish": "Avocado Toast"
@@ -1326,7 +1326,7 @@
         "id": 147,
         "name": "The Golden Grill",
         "description": "A place where exceptional brunch meets comfort food, offering delicious and nutritious meals in a cozy, friendly environment.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "8:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Avocado Toast"
@@ -1335,7 +1335,7 @@
         "id": 148,
         "name": "The Brasserie Corner",
         "description": "A warm, welcoming brasserie serving wholesome and nutritious meals with a focus on quality ingredients and excellent service.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "7:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Avocado Toast"
@@ -1398,7 +1398,7 @@
         "id": 155,
         "name": "The Smokehouse Grill",
         "description": "Welcome to The Smokehouse Grill, where delicious barbecue is the name of the game. Our specialties include juicy steaks and tender ribs, all cooked to perfection. Join us for a hearty meal in a laid-back and friendly atmosphere.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "8:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Cheeseburger"
@@ -1497,7 +1497,7 @@
         "id": 166,
         "name": "Smoke & Fire BBQ",
         "description": "Experience bold flavors at Smoke & Fire BBQ, where smoky meats and savory sides come together in perfect harmony. Our barbecue is prepared with care, delivering tender, juicy dishes with every bite.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "7:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Beef Wellington"
@@ -1551,7 +1551,7 @@
         "id": 172,
         "name": "Sunrise Café",
         "description": "Sunrise Café is all about giving you a bright start to your day. Our menu features brunch favorites made with wholesome ingredients, perfect for a relaxing morning with friends and family.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "6:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Avocado Toast"
@@ -1560,7 +1560,7 @@
         "id": 173,
         "name": "Morning Spoon",
         "description": "At Morning Spoon, we provide a welcoming atmosphere for brunch lovers. From fresh, creative twists on breakfast classics to healthy options, we offer a menu full of flavor and variety to satisfy every craving.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "7:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Avocado Toast"
@@ -1596,7 +1596,7 @@
         "id": 177,
         "name": "Brunch Haven",
         "description": "At Brunch Haven, we serve the finest ingredients with a twist, crafting dishes that balance classic comfort with fresh, modern flair. Our goal is to create an inviting space for friends and family to enjoy elevated brunch favorites.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "9:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Avocado Toast"
@@ -1641,7 +1641,7 @@
         "id": 182,
         "name": "Smokehouse Grill",
         "description": "A celebration of rich, smoky flavors, Smokehouse Grill specializes in slow-cooked barbecue meats and sides made with love. We aim to provide an unforgettable experience, where every meal is a satisfying adventure.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "7:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Coq au Vin"
@@ -1686,7 +1686,7 @@
         "id": 187,
         "name": "Morning Brew & Brunch",
         "description": "A place where morning meets midday in a delightful fusion of coffee, brunch, and relaxation. We take pride in crafting delicious dishes that bring comfort and joy, made with the finest ingredients.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "6:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Avocado Toast"
@@ -1722,7 +1722,7 @@
         "id": 191,
         "name": "Sweet Roost",
         "description": "Sweet Roost is a modern yet cozy spot for brunch, offering delicious, fresh ingredients in every dish. We focus on providing a warm and welcoming atmosphere where guests can enjoy comfort food made with a twist.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "6:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Avocado Toast"
@@ -1731,7 +1731,7 @@
         "id": 192,
         "name": "Green Plate Café",
         "description": "Offering a variety of healthy and delicious brunch options, Green Plate Café takes pride in serving fresh, seasonal dishes in an eco-friendly and stylish setting. A perfect place to enjoy a wholesome meal with friends and family.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "10:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Avocado Toast"
@@ -1884,7 +1884,7 @@
         "id": 209,
         "name": "The Steakhouse",
         "description": "Premium steakhouse featuring aged beef and classic American sides.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "4:00 PM",
         "closing_hour": "11:00 PM",
         "main_dish": "Ribeye Steak"
@@ -1929,7 +1929,7 @@
         "id": 214,
         "name": "BBQ King",
         "description": "Southern-style barbecue with house-made sauces and traditional sides.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "11:30 AM",
         "closing_hour": "9:30 PM",
         "main_dish": "Smoked Brisket"
@@ -1983,7 +1983,7 @@
         "id": 220,
         "name": "Dim Sum Palace",
         "description": "Traditional Hong Kong-style dim sum served from rolling carts.",
-        "categories": "Dim Sum",
+        "categories": "Chinese food",
         "opening_hour": "9:00 AM",
         "closing_hour": "3:00 PM",
         "main_dish": "Har Gow"
@@ -2010,7 +2010,7 @@
         "id": 223,
         "name": "Ramen Bar",
         "description": "Authentic Japanese ramen with house-made noodles and rich broths.",
-        "categories": "Ramen",
+        "categories": "Japanese food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Miso Ramen"
@@ -2055,7 +2055,7 @@
         "id": 228,
         "name": "Modern Bistro",
         "description": "Contemporary European cuisine with seasonal ingredients and innovative techniques.",
-        "categories": "Modern European",
+        "categories": "Italian food",
         "opening_hour": "5:30 PM",
         "closing_hour": "11:00 PM",
         "main_dish": "Duck Confit"
@@ -2091,7 +2091,7 @@
         "id": 232,
         "name": "Street Food Market",
         "description": "International street food favorites in a modern food hall setting.",
-        "categories": "Street Food",
+        "categories": "Fast food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Global Tacos"
@@ -2145,7 +2145,7 @@
         "id": 238,
         "name": "Soul Food Kitchen",
         "description": "Traditional Southern soul food with family recipes passed down generations.",
-        "categories": "American Food",
+        "categories": "American food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Fried Chicken & Waffles"
@@ -2162,8 +2162,8 @@
     {
         "id": 240,
         "name": "Gastropub",
-        "description": "Elevated pub fare with craft cocktails and local beers.",
-        "categories": "Gastropub",
+        "description": "Elevated fast food local fare with craft cocktails and local beers.",
+        "categories": "Fast food",
         "opening_hour": "4:00 PM",
         "closing_hour": "12:00 AM",
         "main_dish": "Duck Fat Fries"
@@ -2179,9 +2179,9 @@
     },
     {
         "id": 242,
-        "name": "Alpine Lodge",
-        "description": "Swiss and Austrian alpine cuisine in a cozy mountain-style setting.",
-        "categories": "Alpine food",
+        "name": "Italian Lodge",
+        "description": "Italian alpine cuisine in a cozy mountain-style setting.",
+        "categories": "Italian food",
         "opening_hour": "5:00 PM",
         "closing_hour": "10:00 PM",
         "main_dish": "Cheese Fondue"
@@ -2289,7 +2289,7 @@
         "id": 254,
         "name": "Smokehouse BBQ",
         "description": "Texas-style barbecue with house-made rubs and sauces.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "11:00 AM",
         "closing_hour": "9:00 PM",
         "main_dish": "Smoked Brisket"
@@ -2415,7 +2415,7 @@
         "id": 268,
         "name": "Healthy Bowl",
         "description": "Nutritious grain bowls with fresh ingredients and homemade dressings.",
-        "categories": "Health food",
+        "categories": "Vegan food",
         "opening_hour": "8:00 AM",
         "closing_hour": "8:00 PM",
         "main_dish": "Custom Bowl"
@@ -2432,8 +2432,8 @@
     {
         "id": 270,
         "name": "Brew & Bites",
-        "description": "Craft beer pub with elevated bar food.",
-        "categories": "Pub food",
+        "description": "Craft beer pub with elevated, tasty, quick and fast food.",
+        "categories": "Fast food",
         "opening_hour": "3:00 PM",
         "closing_hour": "12:00 AM",
         "main_dish": "Beer Battered Fish"
@@ -2451,7 +2451,7 @@
         "id": 272,
         "name": "Steakhouse Prime",
         "description": "Premium steaks aged in-house and classic sides.",
-        "categories": "Steakhouse",
+        "categories": "BBQ food",
         "opening_hour": "5:00 PM",
         "closing_hour": "11:00 PM",
         "main_dish": "Dry-Aged Ribeye"
@@ -2559,7 +2559,7 @@
         "id": 284,
         "name": "Savannah Smokehouse",
         "description": "Southern-style barbecue joint famous for its smoked ribs and brisket.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Smoked Brisket"
@@ -2847,7 +2847,7 @@
         "id": 316,
         "name": "The Grill House",
         "description": "Sizzling steaks, grilled chicken, and seafood served with sides and sauces.",
-        "categories": "Grill",
+        "categories": "BBQ food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Grilled Ribeye Steak"
@@ -2964,7 +2964,7 @@
         "id": 329,
         "name": "The Waffle House",
         "description": "Sweet and savory waffle house known for its crispy waffles, eggs, and bacon.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "7:00 AM",
         "closing_hour": "3:00 PM",
         "main_dish": "Chicken & Waffles"
@@ -3036,7 +3036,7 @@
         "id": 337,
         "name": "The Pancake House",
         "description": "Cozy diner serving classic pancakes, waffles, and omelets.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "7:00 AM",
         "closing_hour": "3:00 PM",
         "main_dish": "Stack of Pancakes"
@@ -3162,7 +3162,7 @@
         "id": 351,
         "name": "Grill & Chill",
         "description": "American grill offering burgers, steaks, and barbecue ribs.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "12:00 PM",
         "closing_hour": "11:00 PM",
         "main_dish": "BBQ Ribs"
@@ -3198,7 +3198,7 @@
         "id": 355,
         "name": "BBQ Town",
         "description": "American BBQ joint known for its slow-cooked meats and smoky sauces.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "12:00 PM",
         "closing_hour": "11:00 PM",
         "main_dish": "Pulled Pork Sandwich"
@@ -3360,7 +3360,7 @@
         "id": 373,
         "name": "The Pancake House",
         "description": "Breakfast spot known for its variety of pancakes, waffles, and egg dishes.",
-        "categories": "Brunch",
+        "categories": "Brunch  & Other food",
         "opening_hour": "7:00 AM",
         "closing_hour": "3:00 PM",
         "main_dish": "Buttermilk Pancakes"
@@ -3495,7 +3495,7 @@
         "id": 388,
         "name": "Flame & Smoke",
         "description": "BBQ joint offering slow-cooked ribs, pulled pork, and brisket.",
-        "categories": "Barbecue",
+        "categories": "BBQ food",
         "opening_hour": "11:00 AM",
         "closing_hour": "10:00 PM",
         "main_dish": "Beef Brisket"
