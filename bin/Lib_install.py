@@ -1,57 +1,42 @@
 import subprocess
 import sys
-import importlib
-import nltk 
+import pkg_resources
 
-#Funzione per installare una libreria
-def install(package):  
-    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
-
-#Funzione di controllo per installare pacchetti nltk
-def download_if_missing(resource):
+def install(package):
+    """Installa un pacchetto usando pip."""
     try:
-        nltk.data.find(resource)
-    except LookupError:
-        print(f"Installing {resource}...")
-        nltk.download(resource)
+        subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+        print(f"Installazione di '{package}' completata.")
+    except subprocess.CalledProcessError as e:
+        print(f"[❌] Errore durante l'installazione di '{package}': {e}")
+    except OSError as e:
+        print(f"[❌] Errore di sistema durante l'installazione di '{package}': {e}. Assicurati che pip sia installato.")
 
-#Verifico se una libreria è installata, altrimenti la installo
-def check_and_install_library(libraries):   
-    for library in libraries:
-        try:
-            #Verifico se la libreria è già importabile
-            importlib.import_module(library)
-            print(f"Libreria '{library}' già installata.")
-        except ImportError:
-            #Se la libreria non è installata, la installo
-            print(f"Libreria '{library}' non trovata. Inizio il download...")
-            install(library)
-
-#Funzione per leggere il file requirements.txt e ottenere le librerie
-def get_libraries_from_requirements():
-    libraries = []
+def check_and_install_libraries(requirements_file='bin/requirements.txt'):
+    """Controlla e installa le librerie da un file requirements.txt."""
     try:
-        with open('bin/requirements.txt', 'r') as file:
-            #Aggiungo ogni riga del file come libreria
+        with open(requirements_file, 'r') as file:
             libraries = [line.strip() for line in file if line.strip() and not line.startswith('#')]
     except FileNotFoundError:
-        print("Il file 'requirements.txt' non è presente o non è stato trovato.")
-    return libraries
+        print(f"[⚠️] Attenzione: File '{requirements_file}' non trovato. Installazione librerie saltata.")
+        return
 
-def check_and_install_libraries():
-    
-    choice = input ("Vuoi installare le librerie necessarie? ATTENZIONE: senza di esse il programma non funzionerà: ")
-    if choice in ["yes", "y", "Y", "Yes", "Si", "si", "s", "S"]:
-        # Ottieni le librerie dal file requirements.txt
-        libraries = get_libraries_from_requirements()
+    if not libraries:
+        print("[ℹ️] Il file requirements.txt è vuoto. Nessuna libreria da installare.")
+        return
 
-        if libraries:
-            # Chiamata alla funzione per controllare e installare le librerie
-            check_and_install_library(libraries)
+    print("Controllo e installazione delle librerie...\n")
+    for library in libraries:
+        try:
+            pkg_resources.require(library)
+            print(f"Libreria '{library}' già installata (o versione compatibile).")
 
-        #Scarica risorse necessarie per nltk solo se non già presenti
-        download_if_missing('stopwords')
-        download_if_missing('punkt_tab')
-        download_if_missing('wordnet')
-        download_if_missing('omw-1.4') 
-        
+        except pkg_resources.DistributionNotFound:
+            print(f"Libreria '{library}' non trovata. Inizio l'installazione...")
+            install(library)
+        except pkg_resources.VersionConflict as e:
+            print(f"[⚠️] Attenzione: Conflitto di versione per '{library}': {e}. Potrebbe essere necessario aggiornare o specificare una versione.")
+        except Exception as e:
+            print(f"[❌] Errore durante il controllo di '{library}': {e}")
+
+    print("\n[✔️] Controllo e installazione completati.")
