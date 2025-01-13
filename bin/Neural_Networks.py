@@ -12,15 +12,7 @@ restaurants_df = None
 def train_autoencoder(data_path_restaurants='dataset/restaurantList.json',
                       data_path_ratings='dataset/userRatings.json',
                       epochs=50, batch_size=32):
-    """
-    Allena un autoencoder per il sistema di raccomandazione.
-
-    Args:
-        data_path_restaurants (str): Path al file JSON dei ristoranti.
-        data_path_ratings (str): Path al file JSON delle recensioni.
-        epochs (int): Numero di epoche di allenamento.
-        batch_size (int): Dimensione del batch per l'allenamento.
-    """
+    """Allena un autoencoder per il sistema di raccomandazione."""
     global autoencoder, rating_matrix, restaurants_df
 
     try:
@@ -30,37 +22,46 @@ def train_autoencoder(data_path_restaurants='dataset/restaurantList.json',
         print(f"\n[❌] Errore: Uno o entrambi i file non trovati: {data_path_restaurants}, {data_path_ratings}")
         return
 
+    # Trasformazioni di dati per uso dell'encoder
     ratings['restaurant_id'] = ratings['restaurant_id'].astype(int)
     user_ids = ratings['user_id'].astype('category').cat.codes
     restaurant_ids = ratings['restaurant_id'].astype('category').cat.codes
 
+    # Aggiunta di colonne coi dati trasformati
     ratings['user_id_mapped'] = user_ids
     ratings['restaurant_id_mapped'] = restaurant_ids
 
+    # Calcolo del numero di utenti e ristoranti univoci
     num_users = user_ids.nunique()
     num_restaurants = restaurant_ids.nunique()
 
+    # Creo una matrice di dimensioni pari ai valori appena calcolati e la popolo
     rating_matrix = np.zeros((num_users, num_restaurants))
     for row in ratings.itertuples():
         rating_matrix[row.user_id_mapped, row.restaurant_id_mapped] = row.rating
 
+    # Divido in porzione per allenamento e test, 
+    # il seed è impostato a un valore fisso per il testing, ma può essere cambiato
     train_data, test_data = train_test_split(rating_matrix, test_size=0.2, random_state=42)
     
+    # Vettore per memorizzare le preferenze dell'utente
     input_layer = Input(shape=(num_restaurants,))
 
+    # L'autoencoder viene creato a due stati (per en/decoder) con 64 e 32 neuroni e codifica i dati ricevuti in input.
+    # Dopo ciò, imposto l'autoencoder per tipo di ottimizzatore, tipo di perdita e rateo di apprendimento
     encoded = Dense(64, activation='relu')(input_layer)
     encoded = Dense(32, activation='relu')(encoded)
-
     decoded = Dense(64, activation='relu')(encoded)
     decoded = Dense(num_restaurants, activation='linear')(decoded)
-
     autoencoder = Model(input_layer, decoded)
-
     autoencoder.compile(optimizer=Adam(learning_rate=0.001), loss='mean_squared_error')
 
-    train_data_norm = train_data / np.max(train_data)
-    test_data_norm = test_data / np.max(test_data)
+    # Normalizzo i dati contenuti nei set per scalare i valori tra 0 e 1
+    max_rating = np.max(train_data)
+    train_data_norm = train_data / max_rating
+    test_data_norm = test_data / max_rating
 
+    # L'autoencoder viene addestrato per 50 cicli su tutti i dati, mescolandoli ogni volta
     autoencoder.fit(
         train_data_norm,
         train_data_norm,
@@ -71,13 +72,7 @@ def train_autoencoder(data_path_restaurants='dataset/restaurantList.json',
     )
 
 def get_recommendations(user_id, top_n=10):
-    """
-    Genera raccomandazioni per un dato utente.
-
-    Args:
-        user_id (int): ID dell'utente per cui generare le raccomandazioni.
-        top_n (int): Numero di raccomandazioni da restituire.
-    """
+    """Genera raccomandazioni per un dato utente."""
     global autoencoder, rating_matrix, restaurants_df
 
     if autoencoder is None or rating_matrix is None or restaurants_df is None:
@@ -96,6 +91,7 @@ def get_recommendations(user_id, top_n=10):
 
     # Predizione delle valutazioni per tutti i ristoranti.
     predicted_ratings = autoencoder.predict(user_ratings_norm)
+    
     # Ottengo gli ID dei ristoranti raccomandati ordinando le predizioni in ordine decrescente.
     recommended_restaurants_ids = (-predicted_ratings).argsort()[0][:top_n]
 

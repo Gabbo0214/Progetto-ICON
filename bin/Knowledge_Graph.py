@@ -12,8 +12,10 @@ def create_knowledge_graph(restaurant_file, ratings_file):
         print(f"\n[❌] Errore: Uno o entrambi i file non trovati: {restaurant_file}, {ratings_file}")
         return None
 
+    # Grafico non orientato, dove le associazioni sono valide da entrambi i versi
     G = nx.Graph()
 
+    # Aggiunta dei nodi di ristoranti e categorie, con archi che collegano i ristoranti alle categorie
     for _, restaurant in restaurants.iterrows():
         restaurant_node = f"restaurant_{restaurant['id']}"
         G.add_node(restaurant_node, label="restaurant", name=restaurant['name'])
@@ -24,6 +26,7 @@ def create_knowledge_graph(restaurant_file, ratings_file):
             G.add_node(category_node, label="category", name=category)
             G.add_edge(restaurant_node, category_node, relation="is_a")
 
+    #Aggiunta dei nodi utenti e archi degli utenti che rappresentano le valutazioni
     for _, rating in ratings.iterrows():
         user_node = f"user_{rating['user_id']}"
         restaurant_node = f"restaurant_{rating['restaurant_id']}"
@@ -46,16 +49,18 @@ def highly_rated_restaurants(G, min_rating):
         print("\n[❌] Valutazione non valida. Inserisci un numero.")
         return
 
-    print(f"\n[️] Ristoranti con valutazione media >= {min_rating}:")
+    print(f"\n[️🔎 ] Ristoranti con valutazione media >= {min_rating}:")
     restaurant_ratings = {}
 
+    # Creo un dizionario indicizzato dai ristoranti a cui per ogni ristorante aggiungo ogni valutazione
     for u, v, data in G.edges(data=True):
-        if data.get('relation') == 'rated': #Controllo che sia un edge di rating
+        if data.get('relation') == 'rated': 
             restaurant = v if v.startswith("restaurant_") else u
             if restaurant not in restaurant_ratings:
                 restaurant_ratings[restaurant] = []
             restaurant_ratings[restaurant].append(data['weight'])
 
+    # Calcolo la media dei voti dei ristoranti che ne hanno, e stampo quelli con una media sopra il minimo
     for restaurant, ratings in restaurant_ratings.items():
         if ratings:
             avg_rating = sum(ratings) / len(ratings)
@@ -68,15 +73,19 @@ def most_popular_restaurants(G):
     """
     if G is None:
         return
-    print("\n[] Ristoranti più popolari:")
+    
+    print("\n[🌟] Ristoranti più popolari:")
     restaurant_popularity = {}
-
+    
+    # Prendo tutti i nodi ristorante e conto tutti i vicini "utente" che lo hanno recensito
     for node, data in G.nodes(data=True):
         if data.get('label') == 'restaurant':
             restaurant_popularity[node] = len([n for n in G.neighbors(node) if n.startswith("user_")])
 
+    # Ordino i ristoranti ottenuti in ordine decrescente
     sorted_restaurants = sorted(restaurant_popularity.items(), key=lambda x: x[1], reverse=True)
 
+    # Stampo i primi 10
     for restaurant, connections in sorted_restaurants[:10]:
         print(f"- {G.nodes[restaurant]['name']} (Recensioni: {connections})")
 
@@ -86,16 +95,21 @@ def users_who_like_same_category(G, user_id, max_users=15):
     """
     if G is None:
         return
+    
     user_node = f"user_{user_id}"
     if not G.has_node(user_node):
-        print(f"L'utente {user_id} non è presente nel grafo.")
+        print(f"[❌] L'utente {user_id} non è presente nel grafo.")
         return
 
+    # Creo un insieme riempito dalle categorie di tutti i nodi ristoranti vicino all'utente con una valutazione sufficientemente alta
     liked_categories = set()
     for restaurant in G.neighbors(user_node):
         if restaurant.startswith("restaurant_") and G[user_node][restaurant].get('relation') == 'rated' and G[user_node][restaurant].get('weight', 0) >= 3:
             liked_categories.update(n for n in G.neighbors(restaurant) if n.startswith("category_"))
 
+    # Riempio un dizionario con tutti gli utenti diverso da quello che ha effettuato la ricerca,
+    # e che hanno messo una recensione positiva a ristoranti con le categorie apprezzate che 
+    # ho raccolto in precedenza, controllando i vicini delle categorie raccolte e di ogni ristorante in esse.
     similar_users = {}
     for category in liked_categories:
         for restaurant in G.neighbors(category):
@@ -108,9 +122,11 @@ def users_who_like_same_category(G, user_id, max_users=15):
                             similar_users[other_user]['high_ratings'] += 1
                             similar_users[other_user]['common_categories'].add(G.nodes[category]['name'])
 
+    # Ordino gli utenti ottenuti in ordine decrescente
     sorted_users = sorted(similar_users.items(), key=lambda x: x[1]['high_ratings'], reverse=True)
 
-    print(f"\n[] Utenti con gusti simili a te:")
+    # Stampo gli utenti con gusti simili trovati (almeno 1 gusto in comune, massimo 15 utenti)
+    print(f"\n[👥] Utenti con gusti simili a te:")
     found = False
     for user, similarity in sorted_users[:max_users]:
         if similarity['high_ratings'] > 0:
@@ -118,15 +134,14 @@ def users_who_like_same_category(G, user_id, max_users=15):
             found = True
 
     if not found:
-        print("[] Nessun utente trovato con gusti simili.")
+        print("[🍃] Nessun utente trovato con gusti simili.")
 
 def analyze_knowledge_graph(G):
-    """
-    Analizza il grafo di conoscenza e stampa statistiche su di esso.
-    """
+    """Analizza il grafo di conoscenza e stampa statistiche su di esso."""
     if G is None:
         return
 
+    # Assegno i dati del grafo che poi vado a stampare
     num_nodes = G.number_of_nodes()
     num_edges = G.number_of_edges()
     num_restaurants = len([node for node, data in G.nodes(data=True) if data.get('label') == 'restaurant'])
@@ -134,7 +149,7 @@ def analyze_knowledge_graph(G):
     num_users = len([node for node, data in G.nodes(data=True) if data.get('label') == 'user'])
     density = nx.density(G)
 
-    print("\n[] Analisi del Grafo di Conoscenza:")
+    print("\n[🔎] Analisi del Grafo di Conoscenza:")
     print(f"- Numero totale di nodi: {num_nodes}")
     print(f"- Numero di ristoranti: {num_restaurants}")
     print(f"- Numero di categorie: {num_categories}")

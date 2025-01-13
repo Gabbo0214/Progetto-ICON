@@ -39,4 +39,4 @@ def check_and_install_libraries(requirements_file='bin/requirements.txt'):
         except Exception as e:
             print(f"[❌] Errore durante il controllo di '{library}': {e}")
 
-    print("\n[✔️] Controllo e installazione completati.")
+    print("\n[✔️ ] Controllo e installazione completati.")

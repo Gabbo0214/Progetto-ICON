@@ -2,9 +2,8 @@ import csv
 import json
 import os
 
-# Creo il dataset in formato CSV
 def createCSVDataset(input_file):
-    
+    """Converto il dataset da JSON a CSV creando un nuovo file."""
     output_file = os.path.splitext(input_file)[0] + '.csv'
 
     try:
