@@ -1,4 +1,5 @@
 import csv
+from CSV_Converter import createCSVDataset
 from collections import defaultdict
 import math
 import nltk
@@ -44,6 +45,8 @@ def load_data_from_csv(csv_file):
         return data
     except FileNotFoundError:
         print(f"[❌] Errore: File non trovato: {csv_file}")
+        print(f"Tentativo di conversione di file JSON in CSV in corso...")
+        createCSVDataset("dataset/restaurantList.json")
         return None
 
 def prepare_data(data):
@@ -138,7 +141,7 @@ def supervised_learning(csv_file='dataset/restaurantList.csv'):
 
     # Stampo le valutazioni calcolate con la funzione presente sopra
     precision, recall, f1 = evaluate_classifier(data, word_counts, category_counts)
-    print(f"\n[] Valutazione del classificatore:")
+    print(f"\n[🎯] Valutazione del classificatore:")
     print(f"Precisione: {precision * 100:.2f}%")
     print(f"Recall: {recall * 100:.2f}%")
     print(f"F1-score: {f1 * 100:.2f}%")

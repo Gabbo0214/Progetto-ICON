@@ -80,7 +80,6 @@ def main():
                 print(f"\n[🔍] Raccomandazioni per l'utente {user_id}...")
                 print("\n[🧮] Allenamento Autoencoder in corso...")
                 train_autoencoder()
-                print("\n[✔️ ] Autoencoder allenato con successo.")
                 get_recommendations(user_id)
                 print("\n[✔️ ] Raccomandazioni completate.")
             elif choice == "4":

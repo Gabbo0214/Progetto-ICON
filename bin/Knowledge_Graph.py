@@ -1,5 +1,6 @@
 import networkx as nx
 import pandas as pd
+from CSV_Converter import createCSVDataset
 
 def create_knowledge_graph(restaurant_file, ratings_file):
     """
@@ -10,6 +11,9 @@ def create_knowledge_graph(restaurant_file, ratings_file):
         ratings = pd.read_csv(ratings_file)
     except FileNotFoundError:
         print(f"\n[❌] Errore: Uno o entrambi i file non trovati: {restaurant_file}, {ratings_file}")
+        print(f"Tentativo di conversione di file JSON in CSV in corso...")
+        createCSVDataset("dataset/restaurantList.json")
+        createCSVDataset("dataset/userRatings.json")
         return None
 
     # Grafico non orientato, dove le associazioni sono valide da entrambi i versi

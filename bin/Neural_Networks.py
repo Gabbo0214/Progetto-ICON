@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from CSV_Converter import createCSVDataset
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Input, Dense
@@ -9,17 +10,20 @@ autoencoder = None
 rating_matrix = None
 restaurants_df = None
 
-def train_autoencoder(data_path_restaurants='dataset/restaurantList.json',
-                      data_path_ratings='dataset/userRatings.json',
+def train_autoencoder(restaurant_file='dataset/restaurantList.csv',
+                      ratings_file='dataset/userRatings.csv',
                       epochs=50, batch_size=32):
     """Allena un autoencoder per il sistema di raccomandazione."""
     global autoencoder, rating_matrix, restaurants_df
 
     try:
-        restaurants_df = pd.read_json(data_path_restaurants)
-        ratings = pd.read_json(data_path_ratings)
+        restaurants_df = pd.read_csv(restaurant_file)
+        ratings = pd.read_csv(ratings_file)
     except FileNotFoundError:
-        print(f"\n[❌] Errore: Uno o entrambi i file non trovati: {data_path_restaurants}, {data_path_ratings}")
+        print(f"\n[❌] Errore: Uno o entrambi i file non trovati: {restaurant_file}, {ratings_file}")
+        print(f"Tentativo di conversione di file JSON in CSV in corso...")
+        createCSVDataset("dataset/restaurantList.json")
+        createCSVDataset("dataset/userRatings.json")
         return
 
     # Trasformazioni di dati per uso dell'encoder
@@ -70,6 +74,8 @@ def train_autoencoder(data_path_restaurants='dataset/restaurantList.json',
         validation_data=(test_data_norm, test_data_norm),
         shuffle=True
     )
+    
+    print("\n[✔️ ] Autoencoder allenato con successo.")
 
 def get_recommendations(user_id, top_n=10):
     """Genera raccomandazioni per un dato utente."""
